@@ -138,7 +138,7 @@ You should know what a "technology stack" means. There are a multitude of tools 
 1) https://stackshare.io/stacks
 2) https://youtu.be/Sxxw3qtb3_g 
 
-#### Part 6. Video Links 
+#### Part 6. Video Training Links 
 
 1) https://youtu.be/gNmrGZSGK1k
 2) https://youtu.be/bf8L9tQi_MQ
