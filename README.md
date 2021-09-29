@@ -133,7 +133,7 @@ You must understand the request / response cycle in client-server applications. 
 
 #### Part 5. Tech Stacks
 
-You should know what a "technology stack" means. There are a multitude of tools available to construct client server software. This can be beneficial but also cause confusion, especially for beginners:
+You should know what a "technology stack" means. There are a multitude of tools available to construct client-server software. This can be beneficial but also cause confusion, especially for beginners:
 
 1) https://stackshare.io/stacks
 2) https://youtu.be/Sxxw3qtb3_g 
