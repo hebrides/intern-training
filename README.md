@@ -148,6 +148,7 @@ You show know about A Records, MX Records, and other DNS records. You should und
 
 1) https://youtu.be/dE4rsNuG0aw
 2) https://youtu.be/By7N3nuQc7w
+3) https://www.youtube.com/watch?v=NijONS9gMZ0
 
 Cloudflare provides valuable DNS services free for web application developers:
 1) https://www.cloudflare.com/dns/
