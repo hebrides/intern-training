@@ -74,12 +74,13 @@ You must grasp common professional software development design patterns.
 
 You must understand HTML, CSS, & JavaScript. 
 
-README: Web browsers interpret three _frontend_ languages to display and manipulate client application data: HTML, CSS, and JavaScript. _HTML_ describes the client's layout structure and meta-data (used by search engines). _CSS_ styles and animates HTML elements. _JavaScript_ creates complex interactivity by manipulating HTML & CSS and accessing special browser APIs. A web developer can do many cool things on the client with HTML, CSS, & JavaScript. Let imagination be your only limit.
+README: Web browsers interpret three _frontend_ languages to display and manipulate client application data: HTML, CSS, and JavaScript. _HTML_ describes the client's layout structure and meta-data (used by search engines). _CSS_ styles and animates HTML elements. _JavaScript_ creates complex interactivity by manipulating HTML & CSS and accessing special browser APIs. A web developer can do many cool things on the client with HTML, CSS, & JavaScript. Strive to improve your proficiency in all three.
 
-1) https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML
-2) https://www.w3schools.com/html/default.asp
-3) https://www.w3schools.com/js/default.asp
-4) https://www.w3schools.com/css/default.asp
+1) https://www.freecodecamp.org/news/a-practical-guide-to-learning-front-end-development-for-beginners-da6516505e41/
+2) https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML
+3) https://www.w3schools.com/html/default.asp
+4) https://www.w3schools.com/js/default.asp
+5) https://www.w3schools.com/css/default.asp
 
 README: Technically, the client part of a web app can be written in HTML, _without CSS, or JavaScript_, however, doing so severely constrains the application's user experience. Try this out if you're having trouble grasping fundamentals.
 
