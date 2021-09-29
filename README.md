@@ -49,7 +49,7 @@ You must understand the basic security strategies used for encrypting data for n
 
 ### D. Web Programming / Env / App Structures / Laravel / NodeJS / Testing
 
-You must become profecient with an array of skills to be able to build and deploy client-server software.
+You must become proficient with an array of skills to be able to build and deploy client-server software.
 
 1) https://medium.com/swlh/my-software-engineer-roadmap-2fb0c02b8a08
 
@@ -74,7 +74,7 @@ You must grasp common professional software development design patterns.
 
 You must understand HTML, CSS, & JavaScript. 
 
-README: Web browsers interpret three _frontend_ languages to display and manipulate client application data: HTML, CSS, and JavaScript. _HTML_ describes the client's layout structure and meta-data (used by search engines). _CSS_ styles and animates HTML elements. _JavaScript_ create complex user interactions by manipulating HTML & CSS and accessesing special browser APIs. A web developer can do many cool things on the client with HTML, CSS, & JavaScript. Imagination is the only limit. Technically, the client part of a web app could be written in HTML only, but doing so would impose severe limitations on user experience.
+README: Web browsers interpret three _frontend_ languages to display and manipulate client application data: HTML, CSS, and JavaScript. _HTML_ describes the client's layout structure and meta-data (used by search engines). _CSS_ styles and animates HTML elements. _JavaScript_ create complex user interactions by manipulating HTML & CSS and accessing special browser APIs. A web developer can do many cool things on the client with HTML, CSS, & JavaScript. Imagination is the only limit. Technically, the client part of a web app could be written in HTML only, but doing so would impose severe limitations on user experience.
 
 1) https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML
 2) https://www.w3schools.com/html/default.asp
@@ -87,7 +87,7 @@ README: Frameworks, in general, are software tools developers use to reduce deve
 
 README: Some popular _frontend (client)_ frameworks include [React](https://youtu.be/Dorf8i6lCuk) / [NextJS](https://youtu.be/1WmNXEVia8I), [Vue](https://www.youtube.com/watch?v=qZXt1Aom3Cs) / [Nuxt](https://nuxtjs.org), [Svelte](https://svelte.dev) / [SvelteKit](https://youtu.be/UU7MgYIbtAk), and Angular. The unique syntax of a web client framework, no matter how idiosyncratic, _always compiles_ to HTML, CSS and JavaScript.
 
-README: Some programs, including [Cordova](https://cordova.apache.org) (commercially implementated as Capacitor & Ionic) and [Electron](https://www.electronjs.org), allow developers to bundle web applications as native apps that can run outside of the browser. (Both run the app in a hidden, mini-browser.) [VSCode]((https://www.electronjs.org/apps/visual-studio-code)) is a popular "web app" built using Electron.
+README: Some programs, including [Cordova](https://cordova.apache.org) (commercially implemented as Capacitor & Ionic) and [Electron](https://www.electronjs.org), allow developers to bundle web applications as native apps that can run outside of the browser. (Both run the app in a hidden, mini-browser.) [VSCode]((https://www.electronjs.org/apps/visual-studio-code)) is a popular "web app" built using Electron.
 
 README: Other languages are used to make client apps, including React-Native, Dart/Flutter, Swift, Objective C, Java, C, C++, C#, Godot Script, Lua, Unity / C#, and many others. These languages compile code to native binary or byte-code executables.
 
@@ -180,7 +180,7 @@ README: You find the scripts and programs you want for DevOps hosted online at d
 
 You should understand the purpose of automating security tools to test your software against exploits and hacks.
 
-README: For development security ops, e.g., you will use devops tools to spin up and test an application’s full server structure (all the VMs and containers) on your home PC (a machine with 32-64GB ram would be ideal for this, min. 16GB ram).
+README: For development security ops, e.g., you will use DevOps tools to spin up and test an application’s full server structure (all the VMs and containers) on your home PC (a machine with 32-64GB ram would be ideal for this, min. 16GB ram).
 
 1) https://youtu.be/ng1bvXsp9ZA
 2) https://cybersguards.com/list-of-hacking-tools/
