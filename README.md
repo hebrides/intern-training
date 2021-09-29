@@ -70,9 +70,6 @@ You must grasp common professional software development design patterns.
 4) https://youtu.be/a5JWrd7Y_14
 5) http://aroma.vn/web/wp-content/uploads/2016/11/code-complete-2nd-edition-v413hav.pdf 
 
-You should know what a tech stack means:
-
-1) https://youtu.be/Sxxw3qtb3_g
 
 #### Part 1. Web Client Software
 
@@ -132,6 +129,14 @@ You must understand the request / response cycle in client-server applications. 
 9) Use the term API to refer to a library, function, script, or remote app that accepts requests (inputs), and sends responses (outputs): https://free-apis.github.io/#/ 
 10) Use a CDN: https://www.cloudflare.com/learning/cdn/what-is-a-cdn/
 
+#### Note
+
+You should know what a "technology stack" means, and how the many tools available to construct client server software can be beneficial but also cause confusion:
+
+1) https://stackshare.io/stacks
+2) https://youtu.be/Sxxw3qtb3_g 
+
+
 #### Part 5. Video Links 
 
 1) https://youtu.be/gNmrGZSGK1k
@@ -145,7 +150,6 @@ You must understand the request / response cycle in client-server applications. 
 9) https://youtu.be/UU7MgYIbtAk
 10) https://youtu.be/ytsWZlpyoSU
 11) https://youtu.be/cuHDQhDhvPE
-
 
 ### E. DNS
 
