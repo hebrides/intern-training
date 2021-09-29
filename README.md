@@ -106,9 +106,9 @@ README: Some popular _frontend (client)_ frameworks include [React](https://yout
 
 1) https://www.youtube.com/watch?v=cuHDQhDhvPE
 
-README: [TypeScript](https://youtu.be/eCZhz0JCVx0) is a popular JavaScript-compatible language designed to make it easier to debug web client software written in JavaScript TypeScript compiles to browser-readable JavaScript.
+README: [TypeScript](https://youtu.be/eCZhz0JCVx0) is a popular JavaScript-compatible language that is designed to make it easier to debug web client software written in JavaScript. TypeScript compiles to browser-readable JavaScript.
 
-README: [Sass](https://youtu.be/APM1mcKbK7o) is a CSS-compatible language designed to make to easier to write and maintain CSS styling code.
+README: [Sass](https://youtu.be/APM1mcKbK7o) is a CSS-compatible language designed to make to easier to write and maintain CSS styling code. Sass compiles to browser-readable CSS.
 
 README: Some programs, including [Cordova](https://cordova.apache.org) (commercially implemented as Capacitor & Ionic) and [Electron](https://www.electronjs.org), allow developers to bundle web applications as native apps that can run outside of the browser. (They run the app in a hidden, mini-browser.) [VSCode]((https://www.electronjs.org/apps/visual-studio-code)) is a popular "web app" built using Electron.
 
