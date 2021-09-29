@@ -86,7 +86,7 @@ README: Technically, the client part of a web app can be written in HTML, _witho
 
 README: Web developers usually master one web client _framework_, so should you. 
 
-README: Frameworks, in general, are software tools developers use to reduce development time, make teamwork easier and improve source maintainability. Frameworks simplify code structures and separate concerns. 
+README: Frameworks, in general, are software tools developers use to reduce development time. Frameworks simplify code structures and separate concerns, making teamwork easier and improving source maintainability.  
 
 README: Some popular _frontend (client)_ frameworks include [React](https://youtu.be/Dorf8i6lCuk) / [NextJS](https://youtu.be/1WmNXEVia8I), [Vue](https://www.youtube.com/watch?v=qZXt1Aom3Cs) / [Nuxt](https://nuxtjs.org), [Svelte](https://svelte.dev) / [SvelteKit](https://youtu.be/UU7MgYIbtAk), and Angular. The unique syntax of a web client framework, no matter how idiosyncratic, _always compiles_ to HTML, CSS and JavaScript.
 
