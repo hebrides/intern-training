@@ -55,7 +55,7 @@ You must become proficient with an array of skills to be able to build and deplo
 
 ### Programming fundamentals
 
-You must grasp programming fundamentals and be able to implement ideas using a programming language of your choice.
+You must master programming fundamentals to be able to efficiently implement ideas using programming languages, software design patterns, and software development tools (like (IDEs)[https://www.codecademy.com/articles/what-is-an-ide], [VCSs](https://youtu.be/UZMmpav62rY), and debugging tools).
 1) https://youtu.be/quW5dAGpXiU
 2) https://youtu.be/Us4LwTjWFaY
 3) https://youtu.be/7oS1i-IWp1Q
@@ -69,6 +69,19 @@ You must grasp common professional software development design patterns.
 3) https://youtu.be/IRxOTkFduT8 
 4) https://youtu.be/a5JWrd7Y_14
 5) http://aroma.vn/web/wp-content/uploads/2016/11/code-complete-2nd-edition-v413hav.pdf 
+
+### IDEs, Version Control Systems, & Debugging Tools
+
+You must understand how to use Interactive Development Environments (IDEs), Version Control Systems (VCSs), and Debugging Tools.
+
+1) https://www.codecademy.com/articles/what-is-an-ide
+2) https://youtu.be/W2V-TjHV5SM
+3) https://youtu.be/UZMmpav62rY
+4) https://youtu.be/USjZcfj8yxE
+5) https://youtu.be/RGOj5yH7evk
+6) https://youtu.be/ilZnwY-gYcI
+7) https://youtu.be/ZtHqwzslcYA
+8) https://youtu.be/llx5djJmXXw
 
 
 #### Part 1. Web Client Software
