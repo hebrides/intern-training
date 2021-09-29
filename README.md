@@ -74,7 +74,7 @@ You must grasp common professional software development design patterns
 
 You must understand HTML, CSS, & JavaScript. 
 
-README: Web browsers interpret three _frontend_ languages to display and manipulate client application data: HTML, CSS, and JavaScript. _HTML_ describes the client's layout structure and meta-data (used by search engines). _CSS_ styles and animates HTML elements. _JavaScript_ create complex user interactions by manipulating HTML & CSS and accessesing special browser APIs. A web developer can do many cool things on the client with HTML, CSS, & JavaScript. Imagination is the only limit. Technically, the client part of a web app could be written in HTML only, but doing so would not create be an ideal user experience.
+README: Web browsers interpret three _frontend_ languages to display and manipulate client application data: HTML, CSS, and JavaScript. _HTML_ describes the client's layout structure and meta-data (used by search engines). _CSS_ styles and animates HTML elements. _JavaScript_ create complex user interactions by manipulating HTML & CSS and accessesing special browser APIs. A web developer can do many cool things on the client with HTML, CSS, & JavaScript. Imagination is the only limit. Technically, the client part of a web app could be written in HTML only, but doing so would impose severe limitations on user experience.
 
 1) https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML
 2) https://www.w3schools.com/html/default.asp
