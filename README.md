@@ -25,7 +25,7 @@ You must master the command line to become a proficient contributor to a softwar
 
 ### B. TCP - FTP - HTTP - Client - Server API - CRUD - MySQL
 
-You must understand how network protocols work to encode information for routing requests from clients to servers and responses from servers to clients.
+You must understand how network protocols work to encode information for routing requests from clients to servers, and responses from servers to clients.
 
 1) https://youtu.be/6sUbt-Qp6Pg
 2) https://youtu.be/7YcW25PHnAA
