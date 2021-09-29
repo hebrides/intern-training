@@ -62,7 +62,7 @@ You must grasp programming fundamentals and be able to implement ideas using a p
 
 ### Software Design Patterns
 
-You must grasp common professional software development design patterns
+You must grasp common professional software development design patterns.
 
 1) https://eakansh.hashnode.dev/design-patterns-for-software-design-and-development
 2) https://youtu.be/hQE8lQk9ikE
@@ -83,9 +83,9 @@ README: Web browsers interpret three _frontend_ languages to display and manipul
 
 README: Web developers usually master one web client _framework_, so should you. 
 
-Frameworks, in general, are software tools developers use to reduce development time, make teamwork easier and improve source maintainability. Frameworks simplify code structures and separate concerns. 
+README: Frameworks, in general, are software tools developers use to reduce development time, make teamwork easier and improve source maintainability. Frameworks simplify code structures and separate concerns. 
 
-Some popular _frontend (client)_ frameworks include [React](https://youtu.be/Dorf8i6lCuk) / [NextJS](https://youtu.be/1WmNXEVia8I), [Vue](https://www.youtube.com/watch?v=qZXt1Aom3Cs) / [Nuxt](https://nuxtjs.org), [Svelte](https://svelte.dev) / [SvelteKit](https://youtu.be/UU7MgYIbtAk), and Angular. The unique syntax of a web client framework, no matter how idiosyncratic, _always compiles_ to HTML, CSS and JavaScript.
+README: Some popular _frontend (client)_ frameworks include [React](https://youtu.be/Dorf8i6lCuk) / [NextJS](https://youtu.be/1WmNXEVia8I), [Vue](https://www.youtube.com/watch?v=qZXt1Aom3Cs) / [Nuxt](https://nuxtjs.org), [Svelte](https://svelte.dev) / [SvelteKit](https://youtu.be/UU7MgYIbtAk), and Angular. The unique syntax of a web client framework, no matter how idiosyncratic, _always compiles_ to HTML, CSS and JavaScript.
 
 README: Some programs, including [Cordova](https://cordova.apache.org) (commercially implementated as Capacitor & Ionic) and [Electron](https://www.electronjs.org), allow developers to bundle web applications as native apps that can run outside of the browser. (Both run the app in a hidden, mini-browser.) [VSCode]((https://www.electronjs.org/apps/visual-studio-code)) is a popular "web app" built using Electron.
 
