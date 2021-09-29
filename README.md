@@ -81,7 +81,11 @@ README: Web browsers interpret three _frontend_ languages to display and manipul
 3) https://www.w3schools.com/js/default.asp
 4) https://www.w3schools.com/css/default.asp
 
-README: Web developers usually master one web client _framework_, so should you. Frameworks, in general, are software tools developers use to reduce development time, make teamwork easier and improve source maintainability. Frameworks simplify code structures and separate concerns. Some popular _frontend (client)_ frameworks include React / NextJS, Vue / Nuxt, Svelte / SvelteKit, and Angular. The unique syntax of a web client framework, no matter how idiosyncratic, _always compiles_ to HTML, CSS and JavaScript for the web browser to interpret.
+README: Web developers usually master one web client _framework_, so should you. 
+
+Frameworks, in general, are software tools developers use to reduce development time, make teamwork easier and improve source maintainability. Frameworks simplify code structures and separate concerns. 
+
+Some popular _frontend (client)_ frameworks include [React](https://youtu.be/Dorf8i6lCuk) / [NextJS](https://youtu.be/1WmNXEVia8I), [Vue](https://www.youtube.com/watch?v=qZXt1Aom3Cs) / [Nuxt](https://nuxtjs.org), [Svelte](https://svelte.dev) / [SvelteKit](https://youtu.be/UU7MgYIbtAk), and Angular. The unique syntax of a web client framework, no matter how idiosyncratic, _always compiles_ to HTML, CSS and JavaScript.
 
 README: Some programs, including [Cordova](https://cordova.apache.org) (commercially implementated as Capacitor & Ionic) and [Electron](https://www.electronjs.org), allow developers to bundle web applications as native apps that can run outside of the browser. (Both run the app in a hidden, mini-browser.) [VSCode]((https://www.electronjs.org/apps/visual-studio-code)) is a popular "web app" built using Electron.
 
@@ -123,14 +127,17 @@ You must understand the request / response cycle in client-server applications. 
 
 #### Part 5. Video Links 
 
-1) https://youtu.be/txGL-Ld9zD8
-2) https://youtu.be/BcuktRvUe0Q
-3) https://youtu.be/NMTEfaPEYB8
-4) https://youtu.be/vrj9AohVhPA
+1) https://youtu.be/gNmrGZSGK1k
+2) https://youtu.be/bf8L9tQi_MQ
+3) https://youtu.be/vrj9AohVhPA
+4) https://youtu.be/Dorf8i6lCuk
 5) https://youtu.be/GU-2T7k9NfI
-6) https://youtu.be/bf8L9tQi_MQ
-7) https://youtu.be/ytsWZlpyoSU
-8) https://youtu.be/gNmrGZSGK1k
+6) https://youtu.be/BcuktRvUe0Q
+7) https://youtu.be/txGL-Ld9zD8
+8) https://youtu.be/NMTEfaPEYB8
+9) https://youtu.be/UU7MgYIbtAk
+10) https://youtu.be/ytsWZlpyoSU
+
 
 ### E. DNS
 
