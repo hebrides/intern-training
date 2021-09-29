@@ -1,6 +1,6 @@
 ## Zero to Hero - SMG Mobile's Intern Training Guide
 
-Watch the below videos and complete the exercises within, in order, to start your way to becoming an _amazing web developer_. Note, you will not find algorithms or math problems here. Great developers are craftspersons who enjoy _making things_. 
+Watch the below videos and complete the exercises within, in order, to start your way to becoming an _amazing web developer_. Note, you will not find complex algorithmic puzzles or tricky math problems here. Great developers are craftspersons who enjoy _making things_.
 
 ### A. Command Line / Bash
 
