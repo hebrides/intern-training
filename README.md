@@ -96,7 +96,7 @@ README: Other languages are used to make client apps, including [React-Native](h
 
 #### Part 2. Web Server Software 
 
-You must understand how to use at least one server side language.
+You must understand how to use at least one server-side language.
 
 README: Developers use multiple _backend_ languages to handle server-side operations, including, but not limited to PHP, JavaScript (known as "NodeJS" on the backend), C#, Python, C++, Rust, Java, Erlang, Bash, and others:
 
