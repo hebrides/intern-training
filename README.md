@@ -129,15 +129,15 @@ You must understand the request / response cycle in client-server applications. 
 9) Use the term API to refer to a library, function, script, or remote app that accepts requests (inputs), and sends responses (outputs): https://free-apis.github.io/#/ 
 10) Use a CDN: https://www.cloudflare.com/learning/cdn/what-is-a-cdn/
 
-#### Note
+#### Part 5. Tech Stacks
 
-You should know what a "technology stack" means, and how the many tools available to construct client server software can be beneficial but also cause confusion:
+You should know what a "technology stack" means. There are a multitude of tools available to construct client server software. This can be beneficial but also cause confusion, especially for beginners:
 
 1) https://stackshare.io/stacks
 2) https://youtu.be/Sxxw3qtb3_g 
 
 
-#### Part 5. Video Links 
+#### Part 6. Video Links 
 
 1) https://youtu.be/gNmrGZSGK1k
 2) https://youtu.be/bf8L9tQi_MQ
