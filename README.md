@@ -107,7 +107,7 @@ README: Developers use multiple _backend_ languages to handle server-side operat
 
 README: Some web development frameworks handle the _full stack_, web client and server, with one primary language, e.g., [Meteor](https://www.meteor.com/#!) (JS), [Django](https://www.djangoproject.com) (Python), and [Laravel](https://laravel.com) (PHP); these can optionally be used with "frontend only" helper frameworks, like the ones listed above, to make the client part of development easier.
 
-README: Software developers, no matter what language they're using, take advantage of libraries of pre-built code to speed things up. Web developers use special libraries for JavaScript known as "packages". Packages can be downloaded from one of two popular package repositories, [npm](https://www.npmjs.com) and [yarn](https://yarnpkg.com) (using the eponymous command line tools, `npm install` and `yarn install`). Note: Developers also add pre-built JavaScript libraries directly using special HTML links and JavaScript includes.
+README: Software developers, no matter what language they're using, take advantage of libraries of prebuilt code to speed things up. Web developers use special libraries for JavaScript known as "packages". Packages can be downloaded from one of two popular package repositories, [npm](https://www.npmjs.com) and [yarn](https://yarnpkg.com) (using the eponymous command line tools, `npm install` and `yarn install`). Note: Developers also add prebuilt JavaScript libraries directly using special HTML links and JavaScript includes.
 
 #### Part 3. Web Software Tests
 
@@ -167,13 +167,13 @@ Cloudflare provides valuable DNS services free for web application developers:
 You should become proficient in DevOps.
 
 README: DevOps in practice means utilizing two main skills to automate tasks: 
-1) Writing scripts to set up virtual machines (VMs) with the operating systems, databases and programs you want pre installed and configured. 
+1) Writing scripts to set up virtual machines (VMs) with the operating systems, databases and programs you want preinstalled and configured. 
 2) Writing scripts to automate CICD (Continuous Integration / Deployment): This is automating the hosting of new versions of your app / game / tool via scripts that talk to your Github (or self-hosted) repo and your servers.
 
 README: You find the scripts and programs you want for DevOps hosted online at different “hubs”, e.g.:
 
 1) Ansible (set up programs on existing servers): https://galaxy.ansible.com/search?deprecated=false&keywords=penetration%20&order_by=-relevance&page=1
-2) Vagrant (set up pre-configured servers / VMs): https://app.vagrantup.com/boxes/search?utf8=✓&sort=downloads&provider=&q=kali
+2) Vagrant (set up preconfigured servers / VMs): https://app.vagrantup.com/boxes/search?utf8=✓&sort=downloads&provider=&q=kali
 3) Docker (set up “containers“ - OSs and programs running inside their own little VMs): https://hub.docker.com/search?q=kali&type=image ; https://kubernetes.io/docs/concepts/containers/
 
 #### DevOps Videos & Links
