@@ -84,7 +84,7 @@ README: Web browsers interpret three _frontend_ languages to display and manipul
 
 README: Technically, the client part of a web app can be written in HTML, _without CSS, or JavaScript_; however, doing so severely constrains the application's user experience. Try this out to help yourself only if you're having trouble grasping fundamentals.
 
-README: Web developers usually master one web client _framework_, so should you. 
+README: Web developers usually master at least one web client _framework_, so should you. 
 
 README: Frameworks, in general, are software tools developers use to reduce development time. Frameworks simplify code structures and separate concerns, making teamwork easier and improving source maintainability.  
 
