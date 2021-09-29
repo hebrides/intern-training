@@ -82,7 +82,7 @@ README: Web browsers interpret three _frontend_ languages to display and manipul
 4) https://www.w3schools.com/js/default.asp
 5) https://www.w3schools.com/css/default.asp
 
-README: Technically, the client part of a web app can be written in HTML, _without CSS, or JavaScript_, however, doing so severely constrains the application's user experience. Try this out if you're having trouble grasping fundamentals.
+README: Technically, the client part of a web app can be written in HTML, _without CSS, or JavaScript_; however, doing so severely constrains the application's user experience. Try this out to help yourself only if you're having trouble grasping fundamentals.
 
 README: Web developers usually master one web client _framework_, so should you. 
 
