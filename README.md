@@ -87,7 +87,7 @@ README: Frameworks, in general, are software tools developers use to reduce deve
 
 README: Some popular _frontend (client)_ frameworks include [React](https://youtu.be/Dorf8i6lCuk) / [NextJS](https://youtu.be/1WmNXEVia8I), [Vue](https://www.youtube.com/watch?v=qZXt1Aom3Cs) / [Nuxt](https://nuxtjs.org), [Svelte](https://svelte.dev) / [SvelteKit](https://youtu.be/UU7MgYIbtAk), and Angular. The unique syntax of a web client framework, no matter how idiosyncratic, _always compiles_ to HTML, CSS and JavaScript.
 
-README: Some programs, including [Cordova](https://cordova.apache.org) (commercially implemented as Capacitor & Ionic) and [Electron](https://www.electronjs.org), allow developers to bundle web applications as native apps that can run outside of the browser. (Both run the app in a hidden, mini-browser.) [VSCode]((https://www.electronjs.org/apps/visual-studio-code)) is a popular "web app" built using Electron.
+README: Some programs, including [Cordova](https://cordova.apache.org) (commercially implemented as Capacitor & Ionic) and [Electron](https://www.electronjs.org), allow developers to bundle web applications as native apps that can run outside of the browser. (They run the app in a hidden, mini-browser.) [VSCode]((https://www.electronjs.org/apps/visual-studio-code)) is a popular "web app" built using Electron.
 
 README: Other languages are used to make client apps, including React-Native, Dart/Flutter, Swift, Objective C, Java, C, C++, C#, Godot Script, Lua, Unity / C#, and many others. These languages compile code to native binary or byte-code executables.
 
