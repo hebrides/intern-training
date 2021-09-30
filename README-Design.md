@@ -9,6 +9,11 @@ B. You must be profient in design and mock up tools
 1) https://www.figma.com
 2) https://shuffle.dev
 
+#### Using Templates & Prebuilt Art
+
+https://www.freepik.com/
+
+
 ### UX Designer
 
 A. You must have basic user interface design skills, and understand what interfaces work best for a given set of user input requirements.
