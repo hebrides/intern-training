@@ -83,6 +83,8 @@ You must understand how to use IDEs, VCSs, and Debugging Tools.
 7) https://youtu.be/ZtHqwzslcYA
 8) https://youtu.be/llx5djJmXXw
 9) https://youtu.be/AnTX2mtOl9Q
+10) https://semver.org
+11) https://www.freshconsulting.com/insights/blog/atomic-commits/
 
 ### Linting
 
