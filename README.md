@@ -46,8 +46,9 @@ You must understand how network protocols work to encode information for routing
 8) https://youtu.be/GrNrcmD6HLA
 9) https://youtu.be/wJa5CTIFj7U
 10) https://youtu.be/cA9ZJdqzOoU
-11) https://youtu.be/8ARodQ4Wlf4
-12) https://youtu.be/yBB2VKG1_X4
+11) https://youtu.be/yBB2VKG1_X4
+12) https://youtu.be/8ARodQ4Wlf4
+
 
 ### C. Key Security & Hashing
 
