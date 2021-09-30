@@ -55,7 +55,7 @@ You must become proficient with an array of skills to be able to build and deplo
 
 ### Programming fundamentals
 
-You must master programming fundamentals to be able to efficiently implement ideas in code using software design patterns and software development tools (like [IDEs](https://www.codecademy.com/articles/what-is-an-ide), [VCSs](https://youtu.be/UZMmpav62rY), as well as formatting and debugging tools).
+You must master programming fundamentals to be able to efficiently implement ideas in code using software design patterns and software development tools (like [IDEs](https://www.codecademy.com/articles/what-is-an-ide), [VCSs](https://youtu.be/UZMmpav62rY), formatting and debugging tools).
 1) https://youtu.be/quW5dAGpXiU
 2) https://youtu.be/Us4LwTjWFaY
 3) https://youtu.be/7oS1i-IWp1Q
