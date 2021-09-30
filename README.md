@@ -1,4 +1,4 @@
-## Zero to Hero - SMG Mobile's Web Developer Intern Training Guide
+## Zero to Hero - SMG Mobile's Web Application Developer Intern Training Guide
 
 Watch the below videos and complete the exercises within, in order, to start your way to becoming an _amazing web developer_. Note, you will not find complex algorithmic puzzles or tricky math problems here. Great developers are craftspersons who enjoy _making things_.
 
