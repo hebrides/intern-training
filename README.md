@@ -27,7 +27,7 @@ You must master the command line to become a proficient contributor to a softwar
 
 ### Client-Server Model
 
-You must understand the client-server model for web application design.
+You must understand the client-server model of web application design.
 
 1) https://www.omnisci.com/technical-glossary/client-server
 2) https://youtu.be/pGGDdKZvYpI
