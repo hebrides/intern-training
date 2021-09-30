@@ -177,6 +177,7 @@ You should know what a "technology stack" means. There are a multitude of tools 
 10) https://youtu.be/UU7MgYIbtAk
 11) https://youtu.be/ytsWZlpyoSU
 12) https://youtu.be/eCZhz0JCVx0
+13) https://youtu.be/NmwtF0fAUfI
 
 ### E. DNS
 
@@ -245,5 +246,6 @@ You must have basic user interface design skills, and understand what interfaces
 2) https://www.w3schools.com/html/html_blocks.asp
 3) https://www.justinmind.com/blog/navigation-design-almost-everything-you-need-to-know/
 4) Manufacturer standards: https://developer.apple.com/design/human-interface-guidelines/
-5) Design innovation: https://www.awwwards.com
-6) Design inspiration: https://tympanus.net/codrops/
+5) Dashboards: https://pixinvent.com/demo/vuexy-vuejs-laravel-admin-template/demo-1/dashboard/ecommerce
+6) Design innovation: https://www.awwwards.com
+7) Design inspiration: https://tympanus.net/codrops/
