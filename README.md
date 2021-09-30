@@ -49,7 +49,7 @@ You must understand the basic security strategies used for encrypting data for n
 
 ### D. Web Programming / Env / App Structures / Laravel / NodeJS / Testing
 
-You must become proficient with an array of skills to be able to build and deploy client-server software. 
+You must become proficient, over time, with an array of skills to be able to build and deploy client-server software. 
 
 1) https://medium.com/swlh/my-software-engineer-roadmap-2fb0c02b8a08
 
@@ -93,6 +93,13 @@ You must understand how to use automated code checking and styling (a.k.a. linti
 1) https://stackoverflow.com/questions/8503559/what-is-linting#8503586
 2) https://youtu.be/St1YSNoB36Y
 3) https://github.com/airbnb/javascript
+
+### Client-Server Model
+
+You must understand the client-server model for web application design.
+
+1) https://www.omnisci.com/technical-glossary/client-server
+2) https://youtu.be/pGGDdKZvYpI
 
 #### Part 1. Web Client Software
 
