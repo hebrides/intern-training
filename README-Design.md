@@ -23,39 +23,51 @@ Templates & Prebuilt Art
 
 https://www.freepik.com/
 
+## Application Design
 
-
-### Application Design
-
-You must have basic user interface design skills, and understand what interfaces work best for a given set of requirements.
+You must have strong user interface design skills, and understand what interfaces work best for a given set of requirements.
 
 1) https://www.springboard.com/blog/design/ux-design-principles/
 
+### Game Inteface Design
+2) https://www.toptal.com/designers/gui/game-ui
+3) https://gamedevelopment.tutsplus.com/tutorials/game-ui-by-example-a-crash-course-in-the-good-and-the-bad--gamedev-3943
+4) https://superjumpmagazine.com/top-5-best-video-game-uis-db941d6a9357
 
+### Web Interface Design
 1) https://www.w3schools.com/html/html_form_input_types.asp
 2) https://www.w3schools.com/html/html_blocks.asp
 3) https://www.justinmind.com/blog/navigation-design-almost-everything-you-need-to-know/
-4) Manufacturer standards: https://developer.apple.com/design/human-interface-guidelines/
 
-### Content Designer (Information Indexing)
+### Web Application Interface Design
 
-A.  You must be proficient in structuring knowlege 
+1) http://webapplayers.com/inspinia_admin-v2.9.4/
 
-1)
+### Manufacturer standards
+1) https://developer.apple.com/design/human-interface-guidelines/
+2) https://docs.microsoft.com/en-us/windows/win32/uxguide/designprinciples
+3) https://docs.microsoft.com/en-us/windows/win32/uxguide/guidelines
+4) https://docs.microsoft.com/en-us/windows/win32/uxguide/how-to-design-desktop-ux
 
-B. You must be proficient writing technical descriptions
+## Content & Marketing Media Design
 
-### Marketing Designer
+A.  You must be proficient in structuring information
 
-A. You must be proficient writing advertising and marketing copy
+https://medium.com/blocksurvey/tips-and-tricks-to-design-a-better-ui-2da44cee6c17
+
 
 B. You must have excellent layout skills, or excellent taste putting together templates and designs others make
 
 1) Design innovation: https://www.awwwards.com
 2) Design inspiration: https://tympanus.net/codrops/
 
+## Copy
 
+A. You must be proficient writing advertising and marketing copy
+B. You must be proficient writing technical descriptions
 C. You must have excellent logo design skills, or an excellent ability to direct others to create a "perfect" logo
+
+### Marketing Methods
 
 D. You must understand digital marketing concepts, including, but not limited to:
 A/B testing, Landing pages, Click-funnels, Email marketing, Blog marketing, Listicles, Video marketing, Viral marketing, Influencer / Social Media marketing
