@@ -135,7 +135,11 @@ README: [Sass](https://youtu.be/APM1mcKbK7o) is a CSS-compatible language design
 
 README: Some programs, including [Cordova](https://cordova.apache.org) (commercially implemented as Capacitor & Ionic) and [Electron](https://www.electronjs.org), allow developers to bundle web applications as native apps that can run outside of the browser. (They run the app in a hidden, mini-browser.) [VSCode]((https://www.electronjs.org/apps/visual-studio-code)) is a popular "web app" built using Electron.
 
-README: Other languages that are used to make client apps include [React-Native](https://reactnative.dev), [Dart/Flutter](https://flutter.dev), Swift, Objective C, Java, C, C++, C#, [GDScript](https://docs.godotengine.org/en/stable/index.html), Lua, Unity / C#, and others. These languages compile code to native binary or byte-code executables for running on a desktop or mobile device; [React-Native](https://github.com/necolas/react-native-web), [Flutter](https://flutter.dev/docs/deployment/web), [GoDot](https://docs.godotengine.org/en/stable/development/compiling/compiling_for_web.html), and [Unity](https://docs.unity3d.com/Manual/webgl-building.html) can also compile code so it runs in a web browser. 
+README: Other languages that are used to make client apps include [React-Native](https://reactnative.dev), [Dart/Flutter](https://flutter.dev), Swift, Objective C, Java, C, C++, C#, [GDScript](https://docs.godotengine.org/en/stable/index.html), Lua, Unity / C#, and others. These languages compile code to native binary or byte-code executables for running on a desktop or mobile device; [React-Native](https://github.com/necolas/react-native-web), [Flutter](https://flutter.dev/docs/deployment/web), [GoDot](https://docs.godotengine.org/en/stable/development/compiling/compiling_for_web.html), and [Unity](https://docs.unity3d.com/Manual/webgl-building.html) can also compile code so it runs in a web browser.
+
+What is the advantage of using a web browser as a client?
+
+1) https://www.knowledgeonecorp.com/blog/post/2012/06/17/Why-is-the-Web-Client-a-much-better-solution-for-applications.aspx
 
 #### Part 2. Web Server Software 
 
