@@ -221,7 +221,7 @@ README: You find the scripts and programs you want for DevOps hosted online at d
 9) https://digital.ai/periodic-table-of-devops-tools
 10) https://youtu.be/UmdVsXr5eak
 
-### F. DevSecOps
+### G. DevSecOps
 
 You should understand the purpose of automating security tools to test your software against exploits and hacks.
 
@@ -236,13 +236,13 @@ DevSecOps with Github Built In Tools:
 2) https://youtu.be/oXRdejqwBwc
 3) https://youtu.be/by25ZKJ6ENU
 
-### G. Nix Systems
+### H. Nix Systems
 
 By now you will have set up and run a few different Linux VMs on your PC or Mac dev machine. Here's another one to try:
 
 1) https://pop.system76.com
 
-### H. Design
+### I. Design
 
 You must have basic user interface design skills, and understand what interfaces work best for a given set of user input requirements.
  
