@@ -49,7 +49,7 @@ You must understand the basic security strategies used for encrypting data for n
 
 ### D. Web Programming / Env / App Structures / Laravel / NodeJS / Testing
 
-You must become proficient with an array of skills to be able to build and deploy client-server software.
+You must become proficient with an array of skills to be able to build and deploy client-server software. 
 
 1) https://medium.com/swlh/my-software-engineer-roadmap-2fb0c02b8a08
 
@@ -108,9 +108,9 @@ README: Web browsers interpret three _frontend_ languages to display and manipul
 
 README: Technically, the client part of a web app can be written in HTML, _without CSS, or JavaScript_; however, doing so severely constrains the application's user experience. Try this out to help yourself only if you're having trouble grasping fundamentals.
 
-README: You need to understand the concept of code frameworks. Frameworks, in general, are software tools developers use to reduce development time. Frameworks simplify code structures and separate concerns, making teamwork easier and improving source maintainability.  
+README: You need to understand the concept of code _frameworks_. Frameworks, in general, are software tools developers use to reduce development time. Frameworks simplify code structures and separate concerns, making teamwork easier and improving source maintainability.  
 
-README: Web developers usually master at least one web client _framework_, so should you. 
+README: Professional web developers usually master at least one web client framework. You should make this your goal, too. 
 
 README: Some popular _frontend (client)_ frameworks include [React](https://youtu.be/Dorf8i6lCuk) / [NextJS](https://youtu.be/1WmNXEVia8I), [Vue](https://www.youtube.com/watch?v=qZXt1Aom3Cs) / [Nuxt](https://nuxtjs.org), [Svelte](https://svelte.dev) / [SvelteKit](https://youtu.be/UU7MgYIbtAk), and [Angular](https://docs.angularjs.org/tutorial). The unique syntax of a web client framework, no matter how idiosyncratic, _always compiles_ to HTML, CSS and JavaScript.
 
@@ -135,6 +135,8 @@ README: Developers use multiple _backend_ languages to handle server-side operat
 README: Some web development frameworks handle the _full stack_, web client and server, with one primary language, e.g., [Meteor](https://www.meteor.com/#!) (JS), [Django](https://www.djangoproject.com) (Python), and [Laravel](https://laravel.com) (PHP); these can optionally be used with "frontend only" helper frameworks, like the ones listed above, to make the client part of development easier.
 
 README: Software developers, no matter what language they're using, take advantage of libraries of pre-built code to speed things up. Web developers use special libraries for JavaScript known as "packages". Packages can be downloaded from one of two popular package repositories, [npm](https://www.npmjs.com) and [yarn](https://yarnpkg.com) (using the eponymous command line tools, `npm install` and `yarn install`). Note: Developers also add pre-built JavaScript libraries directly using special HTML links and JavaScript includes.
+
+Note: No one can master _every_ language, framework, library or tool. Focus on what you can learn best, fastest.
 
 #### Part 3. Web Software Tests
 
