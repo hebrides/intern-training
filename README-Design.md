@@ -1,5 +1,14 @@
 WIP...
 
+
+### General Design Skills
+
+B. You must be profient in design and mock up tools
+
+
+1) https://www.figma.com
+2) https://shuffle.dev
+
 ### UX Designer
 
 A. You must have basic user interface design skills, and understand what interfaces work best for a given set of user input requirements.
@@ -8,10 +17,6 @@ A. You must have basic user interface design skills, and understand what interfa
 2) https://www.w3schools.com/html/html_blocks.asp
 3) https://www.justinmind.com/blog/navigation-design-almost-everything-you-need-to-know/
 4) Manufacturer standards: https://developer.apple.com/design/human-interface-guidelines/
-
-B. You must be profient in design and mock up tools, especially Figma:
-
-
 
 ### Content Designer (Information Indexing)
 
