@@ -125,7 +125,7 @@ README: Technically, the client part of a web app can be written in HTML, _witho
 
 README: You need to understand the concept of code _frameworks_. Frameworks, in general, are software tools developers use to reduce development time. Frameworks simplify code structures and separate concerns, making teamwork easier and improving source maintainability.  
 
-README: Professional web developers usually master at least one web client framework. You should make this your goal, too. Different frameworks work better for different web application architecture choices.
+README: Professional web developers usually master at least one web client framework. You should make this your goal, too. Note, different frameworks work better or worse for specific _web application architectures_:
 
 1) https://www.scnsoft.com/blog/web-application-architecture
 
