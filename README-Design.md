@@ -2,11 +2,11 @@
 
 ## Become an Amazing Web Artisan - SMG Mobile's Web Designer Intern Training Guide
 
-The below links, consumed in order, will give you a good start down the road to becoming an Amazing Web Designer.
+The below links, consumed in order, will give you a good start down the road to becoming an Amazing Web Designer
 
 ### Fundamental Principles
 
-You must master the fundamental principles of design.
+You must master design & mock up tools
 
 1) https://paperform.co/blog/principles-of-design/
 2) https://medium.theuxblog.com/how-form-and-function-play-into-the-rise-of-good-design-88503c206f97
