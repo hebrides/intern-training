@@ -55,7 +55,7 @@ You must become proficient with an array of skills to be able to build and deplo
 
 ### Programming fundamentals
 
-You must master programming fundamentals to be able to efficiently implement ideas in code using software design patterns and software development tools (like [IDEs](https://www.codecademy.com/articles/what-is-an-ide), [VCSs](https://youtu.be/UZMmpav62rY), formatting and debugging tools).
+You must master programming fundamentals to be able to efficiently implement ideas in code. You must understand how to construct applications using established software design patterns and common software development tools including [Interactive Development Environments(IDEs)](https://www.codecademy.com/articles/what-is-an-ide), [Version Control Systems(VCSs)](https://youtu.be/UZMmpav62rY), and formatting and debugging tools.
 1) https://youtu.be/quW5dAGpXiU
 2) https://youtu.be/Us4LwTjWFaY
 3) https://youtu.be/7oS1i-IWp1Q
@@ -72,7 +72,7 @@ You must grasp common professional software development design patterns.
 
 ### IDEs, Version Control Systems, & Debugging Tools
 
-You must understand how to use Interactive Development Environments (IDEs), Version Control Systems (VCSs), and Debugging Tools.
+You must understand how to use IDEs, VCSs, and Debugging Tools.
 
 1) https://www.codecademy.com/articles/what-is-an-ide
 2) https://youtu.be/W2V-TjHV5SM
@@ -86,7 +86,7 @@ You must understand how to use Interactive Development Environments (IDEs), Vers
 
 ### Linting
 
-You must understand linting. Linting is a workflow process that imposes formatting rules on your code.
+You must understand how to use automated code checking and styling (a.k.a. linting) tools.
 
 1) https://stackoverflow.com/questions/8503559/what-is-linting#8503586
 2) https://youtu.be/St1YSNoB36Y
