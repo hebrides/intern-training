@@ -246,3 +246,4 @@ You must have basic user interface design skills, and understand what interfaces
 3) https://www.justinmind.com/blog/navigation-design-almost-everything-you-need-to-know/
 4) Manufacturer standards: https://developer.apple.com/design/human-interface-guidelines/
 5) Design innovation: https://www.awwwards.com
+6) Design inspiration: https://tympanus.net/codrops/
