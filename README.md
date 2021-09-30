@@ -36,7 +36,7 @@ You must understand the client-server model for web application design.
 
 You must understand how network protocols work to encode information for routing requests from clients to servers, and responses from servers to clients.
 
-1) https://youtu.be/Ilk7UXzV_Qc
+1) https://youtu.be/qiHCdgSo9zs
 2) https://youtu.be/QrNnRJqTMO8
 3) https://youtu.be/MVihcigDlbA
 4) https://youtu.be/nomyRJehhnM
