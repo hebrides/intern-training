@@ -158,7 +158,7 @@ README: Some web development frameworks handle the _full stack_, web client and 
 
 README: Software developers, no matter what language they're using, take advantage of libraries of pre-built code to speed things up. Web developers use special libraries for JavaScript known as "packages". Packages can be downloaded from one of two popular package repositories, [npm](https://www.npmjs.com) and [yarn](https://yarnpkg.com) (using the eponymous command line tools, `npm install` and `yarn install`). Note: Developers also add pre-built JavaScript libraries directly using special HTML links and JavaScript includes.
 
-NOTE: No one can master _every_ language, framework, library or tool. Familize yourself with the tools you need to reach your goals.
+NOTE: No one can master _every_ language, framework, library or tool. Familiarize yourself with the tools you need to reach _your goals_. Start simple, move to complex.
 
 #### Part 3. Web Software Tests
 
