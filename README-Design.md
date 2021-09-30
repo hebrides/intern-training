@@ -1,6 +1,8 @@
+# WIP... DO NOT ACTION
+
 ## Become an Amazing Web Artisan - SMG Mobile's Web Designer Intern Training Guide
 
-The below sites and videos, consumed in order, should give you a good start on the road to becoming an Amazing Web & Application Designer.
+The below links, consumed in order, will give you a good start down the road to becoming an Amazing Web Designer.
 
 ### Fundamental Principles
 
