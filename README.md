@@ -25,6 +25,15 @@ You must master the command line to become a proficient contributor to a softwar
 
 ### B. TCP - FTP - HTTP - Client - Server API - CRUD - MySQL
 
+### Client-Server Model
+
+You must understand the client-server model for web application design.
+
+1) https://www.omnisci.com/technical-glossary/client-server
+2) https://youtu.be/pGGDdKZvYpI
+
+### Protocols
+
 You must understand how network protocols work to encode information for routing requests from clients to servers, and responses from servers to clients.
 
 1) https://youtu.be/6sUbt-Qp6Pg
@@ -93,13 +102,6 @@ You must understand how to use automated code checking and styling (a.k.a. linti
 1) https://stackoverflow.com/questions/8503559/what-is-linting#8503586
 2) https://youtu.be/St1YSNoB36Y
 3) https://github.com/airbnb/javascript
-
-### Client-Server Model
-
-You must understand the client-server model for web application design.
-
-1) https://www.omnisci.com/technical-glossary/client-server
-2) https://youtu.be/pGGDdKZvYpI
 
 #### Part 1. Web Client Software
 
