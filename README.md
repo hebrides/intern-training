@@ -72,6 +72,7 @@ You must master programming fundamentals to be able to efficiently implement ide
 1) https://youtu.be/quW5dAGpXiU
 2) https://youtu.be/Us4LwTjWFaY
 3) https://youtu.be/7oS1i-IWp1Q
+4) https://youtu.be/azcrPFhaY9k
 
 ### Software Design Patterns
 
@@ -98,6 +99,7 @@ You must understand how to use IDEs, VCSs, and Debugging Tools.
 9) https://youtu.be/AnTX2mtOl9Q
 10) https://semver.org
 11) https://www.freshconsulting.com/insights/blog/atomic-commits/
+12) https://youtu.be/Uszj_k0DGsg
 
 ### Linting
 
