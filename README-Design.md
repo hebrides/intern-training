@@ -1,22 +1,34 @@
-WIP...
+## Become an Amazing Web Artisan - SMG Mobile's Web Designer Intern Training Guide
+
+The below sites and videos, consumed in order, should give you a good start on the road to becoming an Amazing Web & Application Designer.
+
+### Fundamental Principles
+
+You must master the fundamental principles of design.
+
+1) https://paperform.co/blog/principles-of-design/
+2) https://medium.theuxblog.com/how-form-and-function-play-into-the-rise-of-good-design-88503c206f97
 
 
-### General Design Skills
+### Tools of the Trade
 
-B. You must be profient in design and mock up tools
-
+You must be profient in design and mock up tools
 
 1) https://www.figma.com
 2) https://shuffle.dev
 
-#### Using Templates & Prebuilt Art
+Templates & Prebuilt Art
 
 https://www.freepik.com/
 
 
-### UX Designer
 
-A. You must have basic user interface design skills, and understand what interfaces work best for a given set of user input requirements.
+### Application Design
+
+You must have basic user interface design skills, and understand what interfaces work best for a given set of requirements.
+
+1) https://www.springboard.com/blog/design/ux-design-principles/
+
 
 1) https://www.w3schools.com/html/html_form_input_types.asp
 2) https://www.w3schools.com/html/html_blocks.asp
