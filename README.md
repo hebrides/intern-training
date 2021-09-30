@@ -34,17 +34,18 @@ You must understand the client-server model for web application design.
 
 ### Protocols
 
-You must understand how network protocols work to encode information for routing requests from clients to servers, and responses from servers to clients.
+You must understand how network protocols work to encode information for routing requests from clients to servers, and responses from servers to clients. You should understand that engineers invented the [Internet Protocol](http://fab.cba.mit.edu/classes/961.04/people/neil/ip.pdf) to communicate information over unreliable networks. 
 
-1) https://youtu.be/6sUbt-Qp6Pg
-2) https://youtu.be/7YcW25PHnAA
-2) https://youtu.be/c9gqtjMaFHA
-4) https://youtu.be/GrNrcmD6HLA
-5) https://youtu.be/wJa5CTIFj7U
-6) https://youtu.be/nomyRJehhnM
-7) https://youtu.be/cA9ZJdqzOoU
-8) https://youtu.be/8ARodQ4Wlf4
-9) https://youtu.be/yBB2VKG1_X4
+1) https://youtu.be/znIjk-7ZuqI
+2) https://youtu.be/nomyRJehhnM
+3) https://youtu.be/6sUbt-Qp6Pg
+4) https://youtu.be/7YcW25PHnAA
+5) https://youtu.be/c9gqtjMaFHA
+6) https://youtu.be/GrNrcmD6HLA
+7) https://youtu.be/wJa5CTIFj7U
+8) https://youtu.be/cA9ZJdqzOoU
+9) https://youtu.be/8ARodQ4Wlf4
+10) https://youtu.be/yBB2VKG1_X4
 
 ### C. Key Security & Hashing
 
