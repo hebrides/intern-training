@@ -84,6 +84,14 @@ You must understand how to use Interactive Development Environments (IDEs), Vers
 8) https://youtu.be/llx5djJmXXw
 9) https://youtu.be/AnTX2mtOl9Q
 
+### Linting
+
+You must understand linting. Linting is a workflow process where you use tools to impose style guidelines on your code in order to find bugs and improve its maintainability.
+
+1) https://stackoverflow.com/questions/8503559/what-is-linting#8503586
+2) https://youtu.be/St1YSNoB36Y
+3) https://github.com/airbnb/javascript
+
 #### Part 1. Web Client Software
 
 You must understand HTML, CSS, & JavaScript. 
@@ -98,15 +106,15 @@ README: Web browsers interpret three _frontend_ languages to display and manipul
 
 README: Technically, the client part of a web app can be written in HTML, _without CSS, or JavaScript_; however, doing so severely constrains the application's user experience. Try this out to help yourself only if you're having trouble grasping fundamentals.
 
-README: Web developers usually master at least one web client _framework_, so should you. 
+README: You need to understand the concept of code frameworks. Frameworks, in general, are software tools developers use to reduce development time. Frameworks simplify code structures and separate concerns, making teamwork easier and improving source maintainability.  
 
-README: Frameworks, in general, are software tools developers use to reduce development time. Frameworks simplify code structures and separate concerns, making teamwork easier and improving source maintainability.  
+README: Web developers usually master at least one web client _framework_, so should you. 
 
 README: Some popular _frontend (client)_ frameworks include [React](https://youtu.be/Dorf8i6lCuk) / [NextJS](https://youtu.be/1WmNXEVia8I), [Vue](https://www.youtube.com/watch?v=qZXt1Aom3Cs) / [Nuxt](https://nuxtjs.org), [Svelte](https://svelte.dev) / [SvelteKit](https://youtu.be/UU7MgYIbtAk), and [Angular](https://docs.angularjs.org/tutorial). The unique syntax of a web client framework, no matter how idiosyncratic, _always compiles_ to HTML, CSS and JavaScript.
 
 1) https://www.youtube.com/watch?v=cuHDQhDhvPE
 
-README: [TypeScript](https://youtu.be/eCZhz0JCVx0) is a popular JavaScript-compatible language that is designed to make it easier to debug web client software written in JavaScript. TypeScript compiles to browser-readable JavaScript.
+README: [TypeScript](https://youtu.be/eCZhz0JCVx0) is a popular JavaScript-compatible language that is designed to make it easier to debug web client software written in JavaScript. TypeScript compiles to browser-readable JavaScript. It can be [auto-formatted](https://spin.atomicobject.com/2017/06/05/tslint-linting-setup/) ("linted"), like most programming languages.
 
 README: [Sass](https://youtu.be/APM1mcKbK7o) is a CSS-compatible language designed to make to easier to write and maintain CSS styling code. Sass compiles to browser-readable CSS.
 
