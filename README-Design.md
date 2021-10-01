@@ -105,6 +105,7 @@ You must be able to put to synthesize design and content to make attractive mark
 9) https://youtu.be/0JT7Lvft63E
 10) https://youtu.be/a-JmhK9nKJk
 11) https://youtu.be/c21cHrw5b9g
+12) https://youtu.be/9i_WVm5LPSc
 
 You must be able to structure information and write affective, compelling copy:
 
