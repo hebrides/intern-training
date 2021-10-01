@@ -63,7 +63,7 @@ Web Page & Application Components
 4) https://learnui.design/blog/ (read through posts)
 5) https://careerfoundry.com/en/blog/ui-design/ui-element-glossary/
 
-Admin templates make good references:
+Admin templates make good references for UX design:
 
 1) http://webapplayers.com/inspinia_admin-v2.9.4/ 
 2) https://pixinvent.com/demo/vuexy-vuejs-laravel-admin-template/demo-1/dashboard/ecommerce
