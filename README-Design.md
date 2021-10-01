@@ -81,7 +81,7 @@ You must understand digital marketing concepts, strategies, techniques, tests fo
 
 Marketing channels include, but are not limited to websites, landing pages, click (sales)-funnels, email campaigns, affiliate marketing (blogs / websites), video advertisements, viral marketing, influencers (celebrity), billboards, and others. 
 
-You must understand the concepts of B2B, B2C, ROI, performance measures, A/B testing, analytics, unique visitors, bounce rate, conversions, sales, and leads.
+You must understand the concepts of CRM, sales cycles, B2B, B2C, ROI, performance measures, A/B testing, analytics, unique visitors, bounce rate, conversions, sales, and leads.
 
 1) https://youtu.be/Xs6FNIIZO1M
 2) https://youtu.be/1vRx5TYTmYs
@@ -91,6 +91,8 @@ You must understand the concepts of B2B, B2C, ROI, performance measures, A/B tes
 6) https://www.ventureharbour.com/roi-calculator-how-to-calculate-your-marketing-roi/
 7) https://youtu.be/zFMgpxG-chM
 8) https://youtu.be/VSSL5yUnOVc
+9) https://youtu.be/PT0bkGv8DDU
+10) https://youtu.be/SlhESAKF1Tk
 
 You must be able to put to synthesize design and content to make attractive marketing channel products:
 
@@ -106,6 +108,7 @@ You must be able to put to synthesize design and content to make attractive mark
 10) https://youtu.be/a-JmhK9nKJk
 11) https://youtu.be/c21cHrw5b9g
 12) https://youtu.be/9i_WVm5LPSc
+13) https://youtu.be/NyB0x9F9MKs
 
 You must be able to structure information and write affective, compelling copy:
 
