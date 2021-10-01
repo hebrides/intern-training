@@ -155,7 +155,7 @@ README: Developers use multiple _backend_ languages to handle server-side operat
 
 README: Some web development frameworks handle the _full stack_, web client and server, with one primary language, e.g., [Meteor](https://www.meteor.com/#!) (JS), [Django](https://www.djangoproject.com) (Python), and [Laravel](https://laravel.com) (PHP); these can optionally be used with "frontend only" helper frameworks, like the ones listed above, to make the client part of development easier.
 
-README: Some web app frameworks work better than others in certain situations depending upon a number of factors, including, but not limited to _web application architecture_, business requirements, team size, developer skill-level, and personal taste:
+README: Some frameworks work better than others in certain situations due to a number of factors, including _web application architecture_, business requirements, team size, developer skill-level, and development leadership taste:
 
 1) https://www.scnsoft.com/blog/web-application-architecture
 2) https://hackernoon.com/how-to-choose-a-web-application-framework
