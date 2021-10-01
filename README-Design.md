@@ -21,6 +21,7 @@ Read and watch the below links, and complete the exercises within to start your 
 15) https://www.greenbook.org/mr/market-research-news/the-fundamentals-of-layout-design/
 16) https://www.pinterest.com/mattiecagle/advanced-layout/
 17) https://www.designmantic.com/blog/infographics/font-moods/
+18) https://youtu.be/XU1-Rz2Q7-E
 
 ### Tools of the Trade
 
@@ -65,66 +66,64 @@ Web Page & Application Components
 
 Admin templates make good references for UX design:
 
-1) http://webapplayers.com/inspinia_admin-v2.9.4/ (go through the interface items on the left hand side, one at a time, and consider how you might use these to solve a user input requirement)
+1) http://webapplayers.com/inspinia_admin-v2.9.4/ (go through the interface items on the left hand side, one at a time, and consider how you might use these to solve an imaginary user interface requirement)
 2) https://pixinvent.com/demo/vuexy-vuejs-laravel-admin-template/demo-1/dashboard/ecommerce
 
-### Game Inteface Design
-2) https://www.toptal.com/designers/gui/game-ui
-3) https://gamedevelopment.tutsplus.com/tutorials/game-ui-by-example-a-crash-course-in-the-good-and-the-bad--gamedev-3943
+Game interface design can help you think out of the box:
+
+1) https://www.toptal.com/designers/gui/game-ui
+2) https://gamedevelopment.tutsplus.com/tutorials/game-ui-by-example-a-crash-course-in-the-good-and-the-bad--gamedev-3943
 4) https://superjumpmagazine.com/top-5-best-video-game-uis-db941d6a9357
 
-## Page Design (Marketing Desings, Layout, Print Media)
+### Digital Marketing 
 
-You must have storng intuition for page layout and composition.
+You must understand digital marketing concepts, strategies, techniques, tests for effectiveness, and terminology.
 
+Marketing channels include, but are not limited to websites, landing pages, click (sales)-funnels, email campaigns, affiliate marketing (blogs / websites), video advertisements, viral marketing, influencers (celebrity), billboards, and others. 
 
-1) https://youtu.be/XU1-Rz2Q7-E
+You must understand the concepts of B2B, B2C, ROI, performance measures, analytics, unique visitors, bounce rate, conversions, sales, and leads.
 
-### Branding
-
-C. You must have excellent logo design skills, or the ability to direct others to create a logo that is well-matched to the product / business
-
-
-
-B. You must have excellent layout skills, or excellent taste putting together templates and designs others make
+1) https://youtu.be/Xs6FNIIZO1M
+2) https://youtu.be/1vRx5TYTmYs
+3) https://www.hotjar.com/heatmaps/heatmap-case-studies/
 
 
+You must understand the purpose of A/B testing:
+
+Copywriting.
+
+Listicles.
 
 
+1) https://www.spiralytics.com/blog/digital-marketing-channels/
+2) https://diggitymarketing.com/types-of-digital-marketing/
+3) https://www.ventureharbour.com/roi-calculator-how-to-calculate-your-marketing-roi/
 
-## Marketing Channels
 
-D. You must understand digital marketing concepts, including, but not limited to:
-A/B testing, Landing pages, Click-funnels, Email marketing, Blog marketing, Listicles, Video marketing, Viral marketing, Influencer / Social Media marketing
+You must understand the elements of successful Landing Page design:
 
-### Landing Page Design
 1) https://medium.com/blocksurvey/tips-and-tricks-to-design-a-better-ui-2da44cee6c17
-1) https://www.youtube.com/watch?v=kkeRVk3s89A
-2) https://unbounce.com
-2) https://unbounce.com/landing-page-articles/the-anatomy-of-a-landing-page/
-3) https://blog.hubspot.com/service/testimonial-page-examples
-4) https://yoast.com/optimize-landing-page/
-5) https://blog.aweber.com/digital-marketing-2/craft-high-converting-landing-pages.htm
+2) https://www.youtube.com/watch?v=kkeRVk3s89A
+3) https://unbounce.com
+4) https://unbounce.com/landing-page-articles/the-anatomy-of-a-landing-page/
+5) https://blog.hubspot.com/service/testimonial-page-examples
+6) https://yoast.com/optimize-landing-page/
+7) https://blog.aweber.com/digital-marketing-2/craft-high-converting-landing-pages.htm
 
-### Print Media
-
-## Copy Writing
-You must be proficient in structuring information. 
-
-
-You must be proficient writing advertising and marketing copy, including technical and storytelling style text
-
+Writing Copy
 1) https://copyblogger.com/proven-headline-formulas/
 
 
 
-## Exercises 
+## Exercises Part 1
 
 ### Part 1 Exercise Generator
 
-Using the design and mockup program Figma.com, and the Exercise Generator linked below, complete a Branding design, a Marketing design, & UX / Product product design.
+Using the design and mockup program Figma, and the Exercise Generator linked below, complete a Branding design, a Marketing design, & UX / Product product design.
 
 https://sharpen.design/
+
+
 
 ### Part 2 UX Assignment
 
