@@ -41,7 +41,7 @@ You must understand how to properly sequence your design process so that you mov
 
 1) https://uxmastery.com/ux-designer-workflow/
 2) http://www.jjg.net/elements/pdf/elements.pdf
-3) https://xd.adobe.com/ideas/process/ (read blogs)
+3) https://xd.adobe.com/ideas/process/ 
 4) https://www.springboard.com/blog/design/ux-design-principles/ 
 
 ### User Interface Components
@@ -60,12 +60,12 @@ Web Page & Application Components
 1) https://www.w3schools.com/html/html_form_input_types.asp
 2) https://www.w3schools.com/html/html_blocks.asp
 3) https://www.justinmind.com/blog/navigation-design-almost-everything-you-need-to-know/
-4) https://learnui.design/blog/ (read through posts)
+4) https://learnui.design/blog/ 
 5) https://careerfoundry.com/en/blog/ui-design/ui-element-glossary/
 
 Admin templates make good references for UX design:
 
-1) http://webapplayers.com/inspinia_admin-v2.9.4/ 
+1) http://webapplayers.com/inspinia_admin-v2.9.4/ (go through the interface items on the left hand side, one at a time, and consider how you might use these to solve a user input requirement)
 2) https://pixinvent.com/demo/vuexy-vuejs-laravel-admin-template/demo-1/dashboard/ecommerce
 
 ### Game Inteface Design
