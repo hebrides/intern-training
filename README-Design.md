@@ -37,7 +37,7 @@ You must be proficient with digital design and mock up tools, know how and when 
 
 ### Workflow / Process
 
-You must understand how to properly sequence your design process so that you move from simple to complex (lo to high fidelity), meet deadlines, and exceed customer expectations.
+You must understand how to properly sequence your design process so that you move from low to high fidelity designs, meet professional standards, deadlines, and customer expectations.
 
 1) https://uxmastery.com/ux-designer-workflow/
 2) http://www.jjg.net/elements/pdf/elements.pdf
