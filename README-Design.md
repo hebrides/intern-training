@@ -33,9 +33,12 @@ You must be proficient with digital design and mock up tools, know how and when 
 3) https://www.freepik.com/
 4) https://www.canva.com/learn/100-color-combinations/
 5) https://envato.com/market/
-6) https://dribbble.com
-7) https://www.awwwards.com
-8) https://tympanus.net/codrops/
+6) https://www.startupyar.com
+7) http://thestocks.im
+8) https://www.wix.com, https://www.weebly.com, https://www.squarespace.com (Yes, it's okay to use site builders...)
+9) https://dribbble.com
+10) https://www.awwwards.com
+11) https://tympanus.net/codrops/
 
 ### Workflow / Process
 
