@@ -111,7 +111,7 @@ You must understand how to use automated code checking and styling (a.k.a. linti
 2) https://youtu.be/St1YSNoB36Y
 3) https://github.com/airbnb/javascript
 
-#### Part 1. Web Client Software
+### Part 1. Web Client Software
 
 You must understand HTML, CSS, & JavaScript. 
 
@@ -145,7 +145,7 @@ What is the advantage of using a web browser as a client?
 
 1) https://www.knowledgeonecorp.com/blog/post/2012/06/17/Why-is-the-Web-Client-a-much-better-solution-for-applications.aspx
 
-#### Part 2. Web Server Software 
+### Part 2. Web Server Software 
 
 You must understand how to use at least one server-side language.
 
@@ -165,7 +165,7 @@ README: Software developers, no matter what language they're using, take advanta
 
 NOTE: No one can master _every_ language, framework, library or tool. Familiarize yourself with the tools you need to reach _your goals_. Start simple, move to complex.
 
-#### Part 3. Web Software Tests
+### Part 3. Web Software Tests
 
 You should know what software tests do. Many professional production environments require developers to write "unit tests" as a foundation of [Quality Assurance](https://youtu.be/gNmrGZSGK1k). Besides unit tests, there are also "integration" and "functional" tests.:
 
@@ -173,7 +173,7 @@ You should know what software tests do. Many professional production environment
 
 README: When __developing__ client / server software you will build and run both the client and server on your local machine. When __testing__, you will test your work on a remote development server. Prior to __release__, you and your colleagues will conduct user-acceptance, security, and stress testing with remote servers and clients.
 
-#### Part 4. Requests and Responses
+### Part 4. Requests and Responses
 
 You must understand the request / response cycle in client-server applications. You must understand how to:
 1) Send a request to a server from a client
@@ -187,14 +187,14 @@ You must understand the request / response cycle in client-server applications. 
 9) Use the term API to refer to a library, function, script, or remote app that accepts requests (inputs), and sends responses (outputs): https://free-apis.github.io/#/ 
 10) Use a CDN: https://www.cloudflare.com/learning/cdn/what-is-a-cdn/
 
-#### Part 5. Tech Stacks
+### Part 5. Tech Stacks
 
 You should know what a "technology stack" means. There are a multitude of tools available to construct client-server software. This can be beneficial but also cause confusion, especially for beginners:
 
 1) https://stackshare.io/stacks
 2) https://youtu.be/Sxxw3qtb3_g 
 
-#### Part 6. Video Training Links 
+### Part 6. Video Training Links 
 
 1) https://youtu.be/gNmrGZSGK1k
 2) https://youtu.be/bf8L9tQi_MQ
