@@ -155,11 +155,11 @@ README: Developers use multiple _backend_ languages to handle server-side operat
 
 README: Some web development frameworks handle the _full stack_, web client and server, with one primary language, e.g., [Meteor](https://www.meteor.com/#!) (JS), [Django](https://www.djangoproject.com) (Python), and [Laravel](https://laravel.com) (PHP); these can optionally be used with "frontend only" helper frameworks, like the ones listed above, to make the client part of development easier.
 
-README: Some web app frameworks work better than others in certain situations, depending upon a number of factors, including, but not limited to _web application architecture_, business requirements, team size and skill-level, and personal taste:
+README: Some web app frameworks work better than others in certain situations depending upon a number of factors, including, but not limited to _web application architecture_, business requirements, team size, developer skill-level, and personal taste:
 
 1) https://www.scnsoft.com/blog/web-application-architecture
 2) https://hackernoon.com/how-to-choose-a-web-application-framework
-
+3) https://floverfelt.org/posts/software-best-practices.html
 
 README: Software developers, no matter what language they're using, take advantage of libraries of pre-built code to speed things up. Web developers use special libraries for JavaScript known as "packages". Packages can be downloaded from one of two popular package repositories, [npm](https://www.npmjs.com) and [yarn](https://yarnpkg.com) (using the eponymous command line tools, `npm install` and `yarn install`). Note: Developers also add pre-built JavaScript libraries directly using special HTML links and JavaScript includes.
 
