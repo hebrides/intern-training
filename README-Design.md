@@ -22,6 +22,7 @@ To start your way to becoming an _amazing web artisan_, read and watch the below
 16) https://www.pinterest.com/mattiecagle/advanced-layout/
 17) https://www.designmantic.com/blog/infographics/font-moods/
 18) https://youtu.be/XU1-Rz2Q7-E
+19) https://www.creativethinkinghub.com/creative-thinking-and-stealing-like-an-artist/
 
 ### Tools of the Trade
 
