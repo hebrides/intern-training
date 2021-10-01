@@ -1,6 +1,6 @@
 ## Become an Amazing Web Artisan - SMG Mobile's Web Designer Intern Training Guide
 
-Read and watch the below links, and complete the exercises within to start your way to becoming an _amazing web artisan_.
+Read and watch the below links, and complete the exercises below, to start your way to becoming an _amazing web artisan_.
 
 ### Principles
 
