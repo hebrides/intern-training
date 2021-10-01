@@ -92,7 +92,7 @@ You must understand the concepts of B2B, B2C, ROI, performance measures, A/B tes
 7) https://youtu.be/zFMgpxG-chM
 8) https://youtu.be/VSSL5yUnOVc
 
-You must be able to put to synthesize design and content to make an attractive marketing channels:
+You must be able to put to synthesize design and content to make attractive marketing channel products:
 
 1) https://medium.com/blocksurvey/tips-and-tricks-to-design-a-better-ui-2da44cee6c17
 2) https://www.youtube.com/watch?v=kkeRVk3s89A
@@ -101,12 +101,15 @@ You must be able to put to synthesize design and content to make an attractive m
 5) https://blog.hubspot.com/service/testimonial-page-examples
 6) https://yoast.com/optimize-landing-page/
 7) https://blog.aweber.com/digital-marketing-2/craft-high-converting-landing-pages.htm
+8) https://youtu.be/2iuuSVfOK8Q
+9) https://youtu.be/0JT7Lvft63E
+10) https://youtu.be/a-JmhK9nKJk
+11) https://youtu.be/c21cHrw5b9g
 
 You must be able to structure information and write affective, compelling copy:
 
 1) https://copyblogger.com/proven-headline-formulas/
 2) https://goodmancreatives.com/write-great-copy-for-your-website/
-
 
 ## Projects
 
