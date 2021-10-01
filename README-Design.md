@@ -86,10 +86,11 @@ You must understand the concepts of B2B, B2C, ROI, performance measures, A/B tes
 1) https://youtu.be/Xs6FNIIZO1M
 2) https://youtu.be/1vRx5TYTmYs
 3) https://www.hotjar.com/heatmaps/heatmap-case-studies/
-1) https://www.spiralytics.com/blog/digital-marketing-channels/
-2) https://diggitymarketing.com/types-of-digital-marketing/
-3) https://www.ventureharbour.com/roi-calculator-how-to-calculate-your-marketing-roi/
-https://youtu.be/zFMgpxG-chM
+4) https://www.spiralytics.com/blog/digital-marketing-channels/
+5) https://diggitymarketing.com/types-of-digital-marketing/
+6) https://www.ventureharbour.com/roi-calculator-how-to-calculate-your-marketing-roi/
+7) https://youtu.be/zFMgpxG-chM
+8) https://youtu.be/VSSL5yUnOVc
 
 You must be able to put to synthesize design and content to make an attractive marketing channels:
 
@@ -104,7 +105,7 @@ You must be able to put to synthesize design and content to make an attractive m
 You must be able to structure information and write affective, compelling copy:
 
 1) https://copyblogger.com/proven-headline-formulas/
-
+2) https://goodmancreatives.com/write-great-copy-for-your-website/
 
 
 ## Projects
@@ -114,8 +115,6 @@ You must be able to structure information and write affective, compelling copy:
 Using the design and mockup program Figma, and the Exercise Generator linked below, complete a Branding design, a Marketing design, & UX / Product product design.
 
 https://sharpen.design/
-
-
 
 ### Part 2 UX Project
 
