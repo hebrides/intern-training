@@ -117,22 +117,22 @@ You must be able to structure information and write affective, compelling copy:
 
 ## Projects
 
-### Part 1 Exercise Generator
+### 1. Exercise Generator
 
 Using the design and mockup program Figma, and the Exercise Generator linked below, complete a Branding design, a Marketing design, & UX / Product product design.
 
 https://sharpen.design/
 
-### Part 2 UX Project
+### 2. UX Project
 
 Create a design for an interactive surf clock using Figma. 
 
 The interactive design you complete should be show time / date / weather and wave period / height information, as well as streamed video from a selectable list of surf spots.
 
-### Part 3 Marketing Project
+### 3. Marketing Project
 
 Create a website to market an idea of your own for a business, product, or service. You may use templates, clip art sites (like Freepik / Unsplash / Canva), website generators (like Squarespace / Wix), or any other tools to help you go faster. Focus on information structure over design customization.
 
-### Part 4 Self-promotion Project
+### 4. Self-promotion Project
 
 Create a website to market yourself as a digital designer. Add links to your professional social media accounts (LinkedIn, Twitter) and social design profiles (Behance / Dribbble). Avoid personal and private content. You may use templates, website generators or any other tools you like to help you. Add customizations to make it your own.
