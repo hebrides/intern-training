@@ -50,6 +50,7 @@ You must understand how network protocols work to encode information for routing
 12) https://youtu.be/cA9ZJdqzOoU
 13) https://youtu.be/yBB2VKG1_X4
 14) https://youtu.be/8ARodQ4Wlf4
+15) https://www.nslookup.io/learning/dns-record-types/
 
 
 ### C. Key Security & Hashing
