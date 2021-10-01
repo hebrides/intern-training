@@ -81,26 +81,17 @@ You must understand digital marketing concepts, strategies, techniques, tests fo
 
 Marketing channels include, but are not limited to websites, landing pages, click (sales)-funnels, email campaigns, affiliate marketing (blogs / websites), video advertisements, viral marketing, influencers (celebrity), billboards, and others. 
 
-You must understand the concepts of B2B, B2C, ROI, performance measures, analytics, unique visitors, bounce rate, conversions, sales, and leads.
+You must understand the concepts of B2B, B2C, ROI, performance measures, A/B testing, analytics, unique visitors, bounce rate, conversions, sales, and leads.
 
 1) https://youtu.be/Xs6FNIIZO1M
 2) https://youtu.be/1vRx5TYTmYs
 3) https://www.hotjar.com/heatmaps/heatmap-case-studies/
-
-
-You must understand the purpose of A/B testing:
-
-Copywriting.
-
-Listicles.
-
-
 1) https://www.spiralytics.com/blog/digital-marketing-channels/
 2) https://diggitymarketing.com/types-of-digital-marketing/
 3) https://www.ventureharbour.com/roi-calculator-how-to-calculate-your-marketing-roi/
+https://youtu.be/zFMgpxG-chM
 
-
-You must understand the elements of successful Landing Page design:
+You must be able to put to synthesize design and content to make an attractive marketing channels:
 
 1) https://medium.com/blocksurvey/tips-and-tricks-to-design-a-better-ui-2da44cee6c17
 2) https://www.youtube.com/watch?v=kkeRVk3s89A
@@ -110,7 +101,8 @@ You must understand the elements of successful Landing Page design:
 6) https://yoast.com/optimize-landing-page/
 7) https://blog.aweber.com/digital-marketing-2/craft-high-converting-landing-pages.htm
 
-Writing Copy
+You must be able to structure information and write affective, compelling copy:
+
 1) https://copyblogger.com/proven-headline-formulas/
 
 
