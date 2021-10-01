@@ -110,7 +110,7 @@ You must be able to put to synthesize design and content to make attractive mark
 12) https://youtu.be/9i_WVm5LPSc
 13) https://youtu.be/NyB0x9F9MKs
 
-You must be able to structure information and write affective, compelling copy:
+You must be able to structure information and write effective, compelling copy:
 
 1) https://copyblogger.com/proven-headline-formulas/
 2) https://goodmancreatives.com/write-great-copy-for-your-website/
