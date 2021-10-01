@@ -135,4 +135,4 @@ Create a website to market an idea of your own for a business, product, or servi
 
 ### Part 4 Self-promotion Project
 
-Create a website to market yourself as a digital designer. Add links to your professional social media accounts (LinkedIn, Twitter) and social design profiles (Behance / Dribble). Avoid personal and private content. You may use templates, website generators or any other tools you like to help you. Add customizations to make it your own.
+Create a website to market yourself as a digital designer. Add links to your professional social media accounts (LinkedIn, Twitter) and social design profiles (Behance / Dribbble). Avoid personal and private content. You may use templates, website generators or any other tools you like to help you. Add customizations to make it your own.
