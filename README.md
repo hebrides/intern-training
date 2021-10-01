@@ -36,19 +36,20 @@ You must understand the client-server model of web application design.
 
 You must understand how network protocols work to encode information for routing requests from clients to servers, and responses from servers to clients.
 
-1) https://whatismyipaddress.com/ipv4-parts
-2) https://youtu.be/Ilk7UXzV_Qc
-3) https://youtu.be/QrNnRJqTMO8
-4) https://youtu.be/MVihcigDlbA
-5) https://youtu.be/nomyRJehhnM
-6) https://youtu.be/6sUbt-Qp6Pg
-7) https://youtu.be/7YcW25PHnAA
-8) https://youtu.be/c9gqtjMaFHA
-9) https://youtu.be/GrNrcmD6HLA
-10) https://youtu.be/wJa5CTIFj7U
-11) https://youtu.be/cA9ZJdqzOoU
-12) https://youtu.be/yBB2VKG1_X4
-13) https://youtu.be/8ARodQ4Wlf4
+1) https://youtu.be/1Vq1lrWQAyg
+2) https://youtu.be/v8aYhOxZuNg
+3) https://youtu.be/Ilk7UXzV_Qc
+4) https://youtu.be/QrNnRJqTMO8
+5) https://youtu.be/MVihcigDlbA
+6) https://youtu.be/nomyRJehhnM
+7) https://youtu.be/6sUbt-Qp6Pg
+8) https://youtu.be/7YcW25PHnAA
+9) https://youtu.be/c9gqtjMaFHA
+10) https://youtu.be/GrNrcmD6HLA
+11) https://youtu.be/wJa5CTIFj7U
+12) https://youtu.be/cA9ZJdqzOoU
+13) https://youtu.be/yBB2VKG1_X4
+14) https://youtu.be/8ARodQ4Wlf4
 
 
 ### C. Key Security & Hashing
