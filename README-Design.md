@@ -115,7 +115,7 @@ Writing Copy
 
 
 
-## Exercises Part 1
+## Exercises
 
 ### Part 1 Exercise Generator
 
