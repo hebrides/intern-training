@@ -111,7 +111,7 @@ You must understand how to use automated code checking and styling (a.k.a. linti
 2) https://youtu.be/St1YSNoB36Y
 3) https://github.com/airbnb/javascript
 
-### Part 1. Web Client Software
+#### Part 1. Web Client Software
 
 You must understand HTML, CSS, & JavaScript. 
 
@@ -145,7 +145,7 @@ What is the advantage of using a web browser as a client?
 
 1) https://www.knowledgeonecorp.com/blog/post/2012/06/17/Why-is-the-Web-Client-a-much-better-solution-for-applications.aspx
 
-### Part 2. Web Server Software 
+#### Part 2. Web Server Software 
 
 You must understand how to use at least one server-side language.
 
