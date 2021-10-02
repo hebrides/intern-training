@@ -227,7 +227,7 @@ Cloudflare provides valuable DNS services free for web application developers:
 You should become proficient in DevOps.
 
 README: DevOps in practice means utilizing two main skills to automate tasks: 
-1) Writing scripts to set up virtual machines (VMs) with the operating systems, databases and programs you want pre-installed and configured. (Sometimes this is called [Infrastructure as Code](https://youtu.be/KxxRl6VEBxI) (IaC).
+1) Writing scripts to set up virtual machines (VMs) with the operating systems, databases and programs you want pre-installed and configured. Sometimes this type of automation is called [Infrastructure as Code](https://youtu.be/KxxRl6VEBxI) (IaC).
 2) Writing scripts to automate CICD (Continuous Integration / Deployment): This is automating the hosting of new versions of your app / game / tool via scripts that talk to your Github (or self-hosted) repo and your servers.
 
 README: You find the scripts and programs you want for DevOps hosted online at different “hubs”, e.g.:
