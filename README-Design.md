@@ -48,7 +48,8 @@ You must understand how to properly sequence your design process so that you mov
 1) https://uxmastery.com/ux-designer-workflow/
 2) http://www.jjg.net/elements/pdf/elements.pdf
 3) https://xd.adobe.com/ideas/process/ 
-4) https://www.springboard.com/blog/design/ux-design-principles/ 
+4) https://www.springboard.com/blog/design/ux-design-principles/
+5) https://youtu.be/00rzg3y6hJc 
 
 ### User Interface Components
 
