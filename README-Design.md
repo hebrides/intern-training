@@ -85,7 +85,7 @@ Game interface design can help you think out of the box:
 
 You must understand digital marketing concepts, strategies, techniques, tests for effectiveness, and terminology.
 
-Marketing channels include, but are not limited to websites, landing pages, click (sales)-funnels, email campaigns, affiliate marketing (blogs / websites), video advertisements, viral marketing, influencers (celebrity), billboards, and others. 
+Marketing channels include, but are not limited to, websites, landing pages, click (sales)-funnels, email campaigns, affiliate marketing (blogs / websites), video advertisements, viral marketing, influencers (celebrity), billboards, and others. 
 
 You must understand the concepts of CRM, sales cycles, B2B, B2C, ROI, performance measures, A/B testing, analytics, unique visitors, bounce rate, conversions, sales, and leads.
 
