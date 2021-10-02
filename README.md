@@ -227,7 +227,7 @@ Cloudflare provides valuable DNS services free for web application developers:
 You should become proficient in DevOps.
 
 README: DevOps in practice means utilizing two main skills to automate tasks: 
-1) Writing scripts to set up virtual machines (VMs) with the operating systems, databases and programs you want pre-installed and configured. 
+1) Writing scripts to set up virtual machines (VMs) with the operating systems, databases and programs you want pre-installed and configured. (Sometimes this is called [Infrastructure as Code](https://youtu.be/KxxRl6VEBxI) (IaC).
 2) Writing scripts to automate CICD (Continuous Integration / Deployment): This is automating the hosting of new versions of your app / game / tool via scripts that talk to your Github (or self-hosted) repo and your servers.
 
 README: You find the scripts and programs you want for DevOps hosted online at different “hubs”, e.g.:
@@ -238,16 +238,17 @@ README: You find the scripts and programs you want for DevOps hosted online at d
 
 #### DevOps Videos & Links
 
-1) https://www.youtube.com/watch?v=jyW3D74I3_w
-2) https://devopscube.com/become-devops-engineer/
-3) https://youtu.be/OXE2a8dqIAI
-4) https://www.youtube.com/watch?v=j5Zsa_eOXeY
-5) https://www.youtube.com/watch?v=hQcFE0RD0cQ
-6) https://youtu.be/PwSZpcl7vUE
-7) https://youtu.be/xhva6DeKqVU
-8) https://youtu.be/DZRG2sezIl4
-9) https://digital.ai/periodic-table-of-devops-tools
-10) https://youtu.be/UmdVsXr5eak
+1) https://youtu.be/KxxRl6VEBxI
+2) https://www.youtube.com/watch?v=jyW3D74I3_w
+3) https://devopscube.com/become-devops-engineer/
+4) https://youtu.be/OXE2a8dqIAI
+5) https://www.youtube.com/watch?v=j5Zsa_eOXeY
+6) https://www.youtube.com/watch?v=hQcFE0RD0cQ
+7) https://youtu.be/PwSZpcl7vUE
+8) https://youtu.be/xhva6DeKqVU
+9) https://youtu.be/DZRG2sezIl4
+10) https://digital.ai/periodic-table-of-devops-tools
+11) https://youtu.be/UmdVsXr5eak
 
 ### G. DevSecOps
 
