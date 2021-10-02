@@ -50,7 +50,6 @@ You must understand how network protocols work to encode information for routing
 12) https://youtu.be/cA9ZJdqzOoU
 13) https://youtu.be/yBB2VKG1_X4
 14) https://youtu.be/8ARodQ4Wlf4
-15) https://www.nslookup.io/learning/dns-record-types/
 
 
 ### C. Key Security & Hashing
@@ -218,6 +217,7 @@ You show know about A Records, MX Records, and other DNS records. You should und
 1) https://youtu.be/dE4rsNuG0aw
 2) https://youtu.be/By7N3nuQc7w
 3) https://www.youtube.com/watch?v=NijONS9gMZ0
+4) https://www.nslookup.io/learning/dns-record-types/
 
 Cloudflare provides valuable DNS services free for web application developers:
 1) https://www.cloudflare.com/dns/
