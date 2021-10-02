@@ -239,16 +239,17 @@ README: You find the scripts and programs you want for DevOps hosted online at d
 #### DevOps Videos & Links
 
 1) https://youtu.be/KxxRl6VEBxI
-2) https://www.youtube.com/watch?v=jyW3D74I3_w
-3) https://devopscube.com/become-devops-engineer/
-4) https://youtu.be/OXE2a8dqIAI
-5) https://www.youtube.com/watch?v=j5Zsa_eOXeY
-6) https://www.youtube.com/watch?v=hQcFE0RD0cQ
-7) https://youtu.be/PwSZpcl7vUE
-8) https://youtu.be/xhva6DeKqVU
-9) https://youtu.be/DZRG2sezIl4
-10) https://digital.ai/periodic-table-of-devops-tools
-11) https://youtu.be/UmdVsXr5eak
+2) https://youtu.be/POPP2WTJ8es
+3) https://www.youtube.com/watch?v=jyW3D74I3_w
+4) https://devopscube.com/become-devops-engineer/
+5) https://youtu.be/OXE2a8dqIAI
+6) https://www.youtube.com/watch?v=j5Zsa_eOXeY
+7) https://www.youtube.com/watch?v=hQcFE0RD0cQ
+8) https://youtu.be/PwSZpcl7vUE
+9) https://youtu.be/xhva6DeKqVU
+10) https://youtu.be/DZRG2sezIl4
+11) https://digital.ai/periodic-table-of-devops-tools
+12) https://youtu.be/UmdVsXr5eak
 
 ### G. DevSecOps
 
