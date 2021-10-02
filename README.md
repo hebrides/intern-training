@@ -228,15 +228,15 @@ You should become proficient in DevOps.
 
 README: DevOps in practice means utilizing two main skills to automate tasks: 
 1) Writing scripts to set up virtual machines (VMs) with the operating systems, databases and programs you want pre-installed and configured. 
-2) Writing scripts to automate CICD (Continuous Integration / Deployment): This is automating the hosting of new versions of your app / game / tool via scripts that talk to your Github (or self-hosted) repo and your servers.
-
-README: DevOps is also called [Infrastructure as Code](https://youtu.be/KxxRl6VEBxI) (IaC), because it allows software teams to write down the intfrastructure their programs and services need in a way that can be reproduced and updated easily. DevOps, like most standardization processes, reduces the _fragility_ of systems. 
+2) Writing scripts to automate CICD (Continuous Integration / Deployment): This is automating the hosting of new versions of your app / game / tool via scripts that talk to your Github (or self-hosted) repo and your servers. 
 
 README: You find the scripts and programs you want for DevOps "orchestration" hosted online at different “hubs”, e.g.:
 
 1) Ansible (set up programs on existing servers): https://galaxy.ansible.com/search?deprecated=false&keywords=penetration%20&order_by=-relevance&page=1
 2) Vagrant (set up preconfigured servers / VMs): https://app.vagrantup.com/boxes/search?utf8=✓&sort=downloads&provider=&q=kali
 3) Docker (set up “containers“ - OSs and programs running inside their own little VMs): https://hub.docker.com/search?q=kali&type=image ; https://kubernetes.io/docs/concepts/containers/
+
+README: DevOps is also called [Infrastructure as Code](https://youtu.be/KxxRl6VEBxI) (IaC). Like most standardization processes, DevOps reduces the _fragility_ of systems by improving the reproducability and maintainablity of  component parts. Client-server infrastructure scripts, for example, describe and deploy not only your client and server software, but also its infrastructure dependencies, including, but not limited to, web servers, load balancers (proxies), operating systems, message queues, databases, block storage, logging & monitoring tools, and more.
 
 #### DevOps Videos & Links
 
