@@ -30,7 +30,7 @@ To start your way to becoming an _amazing web artisan_, read and watch the below
 - You must know how to use templates and prebuilt art to save time: a designer often works like a conductor, orchestrating premade work into a coherent whole. 
 - You must keep up with trends to make your work feel fresh to an audience (even if you realize freshness by going _against_ trends). 
 - You must reach out to design blogs and design web magazines as sources for inspiration.
-- You must seek guidance from seasoned peers. You should put your work on a portfolio site for C+R from the web community.
+- You must seek guidance from seasoned peers. You should put your work on a portfolio site for C+R from the web community and follow your favorite creatives on social media.
 
 1) https://www.figma.com
 2) https://shuffle.dev
@@ -42,9 +42,11 @@ To start your way to becoming an _amazing web artisan_, read and watch the below
 8) https://www.gettyimages.com
 9) https://www.wix.com, https://www.weebly.com, https://www.squarespace.com (Yes, it's okay to use site builders...)
 10) https://dribbble.com
-11) https://www.thisiscolossal.com
-12) https://www.awwwards.com
-13) https://tympanus.net/codrops/
+11) https://youtu.be/PlUWgs6LYrQ
+12) https://youtu.be/2xc9YKdlLW0
+13) https://www.thisiscolossal.com
+14) https://www.awwwards.com
+15) https://tympanus.net/codrops/
 
 ### Workflow / Process
 
