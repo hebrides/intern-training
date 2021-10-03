@@ -26,7 +26,11 @@ To start your way to becoming an _amazing web artisan_, read and watch the below
 
 ### Tools of the Trade
 
-You must be proficient with digital design and mock up tools, know how and when to use templates and prebuilt art, keep up with trends, and when to reach out for inspiration and guidance from others.
+- You must be proficient with digital design and mock up tools. 
+- You must know how to use templates and prebuilt art to save time: a design is often like a composer, orchestrating the work of others. 
+- You must keep up with trends to make your work feel fresh to the audience, even this freshness comes from going against a trend. 
+- You must reach out to design blogs and design web magazines as sources for inspiration.
+- You must seek guidance from seasoned peers. You should put your work on a portfolio site for C+R from the web community.
 
 1) https://www.figma.com
 2) https://shuffle.dev
@@ -38,8 +42,9 @@ You must be proficient with digital design and mock up tools, know how and when 
 8) https://www.gettyimages.com
 9) https://www.wix.com, https://www.weebly.com, https://www.squarespace.com (Yes, it's okay to use site builders...)
 10) https://dribbble.com
-11) https://www.awwwards.com
-12) https://tympanus.net/codrops/
+11) https://www.thisiscolossal.com
+12) https://www.awwwards.com
+13) https://tympanus.net/codrops/
 
 ### Workflow / Process
 
