@@ -77,7 +77,7 @@ Web Page & Application Components
 
 Admin templates make good references for UX design:
 
-1) http://webapplayers.com/inspinia_admin-v2.9.4/ (go through the interface items on the left hand side, one at a time, and consider how you might use each to solve an imaginary user interface requirement)
+1) http://webapplayers.com/inspinia_admin-v2.9.4/ Go through the interface items on the left hand side, one at a time, and consider how you might use each to solve an imaginary user interface requirement.
 2) https://pixinvent.com/demo/vuexy-vuejs-laravel-admin-template/demo-1/dashboard/ecommerce
 
 Game interface design can help you think out of the box:
