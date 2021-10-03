@@ -48,7 +48,7 @@ To start your way to becoming an _amazing web artisan_, read and watch the below
 
 ### Workflow / Process
 
-You must understand how to properly sequence your design process so that you move from low to high fidelity, meet professional standards, deadlines, and customer expectations.
+You must understand how to properly sequence your design process so that you move from low to high fidelity, meet professional standards, complete work before deadlines, and satisfy customer expectations.
 
 1) https://uxmastery.com/ux-designer-workflow/
 2) http://www.jjg.net/elements/pdf/elements.pdf
