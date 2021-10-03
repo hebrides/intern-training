@@ -28,7 +28,7 @@ To start your way to becoming an _amazing web artisan_, read and watch the below
 
 - You must be proficient with digital design and mock up tools. 
 - You must know how to use templates and prebuilt art to save time: a designer often works like a conductor, orchestrating the work of others to make a coherent whole. 
-- You must keep up with trends to make your work feel fresh to the audience, even this freshness comes from going against a trend. 
+- You must keep up with trends to make your work feel fresh to the audience (even if your fresh take is going against a trend). 
 - You must reach out to design blogs and design web magazines as sources for inspiration.
 - You must seek guidance from seasoned peers. You should put your work on a portfolio site for C+R from the web community.
 
