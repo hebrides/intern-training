@@ -130,7 +130,7 @@ You must be able to structure information and write effective, compelling copy:
 
 ### 1. Project Generator
 
-Using the design and mockup program Figma, and the project generator linked below, complete a *Branding design, a Marketing design, & a UX / Product design*:
+Using the design and mockup program Figma, and the project generator linked below, complete a *Branding, Marketing, and UX / Product* design:
 
 https://sharpen.design/
 
