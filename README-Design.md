@@ -105,7 +105,7 @@ You must understand the concepts of CRM, sales cycles, B2B, B2C, ROI, performanc
 9) https://youtu.be/PT0bkGv8DDU
 10) https://youtu.be/SlhESAKF1Tk
 
-You must be able organize visual design and verbal content to produce professional quality deliverables (for marketing channels):
+You must be able organize visual design and verbal content to produce professional quality deliverables (e.g., a completed video advertisement, website design, email circular, product design, etc.):
 
 1) https://medium.com/blocksurvey/tips-and-tricks-to-design-a-better-ui-2da44cee6c17
 2) https://www.youtube.com/watch?v=kkeRVk3s89A
