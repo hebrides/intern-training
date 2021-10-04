@@ -26,7 +26,7 @@ To start your way to becoming an _amazing web artisan_, read and watch the below
 
 ### Tools of the Trade
 
-- You must be proficient with digital design and mock up tools. 
+- You must be proficient with digital design and mock-up tools. 
 - You must know how to use templates and prebuilt art to save time: a designer often works like a conductor, orchestrating premade work into a coherent whole. 
 - You must keep up with trends to make your work feel fresh to an audience (even if you realize freshness by going _against_ trends). 
 - You must reach out to design blogs and design web magazines as sources for inspiration.
