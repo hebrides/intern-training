@@ -133,7 +133,7 @@ README: Some popular _frontend (client)_ frameworks include [React](https://yout
 
 1) https://www.youtube.com/watch?v=cuHDQhDhvPE
 
-README: [TypeScript](https://youtu.be/eCZhz0JCVx0) is a popular JavaScript-compatible language that is designed to make it easier to compose and debug client-server software written in JavaScript. TypeScript is a [_superset_](https://www.typescriptlang.org) of JavaScript that compiles to JavaScript for the browser or server. TypeScript can be [auto-formatted](https://spin.atomicobject.com/2017/06/05/tslint-linting-setup/) ("linted"), like most programming languages.
+README: [TypeScript](https://youtu.be/eCZhz0JCVx0) is a popular JavaScript-[_superset_](https://www.typescriptlang.org) designed to make it easier to compose and debug JavaScript. TypeScript compiles to regular JavaScript for running on the browser, your local PC, or web server. TypeScript can be [auto-formatted](https://spin.atomicobject.com/2017/06/05/tslint-linting-setup/) ("linted"), like most programming languages.
 
 README: [Sass](https://youtu.be/APM1mcKbK7o) is a CSS-compatible language designed to make to easier to write and maintain CSS styling code. Sass compiles to browser-readable CSS.
 
