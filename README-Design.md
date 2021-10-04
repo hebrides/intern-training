@@ -28,9 +28,9 @@ To start your way to becoming an _amazing web artisan_, read and watch the below
 
 - You must be proficient with digital design and mock-up tools. 
 - You must know how to use templates and prebuilt art to save time; a designer often works like a conductor, orchestrating premade work to make a coherent whole. 
-- You must keep up with trends to make your work feel fresh to an audience (even if you realize freshness by going _against_ trends). 
-- You must reach out to design blogs and design web magazines as sources for inspiration.
-- You must seek guidance from seasoned peers. You should put your work on a portfolio site for C+R from the web community and follow your favorite creatives on social media.
+- You must keep up with trends so your work feels fresh (even if freshness comes by going _against_ trends). 
+- You must reach out to design blogs and magazines for sources of inspiration.
+- You must seek guidance from seasoned peers. Put your work on portfolio sites for C+R from the web community and follow your favorite creatives on social media.
 
 1) https://www.figma.com
 2) https://shuffle.dev
@@ -50,7 +50,9 @@ To start your way to becoming an _amazing web artisan_, read and watch the below
 
 ### Workflow / Process
 
-You must understand how to properly sequence your design process so that you move from low to high fidelity, meet professional standards, complete work before deadlines, and satisfy customer expectations.
+- You must understand how to properly sequence your design processes to make on time deliverables for your clients
+- You must understand how to move from ideas, to sketches, to low fidielity wireframes, to high fidelity mock-ups
+- You must understand how to iterate and solicite feedback in a collaborative manner
 
 1) https://uxmastery.com/ux-designer-workflow/
 2) http://www.jjg.net/elements/pdf/elements.pdf
