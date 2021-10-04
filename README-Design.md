@@ -107,7 +107,7 @@ You must understand the concepts of CRM, sales cycles, B2B, B2C, ROI, performanc
 9) https://youtu.be/PT0bkGv8DDU
 10) https://youtu.be/SlhESAKF1Tk
 
-You must be able organize visual design and verbal content to produce professional quality deliverables (e.g., a video advertisement, website design, email circular, instructional diagram, etc.):
+You must be able organize visual design and verbal content to produce professional quality deliverables (e.g., a video advertisement, website design, email circular, instructional diagram, infographic, etc.):
 
 1) https://medium.com/blocksurvey/tips-and-tricks-to-design-a-better-ui-2da44cee6c17
 2) https://www.youtube.com/watch?v=kkeRVk3s89A
@@ -122,6 +122,9 @@ You must be able organize visual design and verbal content to produce profession
 11) https://youtu.be/c21cHrw5b9g
 12) https://youtu.be/9i_WVm5LPSc
 13) https://youtu.be/NyB0x9F9MKs
+14) https://youtu.be/rl9ZcfKt8sY
+15) https://youtu.be/uBBmbdPbfhw
+16) https://visme.co/blog/best-data-visualizations/
 
 You must be able to structure information and write effective, compelling copy:
 
