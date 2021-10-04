@@ -133,7 +133,7 @@ README: Some popular _frontend (client)_ frameworks include [React](https://yout
 
 1) https://www.youtube.com/watch?v=cuHDQhDhvPE
 
-README: [TypeScript](https://youtu.be/eCZhz0JCVx0) is a popular JavaScript-compatible language that is designed to make it easier to debug web client-server software written in JavaScript. TypeScript written for the client compiles to browser-readable JavaScript. TypeScript can be [auto-formatted](https://spin.atomicobject.com/2017/06/05/tslint-linting-setup/) ("linted"), like most programming languages.
+README: [TypeScript](https://youtu.be/eCZhz0JCVx0) is a popular JavaScript-compatible language that is designed to make it easier to compose and debug client-server software written in JavaScript. TypeScript is a [_superset_](https://www.typescriptlang.org) of JavaScript that compiles to JavaScript for the browser or server. TypeScript can be [auto-formatted](https://spin.atomicobject.com/2017/06/05/tslint-linting-setup/) ("linted"), like most programming languages.
 
 README: [Sass](https://youtu.be/APM1mcKbK7o) is a CSS-compatible language designed to make to easier to write and maintain CSS styling code. Sass compiles to browser-readable CSS.
 
@@ -236,7 +236,7 @@ README: You find the scripts and programs you want for DevOps "orchestration" ho
 2) Vagrant (set up preconfigured servers / VMs): https://app.vagrantup.com/boxes/search?utf8=✓&sort=downloads&provider=&q=kali
 3) Docker (set up “containers“ - OSs and programs running inside their own little VMs): https://hub.docker.com/search?q=kali&type=image ; https://kubernetes.io/docs/concepts/containers/
 
-README: DevOps is also called [Infrastructure as Code](https://youtu.be/KxxRl6VEBxI) (IaC). Like most standardization processes, DevOps reduces the _fragility_ of systems by improving the reproducability and maintainablity of component parts. Client-server infrastructure scripts, for example, describe and deploy not only your client-server builds, but also the requisite infrastructure dependencies, including, but not limited to, host operating systems (VMs where your code runs), web servers (programs to help forward requests to your software), load balancers (programs to help manage request-response traffic), message queues (programs to help manage sending messages like email password resets and in-app notifications), search indexes, databases, block storage tools, logging tools, monitoring tools, and more.
+README: DevOps is also called [Infrastructure as Code](https://youtu.be/KxxRl6VEBxI) (IaC). Like most standardization processes, DevOps reduces the _fragility_ of systems by improving the reproducability and maintainablity of component parts. Client-server infrastructure scripts, for example, describe and deploy not only your client-server app builds, but also their requisite infrastructure dependencies, including, but not limited to, host operating systems (VMs where your code runs), web servers (programs to help forward requests to your software), load balancers (programs to help manage request-response traffic), message queues (programs to help manage sending messages like email password resets and in-app notifications), search indexes, databases, block storage tools, logging tools, monitoring tools, and more.
 
 #### DevOps Videos & Links
 
