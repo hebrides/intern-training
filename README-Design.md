@@ -137,7 +137,7 @@ You must be able to structure information and write effective, compelling copy:
 
 ### 1. Project Generator
 
-Using the design and mockup program Figma, and the project generator linked below, complete a *Branding, Marketing, and UX / Product* design:
+Using the design and mock-up program Figma, and the project generator linked below, complete a *Branding, Marketing, and UX / Product* design:
 
 https://sharpen.design/
 
@@ -145,7 +145,7 @@ https://sharpen.design/
 
 Create a design for an interactive surf clock using Figma. 
 
-The interactive design you complete should show time / date / weather and wave period / height information, as well as streamed video from a selectable list of surf spots. (The streaming video does not have to function; you can use a screenshot.) 
+The interactive design you complete should show time / date / weather and wave period / height information, as well as streamed video from a selectable list of surf spots. (The streaming video does not have to function; use a screenshot.) 
 
 ### 3. Marketing Project
 
