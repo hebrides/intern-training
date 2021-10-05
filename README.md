@@ -76,6 +76,7 @@ You must master programming fundamentals to be able to efficiently implement ide
 2) https://youtu.be/Us4LwTjWFaY
 3) https://youtu.be/7oS1i-IWp1Q
 4) https://youtu.be/azcrPFhaY9k
+5) https://www.youtube.com/c/cs50
 
 ### Software Design Patterns
 
