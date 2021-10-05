@@ -220,7 +220,8 @@ You show know about A Records, MX Records, and other DNS records. You should und
 4) https://www.nslookup.io/learning/dns-record-types/
 
 Cloudflare provides valuable DNS services free for web application developers:
-1) https://www.cloudflare.com/dns/
+1) https://www.cloudflare.com/learning/dns/what-is-dns/
+2) https://www.cloudflare.com/dns/
 
 ### F. DevOps
 
