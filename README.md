@@ -237,7 +237,7 @@ README: You find the scripts and programs you want for DevOps "orchestration" ho
 2) Vagrant (set up preconfigured servers / VMs): https://app.vagrantup.com/boxes/search?utf8=✓&sort=downloads&provider=&q=kali
 3) Docker (set up “containers“ - OSs and programs running inside their own little VMs): https://hub.docker.com/search?q=kali&type=image ; https://kubernetes.io/docs/concepts/containers/
 
-README: DevOps is also called [Infrastructure as Code](https://youtu.be/KxxRl6VEBxI) (IaC). Like most standardization processes, DevOps reduces the _fragility_ of systems by improving the reproducability and maintainablity of component parts. Client-server infrastructure scripts, for example, describe and deploy not only your app builds, but also infrastructure dependencies, including, but not limited to, host operating systems (VMs where your code runs), web servers (programs to help forward requests to your software), load balancers (programs to help manage request-response traffic), message queues (programs to help manage sending messages like email password resets and in-app notifications), search indexes, databases, block storage tools, logging tools, monitoring tools, and more.
+README: DevOps is also called [Infrastructure as Code](https://youtu.be/KxxRl6VEBxI) (IaC). Like most standardization processes, DevOps reduces the _fragility_ of systems by improving the reproducability and maintainablity of component parts. Client-server infrastructure scripts, for example, describe and deploy not only your app builds, but also infrastructure dependencies, including, but not limited to, host operating systems (VMs where your code runs), web servers (programs to help forward requests to your software), load balancers (programs to help manage request-response traffic), message queues (programs to help manage sending messages like email password resets and in-app notifications), caches, search indexes, databases, block storage tools, logging tools, monitoring tools, and more.
 
 #### DevOps Videos & Links
 
@@ -253,6 +253,9 @@ README: DevOps is also called [Infrastructure as Code](https://youtu.be/KxxRl6VE
 10) https://youtu.be/DZRG2sezIl4
 11) https://digital.ai/periodic-table-of-devops-tools
 12) https://youtu.be/UmdVsXr5eak
+13) https://youtu.be/oq1fOr6Ryws
+14) https://youtu.be/7MLXuG83Fsw
+15) https://www.youtube.com/playlist?list=PLkWRCY_kK0GgrU0L2nnRtzef8HPVsJp0r (optional)
 
 ### G. DevSecOps
 
