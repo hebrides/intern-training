@@ -30,7 +30,7 @@ To start your way to becoming an _amazing web artisan_, read and watch the below
 - You must know how to use templates and prebuilt art to save time; a designer often works like a conductor, orchestrating premade work to make a coherent whole. 
 - You must keep up with trends so your work feels fresh (even if freshness comes by going _against_ trends). 
 - You must reach out to design blogs and magazines for sources of inspiration.
-- You must seek guidance from seasoned peers and become part of a professional community. Start early by putting your work on portfolio sites like [Dribbble](https://dribbble.com) and [Behance](https://www.behance.net/). Solicit C+R from these sites and other communities like [Reddit](https://www.reddit.com/r/UXDesign/) and [Discord](https://discord.com/invite/web). Follow your favorite creatives on social media.
+- You must seek guidance from seasoned peers and become part of a professional community. Start early by putting your work on portfolio sites like [Dribbble](https://dribbble.com) and [Behance](https://www.behance.net/). Solicit C+R from members of these sites and other communities like [Reddit](https://www.reddit.com/r/UXDesign/) and [Discord](https://discord.com/invite/web). Follow your favorite creatives on social media.
 
 1) https://www.figma.com
 2) https://shuffle.dev
