@@ -58,13 +58,14 @@ You must understand how network protocols work to encode information for routing
 You must understand the basic security strategies used for encrypting data for network communications.
 
 1) https://youtu.be/cczlpiiu42M
-2) https://youtu.be/84sO-0JxoHU
-3) https://youtu.be/KyUTuwz_b7Q
-4) https://youtu.be/vKpqYSyRZck
-5) https://youtu.be/0TLDTodL7Lc
-6) https://youtu.be/E_wX40fQwEA
-7) https://www.youtube.com/watch?v=86cQJ0MMses
-8) http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html
+2) https://youtu.be/GSIDS_lvRv4
+3) https://youtu.be/84sO-0JxoHU
+4) https://youtu.be/KyUTuwz_b7Q
+5) https://youtu.be/vKpqYSyRZck
+6) https://youtu.be/0TLDTodL7Lc
+7) https://youtu.be/E_wX40fQwEA
+8) https://www.youtube.com/watch?v=86cQJ0MMses
+9) http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html
 
 ### D. Web Programming / Env / App Structures / Laravel / NodeJS / Testing
 
