@@ -62,8 +62,9 @@ You must understand the basic security strategies used for encrypting data for n
 3) https://youtu.be/KyUTuwz_b7Q
 4) https://youtu.be/vKpqYSyRZck
 5) https://youtu.be/0TLDTodL7Lc
-6) https://www.youtube.com/watch?v=86cQJ0MMses
-7) http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html
+6) https://youtu.be/E_wX40fQwEA
+7) https://www.youtube.com/watch?v=86cQJ0MMses
+8) http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html
 
 ### D. Web Programming / Env / App Structures / Laravel / NodeJS / Testing
 
