@@ -43,14 +43,14 @@ You must understand how network protocols work to encode information for routing
 4) https://youtu.be/QrNnRJqTMO8
 5) https://youtu.be/MVihcigDlbA
 6) https://youtu.be/nomyRJehhnM
-7) https://youtu.be/6sUbt-Qp6Pg
-8) https://youtu.be/7YcW25PHnAA
-9) https://youtu.be/c9gqtjMaFHA
-10) https://youtu.be/GrNrcmD6HLA
-11) https://youtu.be/wJa5CTIFj7U
-12) https://youtu.be/cA9ZJdqzOoU
-13) https://youtu.be/yBB2VKG1_X4
-14) https://youtu.be/8ARodQ4Wlf4
+8) https://youtu.be/6sUbt-Qp6Pg
+9) https://youtu.be/7YcW25PHnAA
+10) https://youtu.be/c9gqtjMaFHA
+11) https://youtu.be/GrNrcmD6HLA
+12) https://youtu.be/wJa5CTIFj7U
+13) https://youtu.be/cA9ZJdqzOoU
+14) https://youtu.be/yBB2VKG1_X4
+15) https://youtu.be/8ARodQ4Wlf4
 
 
 ### C. Key Security & Hashing
@@ -61,7 +61,9 @@ You must understand the basic security strategies used for encrypting data for n
 2) https://youtu.be/84sO-0JxoHU
 3) https://youtu.be/KyUTuwz_b7Q
 4) https://youtu.be/vKpqYSyRZck
-5) http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html
+5) https://youtu.be/0TLDTodL7Lc
+6) https://www.youtube.com/watch?v=86cQJ0MMses
+7) http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html
 
 ### D. Web Programming / Env / App Structures / Laravel / NodeJS / Testing
 
