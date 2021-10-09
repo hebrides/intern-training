@@ -1,6 +1,6 @@
 ## Zero to Hero - SMG Mobile's Web Application Developer Intern Training Guide
 
-Watch the below videos and complete the exercises within, in order, to start your way to becoming an _amazing web developer_. Note, you will not find complex algorithmic puzzles or tricky math problems here. Great developers are craftspersons who enjoy _making things_.
+Watch the below videos and complete the exercises within, in order, to start your way to becoming an _amazing web developer_. Note, you will not find complex algorithmic puzzles or tricky math problems here. Great developers are craftspersons who enjoy _making things_. 
 
 ### A. Command Line / Bash
 
@@ -218,10 +218,11 @@ You should know what a "technology stack" means. There are a multitude of tools 
 
 You show know about A Records, MX Records, and other DNS records. You should understand how the internet associates human-readable names with machine-readable IP addresses.
 
-1) https://youtu.be/dE4rsNuG0aw
-2) https://youtu.be/By7N3nuQc7w
-3) https://www.youtube.com/watch?v=NijONS9gMZ0
-4) https://www.nslookup.io/learning/dns-record-types/
+1) https://youtu.be/uOfonONtIuk
+2) https://youtu.be/dE4rsNuG0aw
+3) https://youtu.be/By7N3nuQc7w
+4) https://www.youtube.com/watch?v=NijONS9gMZ0
+5) https://www.nslookup.io/learning/dns-record-types/
 
 Cloudflare provides valuable DNS services free for web application developers:
 1) https://www.cloudflare.com/learning/dns/what-is-dns/
