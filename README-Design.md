@@ -45,8 +45,10 @@ To start your way to becoming an _amazing web artisan_, read and watch the below
 11) https://youtu.be/PlUWgs6LYrQ
 12) https://youtu.be/2xc9YKdlLW0
 13) https://www.thisiscolossal.com
-14) https://www.awwwards.com
-15) https://tympanus.net/codrops/
+14) https://tympanus.net/codrops/
+15) https://godly.website
+16) https://thefwa.com
+17) https://www.awwwards.com
 
 ### Workflow / Process
 
