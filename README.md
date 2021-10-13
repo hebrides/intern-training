@@ -34,6 +34,7 @@ You must understand the client-server model of web application design
 2) https://youtu.be/pGGDdKZvYpI
 3) https://support.microsoft.com/en-us/office/database-design-basics-eb2159cf-1e30-401a-8084-bd4f9c9ca1f5
 4) https://www.mongodb.com/nosql-explained/data-modeling
+5) https://www.slideshare.net/mongodb/schema-design-by-example
 
 ### Protocols
 
