@@ -24,7 +24,7 @@ You must master the command line to become a proficient contributor to a softwar
 16) https://regexone.com/
 18) https://regexcrossword.com
 
-### B. TCP - FTP - HTTP - Client - Server API - CRUD - MySQL
+### B. TCP - FTP - HTTP - Client - Server API - CRUD - DB
 
 ### Client-Server Model
 
