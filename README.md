@@ -286,6 +286,9 @@ DevSecOps with Github Built In Tools:
 2) https://youtu.be/oXRdejqwBwc
 3) https://youtu.be/by25ZKJ6ENU
 
+Security Checks
+1) https://sysdig.com/blog/container-security-best-practices/
+
 ### H. Nix Systems
 
 By now you will have set up and run a few different Linux VMs on your PC or Mac dev machine. Here's another one to try:
