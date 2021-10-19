@@ -189,10 +189,10 @@ README: When __developing__ client / server software you will build and run both
 You must understand the request / response cycle in client-server applications. You must understand how to:
 1) Send a request to a server from a client
 2) Proxy (forward) requests using a webserver program like Apache or Nginx from the HTTP port to a process port or program executable
-3) Action client requests to a server, from the server, using a server script listening on a port
-4) Action client requests to a server, from the server, using a server script to communicate to a hosted or remote database 
-4) Action client requests to a server, from the server, using a server script to communicate to a 3rd party API, microservice, or Lambda compute service
-6) Action client requests to a server, from the server, using a server script and output from a native application executable or shell script
+3) Action client requests to a server using a server script listening on a port
+4) Action client requests to a server using a server script to communicate to a hosted or remote database 
+4) Action client requests to a server using a server script to communicate to a 3rd party API, microservice, or Lambda compute service
+6) Action client requests to a server using a server script and output from a native application executable or shell script
 7) Store data uploaded from the client to the server on the server's file system, in a database, or via a 3rd party service (like AWS S3)
 8) Generate a proper response, with data payload and appropriate headers, to the client
 9) Use the term API to refer to a library, function, script, or remote app that accepts requests (inputs), and sends responses (outputs): https://free-apis.github.io/#/ 
