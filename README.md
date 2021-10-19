@@ -242,7 +242,7 @@ Cloudflare provides valuable DNS services free for web application developers:
 You should become proficient in DevOps.
 
 README: DevOps in practice means utilizing two main skills to automate tasks: 
-1) Writing scripts to set up virtual machines (VMs) with the operating systems, databases and programs you want pre-installed and configured. 
+1) Writing scripts to set up [virtual machines](https://youtu.be/wX75Z-4MEoM) (VMs) with the operating systems, databases and programs you want pre-installed and configured. 
 2) Writing scripts to automate CICD (Continuous Integration / Deployment): This is automating the hosting of new versions of your app / game / tool via scripts that talk to your Github (or self-hosted) repo and your servers. 
 
 README: You find the scripts and programs you want for DevOps "orchestration" hosted online at different “hubs”, e.g.:
@@ -255,21 +255,23 @@ README: DevOps is also called [Infrastructure as Code](https://youtu.be/KxxRl6VE
 
 #### DevOps Videos & Links
 
-1) https://youtu.be/KxxRl6VEBxI
-2) https://youtu.be/POPP2WTJ8es
-3) https://www.youtube.com/watch?v=jyW3D74I3_w
-4) https://devopscube.com/become-devops-engineer/
-5) https://youtu.be/OXE2a8dqIAI
-6) https://www.youtube.com/watch?v=j5Zsa_eOXeY
-7) https://www.youtube.com/watch?v=hQcFE0RD0cQ
-8) https://youtu.be/PwSZpcl7vUE
-9) https://youtu.be/xhva6DeKqVU
-10) https://youtu.be/DZRG2sezIl4
-11) https://digital.ai/periodic-table-of-devops-tools
-12) https://youtu.be/UmdVsXr5eak
-13) https://youtu.be/oq1fOr6Ryws
-14) https://youtu.be/7MLXuG83Fsw
-15) https://www.youtube.com/playlist?list=PLkWRCY_kK0GgrU0L2nnRtzef8HPVsJp0r (optional)
+1) https://youtu.be/yIVXjl4SwVo
+2) https://youtu.be/wX75Z-4MEoM
+3) https://youtu.be/KxxRl6VEBxI
+4) https://youtu.be/POPP2WTJ8es
+5) https://www.youtube.com/watch?v=jyW3D74I3_w
+6) https://devopscube.com/become-devops-engineer/
+7) https://youtu.be/OXE2a8dqIAI
+8) https://www.youtube.com/watch?v=j5Zsa_eOXeY
+9) https://www.youtube.com/watch?v=hQcFE0RD0cQ
+10) https://youtu.be/PwSZpcl7vUE
+11) https://youtu.be/xhva6DeKqVU
+12) https://youtu.be/DZRG2sezIl4
+13) https://digital.ai/periodic-table-of-devops-tools
+14) https://youtu.be/UmdVsXr5eak
+15) https://youtu.be/oq1fOr6Ryws
+16) https://youtu.be/7MLXuG83Fsw
+17) https://www.youtube.com/playlist?list=PLkWRCY_kK0GgrU0L2nnRtzef8HPVsJp0r (optional)
 
 ### G. DevSecOps
 
