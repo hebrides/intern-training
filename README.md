@@ -181,6 +181,8 @@ NOTE: No one can master _every_ language, framework, library or tool. Familiariz
 You should know what software tests do. Many professional production environments require developers to write "unit tests" as a foundation of [Quality Assurance](https://youtu.be/gNmrGZSGK1k). Besides unit tests, there are also "integration" and "functional" tests.:
 
 1) https://www.tutorialspoint.com/agile_testing/agile_testing_quadrants.htm
+2) https://youtu.be/Eu35xM76kKY
+3) https://stackoverflow.com/questions/398004/do-you-write-your-unit-tests-before-or-after-coding-a-piece-of-functionality
 
 README: When __developing__ client / server software you will build and run both the client and server on your local machine. When __testing__, you will test your work on a remote development server. Prior to __release__, you and your colleagues will conduct user-acceptance, security, and stress testing with remote servers and clients.
 
