@@ -210,6 +210,8 @@ You should know what a "technology stack" means. An client-server app's tech sta
 
 ### Part 6. Video Training Links 
 
+Watch these videos and complete the exercises within.
+
 1) https://youtu.be/gNmrGZSGK1k
 2) https://youtu.be/bf8L9tQi_MQ
 3) https://youtu.be/vrj9AohVhPA
