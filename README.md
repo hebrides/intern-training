@@ -202,7 +202,7 @@ You must understand the request / response cycle in client-server applications. 
 
 ### Part 5. Tech Stacks
 
-You should know what a "technology stack" means. Stacks refer to the multitude of tools available to construct client-server software. Such a toolset diversity is beneficial but can cause [confusion](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.ahu2qlv13) for beginners.
+You should know what a "technology stack" means. An client-server app's tech stack refers to the set of commercial and free tools used to build, deploy, and host the app. In modern development, there are a multitude of these tools, and this diversity can cause [confusion](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.ahu2qlv13) for beginners. Instead of exploring every possible tech stack, use the set of tools that best solve your problem. New isn't always better.
 
 1) https://stackshare.io/stacks
 2) https://youtu.be/Sxxw3qtb3_g 
