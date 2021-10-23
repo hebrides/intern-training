@@ -226,6 +226,7 @@ Watch these videos and complete the exercises within.
 12) https://youtu.be/eCZhz0JCVx0
 13) https://youtu.be/NmwtF0fAUfI
 14) https://youtu.be/5IG4UmULyoA
+15) https://blog.warrant.dev/implementing-role-based-access-control
 
 ### E. DNS
 
