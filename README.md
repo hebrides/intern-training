@@ -146,7 +146,7 @@ README: Some popular _frontend (client)_ frameworks include [React](https://yout
 
 README: [TypeScript](https://youtu.be/eCZhz0JCVx0) is a popular JavaScript-[_superset_](https://www.typescriptlang.org) designed to make it easier to [compose and debug JavaScript](https://youtu.be/Jp89ZbT2rQM). TypeScript compiles to regular JavaScript for running on the browser, your local PC, or a web server. TypeScript can be [auto-formatted](https://spin.atomicobject.com/2017/06/05/tslint-linting-setup/) ("linted"), like most programming languages.
 
-README: [Sass](https://youtu.be/APM1mcKbK7o) is a CSS-compatible language designed to make to easier to write and maintain CSS styling code. Sass compiles to browser-readable CSS.
+README: [Sass](https://youtu.be/APM1mcKbK7o) is a CSS-compatible language designed to make it easier to write and maintain CSS styling code. Sass compiles to browser-readable CSS.
 
 README: Some programs, including [Cordova](https://cordova.apache.org) (commercially implemented as Capacitor & Ionic) and [Electron](https://www.electronjs.org), allow developers to bundle web applications as native apps that can run outside of the browser. (They deploy a hidden, mini-browser to contain the app.) [VSCode]((https://www.electronjs.org/apps/visual-studio-code)) is a popular "web app" built using Electron.
 
@@ -202,7 +202,7 @@ You must understand the request / response cycle in client-server applications. 
 
 ### Part 5. Tech Stacks
 
-You should know what a "technology stack" means. A client-server app's tech stack refers to the set of commercial and free tools used to build, deploy, and host the app. In modern development, there are a multitude of these tools, and this diversity can cause [confusion](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.ahu2qlv13) for beginners. Instead of exploring every possible tech stack, use the set of tools that best solve your problem. New isn't always better.
+You should know what a "technology stack" means. A client-server app's tech stack refers to the set of commercial and free tools used to build, deploy, and host the app. There are a multitude of tech stack tools; this diversity causes [confusion](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.ahu2qlv13) for beginners. Instead of exploring every possible tech stack tool, learn to use a few that best meet your requirements. Newer isn't always better. Strive to use proven tools that help you build efficiently and deliver maintainable systems. 
 
 1) https://stackshare.io/stacks
 2) https://youtu.be/Sxxw3qtb3_g 
