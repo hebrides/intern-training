@@ -202,7 +202,7 @@ You must understand the request / response cycle in client-server applications. 
 
 ### Part 5. Tech Stacks
 
-You should know what a "technology stack" means. A client-server app's tech stack refers to the set of commercial and free tools used to build, deploy, and host the app. There are a multitude of tech stack tools; this diversity causes [confusion](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.ahu2qlv13) for beginners. Instead of exploring every possible tech stack tool, learn to use a few that best meet your requirements. Newer isn't always better. Strive to use proven tools that help you build efficiently and deliver maintainable systems. 
+You should know what a "technology stack" means. A client-server app's tech stack refers to the set of commercial and free tools used to build, deploy, and host the app. There are a multitude of tech stack tools, making it [difficult](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.ahu2qlv13) to determine what tools to use, especially for beginners. Instead of exploring every possible tech stack tool, learn to use a few that best meet your requirements. Newer isn't always better. Strive to use proven tools that help you build efficiently and deliver maintainable systems. 
 
 1) https://stackshare.io/stacks
 2) https://youtu.be/Sxxw3qtb3_g 
@@ -288,6 +288,7 @@ README: For development security ops, e.g., you will use DevOps tools to spin up
 2) https://youtu.be/7UG8wE58vU8
 3) https://cybersguards.com/list-of-hacking-tools/
 4) https://www.offensive-security.com/metasploit-unleashed/
+5) https://software.af.mil/wp-content/uploads/2021/05/DoD-Enterprise-DevSecOps-2.0-Fundamentals.pdf
 
 DevSecOps with Github Built In Tools:
 1) https://youtu.be/hln5v7odguE
