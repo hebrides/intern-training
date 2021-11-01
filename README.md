@@ -187,7 +187,7 @@ You should know what software tests do. Many professional production environment
 5) https://www.youtube.com/watch?v=ydddSkVz_a8
 6) https://en.m.wikipedia.org/wiki/Behavior-driven_development
 
-README: When __developing__ client / server software you will build and run both the client and server on your local machine. When __testing__, you will test your work on a remote development server. Prior to __release__, you and your colleagues will conduct user-acceptance, security, and stress testing with remote servers and clients.
+README: When __developing__ client / server software you will build and run both the client and server on your **local machine**. When __testing__, you will test your work **locally** and on a __remote development server__. Prior to __release__, you and your colleagues will conduct user-acceptance, security, and stress testing with **remote servers and remote clients**.
 
 ### Part 4. Requests and Responses
 
