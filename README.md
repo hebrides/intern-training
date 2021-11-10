@@ -166,7 +166,7 @@ README: Developers use multiple _backend_ languages to handle server-side operat
 
 README: Some web development frameworks handle the _full stack_, web client and server, with one primary language, e.g., [Meteor](https://www.meteor.com/#!) (JS), [Django](https://www.djangoproject.com) (Python), and [Laravel](https://laravel.com) (PHP); these can optionally be used with "frontend only" helper frameworks, like the ones listed above, to make the client part of development easier.
 
-README: Some frameworks work better than others in certain situations due to a number of factors, including _web application architecture_, business requirements, team size, developer skill-level, and development leadership taste:
+README: Some frameworks work better than others in certain situations due to a number of factors, including _web application architecture_, business requirements, team size, developer skill-level, and team preferences:
 
 1) https://www.scnsoft.com/blog/web-application-architecture
 2) https://hackernoon.com/how-to-choose-a-web-application-framework
@@ -205,7 +205,7 @@ You must understand the request / response cycle in client-server applications. 
 
 ### Part 5. Tech Stacks
 
-You should know what a "technology stack" means. A client-server app's tech stack refers to the set of commercial and free tools used to build, deploy, and host the app. There are a multitude of tech stack tools, making it [difficult](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.ahu2qlv13) to determine what tools to use, especially for beginners. Instead of exploring every possible tech stack tool, learn to use a few that best meet your requirements. Newer isn't always better. Strive to use proven tools that help you build software efficiently and deliver maintainable systems. 
+You should know what a "technology stack" means. A client-server app's tech stack refers to the set of commercial and free tools used to build, deploy, and host the app. There are a multitude of tech stack tools. Beginners sometimes [struggle](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.ahu2qlv13) with where to start. Instead of exploring every possible tech stack tool, learn the minimum to meet your requirements. As you gain capabilities, strive to use proven tools that help you build software efficiently and deliver maintainable systems. Newer tools aren't always better.
 
 1) https://stackshare.io/stacks
 2) https://youtu.be/Sxxw3qtb3_g 
