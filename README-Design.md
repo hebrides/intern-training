@@ -147,7 +147,7 @@ https://sharpen.design/
 
 ### 2. UX Project
 
-Create a design for an interactive surf clock using Figma. ⏰ 🌊 🏄 
+Create a design for an interactive surf clock using [Figma](http://figma.com). ⏰ 🌊 🏄 
 
 The interactive design should show 1. time 2. date 3. weather 4. wave period  5. wave height information, and 6. streaming video from 7. a selectable list of surf spots. The streaming video does not need to function. Use a screenshot! It's a *design*.
 
