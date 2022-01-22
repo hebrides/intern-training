@@ -149,7 +149,7 @@ https://sharpen.design/
 
 Create a design for an interactive surf clock using Figma. 
 
-The interactive design you complete should show time / date / weather and wave period / height information, as well as streamed video from a selectable list of surf spots. (The streaming video does not need to function; use a screenshot.) 
+The interactive design should show time / date / weather and wave period / height information, as well as streaming video from a selectable list of surf spots. The streaming video does not need to function; use a screenshot.
 
 ### 3. Marketing Project
 
