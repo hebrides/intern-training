@@ -280,13 +280,15 @@ README: DevOps is also called [Infrastructure as Code](https://youtu.be/KxxRl6VE
 15) https://youtu.be/oq1fOr6Ryws
 16) https://youtu.be/7MLXuG83Fsw
 17) https://youtu.be/J-xqz_ZM9Wg
-18) https://www.youtube.com/playlist?list=PLkWRCY_kK0GgrU0L2nnRtzef8HPVsJp0r (optional)
+18) https://erik-ekberg.medium.com/how-to-test-aws-lambda-locally-6f07bd36abd9
+19) https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-performance-testing-visual-studio-profiler
+20) https://www.youtube.com/playlist?list=PLkWRCY_kK0GgrU0L2nnRtzef8HPVsJp0r (optional)
 
 ### G. DevSecOps
 
 You should understand the purpose of automating security tools to test your software against exploits and hacks.
 
-README: For development security ops, e.g., you will use DevOps tools to spin up and test an application’s full server structure (all the VMs and containers) on your home PC (a machine with 32-64GB ram would be ideal for this, min. 16GB ram).
+README: For development security ops, e.g., you will use DevOps tools to spin up and test an application’s full server structure (all the VMs, services and containers) on your home PC (a machine with 32-64GB ram would be ideal for this, min. 16GB ram).
 
 1) https://youtu.be/ng1bvXsp9ZA
 2) https://youtu.be/7UG8wE58vU8
