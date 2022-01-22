@@ -250,7 +250,7 @@ Cloudflare provides valuable DNS services free for web application developers:
 You should become proficient in DevOps.
 
 README: DevOps in practice means utilizing two main skills to automate tasks: 
-1) Writing scripts to set up [virtual machines](https://youtu.be/wX75Z-4MEoM) (VMs) with the operating systems, databases and programs you want pre-installed and configured. These scripts can also set up services that help you [scale](https://youtu.be/J-xqz_ZM9Wg) your application, so it can manage many thousands, or evens millions, of users.
+1) Writing scripts to set up [virtual machines](https://youtu.be/wX75Z-4MEoM) (VMs) with the operating systems, databases and programs you want pre-installed and configured. These scripts can also set up services that help you [scale](https://youtu.be/J-xqz_ZM9Wg) your application, so it can manage many thousands, or even millions, of users.
 2) Writing scripts to automate CICD (Continuous Integration / Deployment): This is automating the hosting of new versions of your app / game / tool via scripts that talk to your Github (or self-hosted) repo and your servers. 
 
 README: You find the scripts and programs you want for DevOps "orchestration" hosted online at different “hubs”, e.g.:
@@ -279,7 +279,8 @@ README: DevOps is also called [Infrastructure as Code](https://youtu.be/KxxRl6VE
 14) https://youtu.be/UmdVsXr5eak
 15) https://youtu.be/oq1fOr6Ryws
 16) https://youtu.be/7MLXuG83Fsw
-17) https://www.youtube.com/playlist?list=PLkWRCY_kK0GgrU0L2nnRtzef8HPVsJp0r (optional)
+17) https://youtu.be/J-xqz_ZM9Wg
+18) https://www.youtube.com/playlist?list=PLkWRCY_kK0GgrU0L2nnRtzef8HPVsJp0r (optional)
 
 ### G. DevSecOps
 
