@@ -206,7 +206,7 @@ You must understand the request / response cycle in client-server applications. 
 
 ### Part 5. Tech Stacks
 
-You should know what a "technology stack" means. A client-server app's tech stack refers to the set of commercial and free tools used to build, deploy, and host the app. Junior developers often [struggle](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.ahu2qlv13) deciding what tech stack tools to use to start out.  By focusing on what's needed to reach _one critical part of the project at a time_, e.g., the client app, the server app, VCS, CI/CD, testing, you can avoid becoming paralyzed by choice. Learning a stack that has [deep roots](https://docs.microsoft.com/en-us/visualstudio/ide/quickstart-aspnet-core) is a safe bet, but you should also consider engaging with [newer tools](https://deno.com/deploy)!
+You should know what a "technology stack" means. A client-server app's tech stack refers to the set of commercial and free tools used to build, deploy, and host the app. Junior developers often [struggle](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.ahu2qlv13) deciding what tech stack tools to use to start out.  By focusing on what's needed to complete _one critical part of the project at a time_, e.g., the client app, the server app, VCS, CI/CD, testing, you can avoid becoming paralyzed by choice. Learning a stack that has [deep roots](https://docs.microsoft.com/en-us/visualstudio/ide/quickstart-aspnet-core) is a safe bet, but you should also consider engaging with [newer](https://deno.com/deploy) [tools](https://svelte.dev) and [stacks](https://nextjs.org)!
 
 1) https://stackshare.io/stacks
 2) https://youtu.be/Sxxw3qtb3_g 
