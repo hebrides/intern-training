@@ -113,6 +113,7 @@ You must understand how to use IDEs, VCSs, and Debugging Tools.
 10) https://semver.org
 11) https://www.freshconsulting.com/insights/blog/atomic-commits/
 12) https://youtu.be/Uszj_k0DGsg
+13) https://mokkapps.de/blog/how-to-automatically-generate-a-helpful-changelog-from-your-git-commit-messages/
 
 ### Linting
 
