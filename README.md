@@ -175,7 +175,7 @@ README: Some frameworks work better than others in certain situations due to a n
 
 README: Software developers, no matter what language they're using, take advantage of libraries of pre-built code to speed things up. Web developers use special libraries for JavaScript known as "packages". Packages can be downloaded from one of two popular package repositories, [npm](https://www.npmjs.com) and [yarn](https://yarnpkg.com) (using the eponymous command line tools, `npm install` and `yarn install`). Note: Developers also add pre-built JavaScript libraries directly using special HTML links and JavaScript includes. Note 2: Developers use [bundlers](https://youtu.be/5IG4UmULyoA), like Webpack / Parcel / Snowpack, to minify and combine web application code so it can be delivered to browsers more efficiently. 
 
-NOTE: No one can master _every_ language, framework, library or tool. Familiarize yourself with the tools you need to reach _your goals_. Start simple, move to complex.
+NOTE: No developer can master _every_ language, framework, library or tool. Familiarize yourself with the tools you need to reach _your goals_. Start simple, move to complex.
 
 ### Part 3. Web Software Tests
 
