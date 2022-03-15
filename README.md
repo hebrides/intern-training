@@ -210,7 +210,9 @@ Read:
 
 ### Part 5. Tech Stacks
 
-You should know what a "technology stack" means. A client-server app's tech stack refers to the set of commercial and free tools used to build, deploy, and host the app. Junior developers often [struggle](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.ahu2qlv13) to decide what tech stack tools to use to start out.  By learning tools suited to complete _one critical part of the project at a time_ (e.g., the client app, the server app, the message queue, the 3rd party tool, the CI/CD pipeline, the testing steps), devleopers can avoid becoming paralyzed by choice. Learning a stack that has [deep roots and support from a big vendor](https://docs.microsoft.com/en-us/visualstudio/ide/quickstart-aspnet-core) can be a safe bet, but it's also smart to engage with [newer](https://deno.com/deploy) [tools](https://svelte.dev) and [stacks](https://nextjs.org) from [open source](https://geekflare.com/self-hosted-s3/) communites, [academia](https://www.freebsd.org/), and [emerging](https://ipfs.io) tech providers to broaden skills!
+You should know what a "technology stack" means. A client-server app's tech stack refers to the set of commercial and free tools used to build, deploy, and host the app. Junior developers often [struggle](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.ahu2qlv13) to decide what tech stack tools to use to start out.  By learning tools suited to complete _one critical part of the project at a time_ (e.g., the client app, the server app, the message queue, the 3rd party tool, the CI/CD pipeline, the testing steps), devleopers can avoid becoming paralyzed by choice. Learning a stack that has [deep roots and support from a big vendor](https://docs.microsoft.com/en-us/visualstudio/ide/quickstart-aspnet-core) can be a safe bet, but it's also smart to engage with [newer](https://deno.com/deploy) [tools](https://svelte.dev) and [stacks](https://nextjs.org) from [open source](https://geekflare.com/self-hosted-s3/) communities, [academia](https://www.freebsd.org/), and [emerging](https://ipfs.io) tech providers to broaden skills!
+
+Still struggling with stacks? Ask yourself, what was the motivation for this tool? What specific problem was it invented to solve? Understand the problem first before you start learning solutions!
 
 1) https://stackshare.io/stacks
 2) https://youtu.be/Sxxw3qtb3_g 
@@ -328,4 +330,4 @@ You must have basic user interface design skills, and understand what interfaces
 6) Design innovation: https://www.awwwards.com
 7) Design inspiration: https://tympanus.net/codrops/
 
-Struggling? Ask yourself, what is the motivation for this concept, method, or tool? What specific problem was it invented to solve? Understand the problem first!
+
