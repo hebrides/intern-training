@@ -327,3 +327,5 @@ You must have basic user interface design skills, and understand what interfaces
 5) Dashboards: https://pixinvent.com/demo/vuexy-vuejs-laravel-admin-template/demo-1/dashboard/ecommerce
 6) Design innovation: https://www.awwwards.com
 7) Design inspiration: https://tympanus.net/codrops/
+
+Struggling? Ask yourself, what is the motivation for this concept, method, or tool? What specific problem was it invented to solve? Understand the problem first!
