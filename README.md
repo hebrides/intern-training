@@ -204,6 +204,7 @@ You must understand the request / response cycle in client-server applications. 
 9) Use the term API to refer to a library, function, script, or remote app that accepts requests (inputs), and sends responses (outputs): https://free-apis.github.io/#/ 
 10) Use a CDN: https://www.cloudflare.com/learning/cdn/what-is-a-cdn/
 
+Read:
 1) https://en.wikipedia.org/wiki/Common_Gateway_Interface
 2) http://stackoverflow.com/questions/152457/ddg#152863
 
@@ -262,7 +263,7 @@ README: You find the scripts and programs you want for DevOps "orchestration" ho
 1) Ansible (set up programs on existing servers): https://galaxy.ansible.com/search?deprecated=false&keywords=penetration%20&order_by=-relevance&page=1
 2) Vagrant (set up preconfigured servers / VMs): https://app.vagrantup.com/boxes/search?utf8=✓&sort=downloads&provider=&q=kali
 3) Docker (set up “containers“ - OSs and programs running inside their own little VMs): https://hub.docker.com/search?q=kali&type=image ; https://kubernetes.io/docs/concepts/containers/
-4) Kubernetes (set up a "cluster" of VMs and management tools, including programs, databases, and services in containers built with Docker spanning multiple "nodes" - VPSs or bare metal machines — that scale and change in response to network demands): https://helm.sh
+4) Kubernetes (set up a "cluster" of VMs and management tools, including programs, databases, and services in containers spanning multiple "nodes" - VPSs or bare metal machines — that scale and change in response to network demands): https://helm.sh
 
 README: DevOps is also called [Infrastructure as Code](https://youtu.be/KxxRl6VEBxI) (IaC). Like most standardization processes, DevOps reduces the _fragility_ of systems by improving the reproducability and maintainablity of component parts. Client-server infrastructure scripts, for example, describe and deploy not only your app builds, but also infrastructure dependencies, including, but not limited to, host operating systems (VMs where your code runs), web servers (programs to help forward requests to your software), load balancers (programs to help manage request-response traffic), message queues (programs to help manage sending messages like email password resets and in-app notifications to your clients), caches, search indexes, databases, block storage tools, logging tools, monitoring tools, and more.
 
