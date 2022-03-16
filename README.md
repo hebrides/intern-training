@@ -55,6 +55,7 @@ You must understand how network protocols work to encode information for routing
 14) https://youtu.be/yBB2VKG1_X4
 15) https://youtu.be/8ARodQ4Wlf4
 
+You should understand the concepts [Virtual Private Network](https://www.comparitech.com/blog/vpn-privacy/tor-vs-vpn/) (VPN), [TOR / onion routing](https://www.comparitech.com/blog/vpn-privacy/ultimate-guide-to-tor/), and have a basic grasp of [various](https://en.wikipedia.org/wiki/Mesh_networking) [network topologies](https://en.wikipedia.org/wiki/Network_topology).
 
 ### C. Key Security & Hashing
 
@@ -208,6 +209,7 @@ Read:
 1) https://en.wikipedia.org/wiki/Common_Gateway_Interface
 2) http://stackoverflow.com/questions/152457/ddg#152863
 
+
 ### Part 5. Tech Stacks
 
 You should know what a "technology stack" means. A client-server app's tech stack refers to the set of commercial and free tools used to build, deploy, and host the app. Junior developers often [struggle](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.ahu2qlv13) to decide what tech stack tools to use to start out.  By learning tools suited to complete _one critical part of the project at a time_ (e.g., the client app, the server app, the message queue, the 3rd party tool, the CI/CD pipeline, the testing steps), developers can avoid becoming paralyzed by choice. Learning a stack that has [deep roots and support from a big vendor](https://docs.microsoft.com/en-us/visualstudio/ide/quickstart-aspnet-core) can be a safe bet, but it's also smart to engage with [newer](https://deno.com/deploy) [tools](https://svelte.dev) and [stacks](https://nextjs.org) from [open source](https://geekflare.com/self-hosted-s3/) communities, [academia](https://www.freebsd.org/), and [emerging](https://ipfs.io) tech providers to broaden skills!
@@ -254,7 +256,9 @@ Cloudflare provides valuable DNS services free for web application developers:
 
 ### F. DevOps
 
-You should become proficient in DevOps.
+By now, if you haven't already, you should learn the concept of [virtualization](https://www.ispsystem.com/news/brief-history-of-virtualization) (more on this in DevOps below), and know what a Virtual Private Server (VPS) is. DevOps tools depend upon virtualization.
+
+You should become proficient in DevOps. 
 
 README: DevOps in practice means utilizing two main skills to automate tasks: 
 1) Writing scripts to set up [virtual machines](https://youtu.be/wX75Z-4MEoM) (VMs) with the operating systems, databases and programs you want pre-installed and configured. These scripts can also set up services that help you [scale](https://youtu.be/J-xqz_ZM9Wg) your application, so it can manage many thousands, or even millions, of users.
@@ -265,7 +269,7 @@ README: You find the scripts and programs you want for DevOps "orchestration" ho
 1) Ansible (set up programs on existing servers): https://galaxy.ansible.com/search?deprecated=false&keywords=penetration%20&order_by=-relevance&page=1
 2) Vagrant (set up preconfigured servers / VMs): https://app.vagrantup.com/boxes/search?utf8=✓&sort=downloads&provider=&q=kali
 3) Docker (set up “[containers](https://aws.amazon.com/getting-started/hands-on/break-monolith-app-microservices-ecs-docker-ec2/?contd_bm3)“ a.k.a. "[microservices](https://aws.amazon.com/microservices/)" - OSs and programs running inside their own little [VM-like processes](https://stackoverflow.com/questions/16047306/how-is-docker-different-from-a-virtual-machine?rq=1)): https://hub.docker.com/search?q=kali&type=image ; https://kubernetes.io/docs/concepts/containers/
-4) Kubernetes (set up a "cluster" of containers across multiple "nodes" - Virtual Private Servers (VPSs) or bare metal machines — so that the application components hosted in the containers (DBs, MQs, clients, servers, monitoring tools, etc.) scale and change automatically in response to network demand and application state): https://helm.sh
+4) Kubernetes (set up a "cluster" of containers across multiple "nodes" - VPSs or bare metal machines — so that the application components hosted in the containers (DBs, MQs, clients, servers, monitoring tools, etc.) scale and change automatically in response to network demand and application state): https://helm.sh
 
 README: DevOps is also called [Infrastructure as Code](https://youtu.be/KxxRl6VEBxI) (IaC). Like most standardization processes, DevOps reduces the _fragility_ of systems by improving the reproducability and maintainablity of component parts. Client-server infrastructure scripts, for example, describe and deploy not only your app builds, but also infrastructure dependencies, including, but not limited to, host operating systems (VMs where your code runs), web servers (programs to help forward requests to your software), load balancers (programs to help manage request-response traffic), message queues (programs to help manage sending messages like email password resets and in-app notifications to your clients), caches, search indexes, databases, block storage tools, logging tools, monitoring tools, and more.
 
