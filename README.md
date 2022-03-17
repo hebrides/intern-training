@@ -256,7 +256,7 @@ Cloudflare provides valuable DNS services free for web application developers:
 
 ### F. DevOps
 
-By now, if you haven't already, you should learn the concept of [virtualization](https://www.ispsystem.com/news/brief-history-of-virtualization) (more on this in DevOps below), and know the use cases for [different types of virtualization](https://www.liquidweb.com/blog/what-is-virtualization/), e.g., how [Virtual Private Server](https://www.ibm.com/cloud/learn/vps) (VPS) power the internet. DevOps tools depend upon [virtualization](https://www.retrogames.cc/arcade-games/marvel-vs-capcom-clash-of-super-heroes-980123-usa.html) tools and [virtualization layers](https://www.ibm.com/cloud/learn/virtualization-a-complete-guide).
+By now, if you haven't already, you should learn the concept of [virtualization](https://www.ispsystem.com/news/brief-history-of-virtualization) (more on this in DevOps below), and know the use cases for [different types of virtualization](https://www.liquidweb.com/blog/what-is-virtualization/), e.g., how [Virtual Private Servers](https://www.ibm.com/cloud/learn/vps) (VPSs) power the internet. DevOps tools depend upon [virtualization](https://www.retrogames.cc/arcade-games/marvel-vs-capcom-clash-of-super-heroes-980123-usa.html) tools and [virtualization layers](https://www.ibm.com/cloud/learn/virtualization-a-complete-guide).
 
 You should become proficient in DevOps. 
 
