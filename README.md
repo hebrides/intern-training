@@ -242,7 +242,7 @@ Watch these videos and complete the exercises within.
 
 ### E. DNS
 
-You show know about A Records, MX Records, and other DNS records. You should understand how the internet associates human-readable names with machine-readable IP addresses. You should understand how DNS servers work in concert with a set of other [key server applications](https://www.networkstraining.com/different-types-of-servers/) to power internet services. 
+You show know about A Records, MX Records, and other DNS records. You should understand how the internet associates human-readable names with machine-readable IP addresses. You should understand how DNS servers work in concert with other [key server-based applications](https://www.networkstraining.com/different-types-of-servers/) to provide internet services. 
 
 1) https://youtu.be/uOfonONtIuk
 2) https://youtu.be/dE4rsNuG0aw
