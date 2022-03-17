@@ -283,31 +283,32 @@ Do you really need to master advanced DevOps pipelining and orchestration tools 
 
 #### DevOps Videos & Links
 
-1) https://youtu.be/yIVXjl4SwVo
-2) https://youtu.be/wX75Z-4MEoM
-3) https://youtu.be/KxxRl6VEBxI
-4) https://youtu.be/POPP2WTJ8es
-5) https://www.youtube.com/watch?v=jyW3D74I3_w
-6) https://devopscube.com/become-devops-engineer/
-7) https://youtu.be/OXE2a8dqIAI
-8) https://www.youtube.com/watch?v=j5Zsa_eOXeY
-9) https://www.youtube.com/watch?v=hQcFE0RD0cQ
-10) https://youtu.be/PwSZpcl7vUE
-11) https://youtu.be/xhva6DeKqVU
-12) https://youtu.be/DZRG2sezIl4
-13) https://digital.ai/periodic-table-of-devops-tools
-14) https://youtu.be/UmdVsXr5eak
-15) https://youtu.be/oq1fOr6Ryws
-16) https://youtu.be/7MLXuG83Fsw
-17) https://youtu.be/J-xqz_ZM9Wg
-18) https://kubernetes.io/case-studies/
-19) https://www.varonis.com/blog/docker-vs-kubernetes
-20) https://www.linkedin.com/pulse/learn-yaml-devops-easy-way-sandip-das/
-21) https://opensource.com/article/21/11/cicd-pipeline-kubernetes-tekton
-22) https://www.appvia.io/blog/tutorial-deploy-kubernetes-cluster
-23) https://erik-ekberg.medium.com/how-to-test-aws-lambda-locally-6f07bd36abd9
-24) https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-performance-testing-visual-studio-profiler
-25) https://www.youtube.com/playlist?list=PLkWRCY_kK0GgrU0L2nnRtzef8HPVsJp0r (optional)
+1) https://12factor.net
+2) https://youtu.be/yIVXjl4SwVo
+3) https://youtu.be/wX75Z-4MEoM
+4) https://youtu.be/KxxRl6VEBxI
+5) https://youtu.be/POPP2WTJ8es
+6) https://www.youtube.com/watch?v=jyW3D74I3_w
+7) https://devopscube.com/become-devops-engineer/
+8) https://youtu.be/OXE2a8dqIAI
+9) https://www.youtube.com/watch?v=j5Zsa_eOXeY
+10) https://www.youtube.com/watch?v=hQcFE0RD0cQ
+11) https://youtu.be/PwSZpcl7vUE
+12) https://youtu.be/xhva6DeKqVU
+13) https://youtu.be/DZRG2sezIl4
+14) https://digital.ai/periodic-table-of-devops-tools
+15) https://youtu.be/UmdVsXr5eak
+16) https://youtu.be/oq1fOr6Ryws
+17) https://youtu.be/7MLXuG83Fsw
+18) https://youtu.be/J-xqz_ZM9Wg
+19) https://kubernetes.io/case-studies/
+20) https://www.varonis.com/blog/docker-vs-kubernetes
+21) https://www.linkedin.com/pulse/learn-yaml-devops-easy-way-sandip-das/
+22) https://opensource.com/article/21/11/cicd-pipeline-kubernetes-tekton
+23) https://www.appvia.io/blog/tutorial-deploy-kubernetes-cluster
+24) https://erik-ekberg.medium.com/how-to-test-aws-lambda-locally-6f07bd36abd9
+25) https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-performance-testing-visual-studio-profiler
+26) https://www.youtube.com/playlist?list=PLkWRCY_kK0GgrU0L2nnRtzef8HPVsJp0r (optional)
 
 ### G. DevSecOps
 
