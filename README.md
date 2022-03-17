@@ -273,7 +273,9 @@ README: You find the scripts and programs you want for DevOps "orchestration" ho
 
 README: DevOps is also called [Infrastructure as Code](https://youtu.be/KxxRl6VEBxI) (IaC). Like most standardization processes, DevOps reduces the _fragility_ of systems by improving the reproducability and maintainablity of component parts. Client-server infrastructure scripts, for example, describe and deploy not only your app builds, but also infrastructure dependencies, including, but not limited to, host operating systems (VMs where your code runs), web servers (programs to help forward requests to your software), load balancers (programs to help manage request-response traffic), message queues (programs to help manage sending messages like email password resets and in-app notifications to your clients), caches, search indexes, databases, block storage tools, logging tools, monitoring tools, and more.
 
-From the ground up: Ansible (or Terraform, or other competitors) lets you write scripts / manifests that create and update your servers, where your application runs in containers composed with Docker (or Containerd, other competitor, etc.), which are coordinated and managed in a cluster by Kubernetes (using a Kubernetes management program like Keel). There are many programs in the market that help tie together and manage devops infrastructures with GUI systems and [YAML](https://www.linkedin.com/pulse/learn-yaml-devops-easy-way-sandip-das/)-inspired scripts.
+From the ground up: Ansible (or Terraform, or other competitors) lets you write scripts / manifests that create and update your servers, where your application runs in containers composed with Docker (or Containerd, other competitor, etc.), which are coordinated and managed in a cluster by Kubernetes (using a Kubernetes management program like Keel). There are many programs in the market that help tie together and manage devops infrastructures with GUI systems and [YAML](https://www.linkedin.com/pulse/learn-yaml-devops-easy-way-sandip-das/)-inspired scripts. Learn what meets your needs. E.g., after you finish your first simple client-server-database app, write a `docker-compose` script that builds the app's infrastructure in steps as separate containers linked and hosted on your local machine. 
+
+What kind of problems does a multinode manager like Kubernetes solve? [Big ones, mostly](https://kubernetes.io/case-studies/cern/). Maybe you're building a your own cloud service that needs hundreds of nodes to support your customers. Or an AI tool that runs on thousands of nodes, and you want to use a large "cloud" vendor's machines with precision and thrift as your tool's demands scale.  
 
 #### DevOps Videos & Links
 
@@ -296,9 +298,11 @@ From the ground up: Ansible (or Terraform, or other competitors) lets you write 
 17) https://youtu.be/J-xqz_ZM9Wg
 18) https://www.varonis.com/blog/docker-vs-kubernetes
 19) https://www.linkedin.com/pulse/learn-yaml-devops-easy-way-sandip-das/
-20) https://erik-ekberg.medium.com/how-to-test-aws-lambda-locally-6f07bd36abd9
-21) https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-performance-testing-visual-studio-profiler
-22) https://www.youtube.com/playlist?list=PLkWRCY_kK0GgrU0L2nnRtzef8HPVsJp0r (optional)
+20) https://opensource.com/article/21/11/cicd-pipeline-kubernetes-tekton
+21) https://www.appvia.io/blog/tutorial-deploy-kubernetes-cluster
+22) https://erik-ekberg.medium.com/how-to-test-aws-lambda-locally-6f07bd36abd9
+23) https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-performance-testing-visual-studio-profiler
+24) https://www.youtube.com/playlist?list=PLkWRCY_kK0GgrU0L2nnRtzef8HPVsJp0r (optional)
 
 ### G. DevSecOps
 
