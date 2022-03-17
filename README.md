@@ -79,7 +79,7 @@ You must become proficient, over time, with an array of skills to be able to bui
 
 ### Programming fundamentals
 
-You must master programming fundamentals to be able to efficiently implement ideas in code. You must understand how to construct applications using established software design patterns and common software development tools including [Interactive Development Environments(IDEs)](https://www.codecademy.com/articles/what-is-an-ide), [Version Control Systems(VCSs)](https://youtu.be/UZMmpav62rY), and formatting and debugging tools.
+You must master [programming fundamentals](https://0xax.gitbooks.io/linux-insides/content/SysCall/linux-syscall-4.html) to be able to efficiently implement ideas in code. You must understand how to construct applications using established software design patterns and common software development tools including [Interactive Development Environments(IDEs)](https://www.codecademy.com/articles/what-is-an-ide), [Version Control Systems(VCSs)](https://youtu.be/UZMmpav62rY), and formatting and debugging tools.
 1) https://youtu.be/quW5dAGpXiU
 2) https://youtu.be/Us4LwTjWFaY
 3) https://youtu.be/7oS1i-IWp1Q
