@@ -275,7 +275,7 @@ README: DevOps is also called [Infrastructure as Code](https://youtu.be/KxxRl6VE
 
 From the ground up: Ansible (or Terraform, or other competitors) lets you write scripts / manifests that create and update your servers, where your application runs in containers composed with Docker (or Containerd, other competitor, etc.), which are coordinated and managed in a cluster by Kubernetes (using a Kubernetes management program like Keel). There are many programs in the market that help tie together and manage devops infrastructures with GUI systems and [YAML](https://www.linkedin.com/pulse/learn-yaml-devops-easy-way-sandip-das/)-inspired scripts. Learn what meets your needs. E.g., after you finish your first simple client-server-database app, write a `docker-compose` script that builds the app's infrastructure in steps as separate containers linked and hosted on your local machine. 
 
-What kind of problems does a multinode manager like Kubernetes solve? [Big ones, mostly](https://kubernetes.io/case-studies/cern/). Maybe you're building a your own cloud service that needs hundreds of nodes to support your customers. Or an AI tool that runs on thousands of nodes, and you want to use a large "cloud" vendor's machines with precision and thrift as your tool's demands scale.  
+Graduate to more complex scenarios. What kind of problems does a multinode manager like Kubernetes (or [Titus](https://github.com/netflix)) solve? [Big ones, mostly](https://kubernetes.io/case-studies/cern/). Maybe you're building a your own cloud service that needs hundreds of nodes to support your customers. Or an AI tool that runs on thousands of nodes, and you want to use a large "cloud" vendor's machines with precision and thrift as demand scales. Or [a video streaming service](https://github.com/Netflix) that allows millions of users to stream 4K videos.
 
 #### DevOps Videos & Links
 
@@ -296,17 +296,18 @@ What kind of problems does a multinode manager like Kubernetes solve? [Big ones,
 15) https://youtu.be/oq1fOr6Ryws
 16) https://youtu.be/7MLXuG83Fsw
 17) https://youtu.be/J-xqz_ZM9Wg
-18) https://www.varonis.com/blog/docker-vs-kubernetes
-19) https://www.linkedin.com/pulse/learn-yaml-devops-easy-way-sandip-das/
-20) https://opensource.com/article/21/11/cicd-pipeline-kubernetes-tekton
-21) https://www.appvia.io/blog/tutorial-deploy-kubernetes-cluster
-22) https://erik-ekberg.medium.com/how-to-test-aws-lambda-locally-6f07bd36abd9
-23) https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-performance-testing-visual-studio-profiler
-24) https://www.youtube.com/playlist?list=PLkWRCY_kK0GgrU0L2nnRtzef8HPVsJp0r (optional)
+18) https://kubernetes.io/case-studies/
+19) https://www.varonis.com/blog/docker-vs-kubernetes
+20) https://www.linkedin.com/pulse/learn-yaml-devops-easy-way-sandip-das/
+21) https://opensource.com/article/21/11/cicd-pipeline-kubernetes-tekton
+22) https://www.appvia.io/blog/tutorial-deploy-kubernetes-cluster
+23) https://erik-ekberg.medium.com/how-to-test-aws-lambda-locally-6f07bd36abd9
+24) https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-performance-testing-visual-studio-profiler
+25) https://www.youtube.com/playlist?list=PLkWRCY_kK0GgrU0L2nnRtzef8HPVsJp0r (optional)
 
 ### G. DevSecOps
 
-You should understand the purpose of automating security tools to test your software against exploits and hacks.
+You should understand the purpose of automating security tools to test your software against [exploits and hacks](https://youtu.be/n31fogbmQTg).
 
 README: For development security ops, e.g., you will use DevOps tools to spin up and test an application’s full server structure (all the VMs, services and containers) on your home PC (a machine with 32-64GB ram would be ideal for this, min. 16GB ram).
 
