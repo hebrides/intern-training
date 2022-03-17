@@ -256,7 +256,7 @@ Cloudflare provides valuable DNS services free for web application developers:
 
 ### F. DevOps
 
-By now, if you haven't already, you should learn the concept of [virtualization](https://www.ispsystem.com/news/brief-history-of-virtualization) (more on this in DevOps below), and know what a Virtual Private Server (VPS) is. DevOps tools depend upon [virtualization layers](https://www.ibm.com/cloud/learn/virtualization-a-complete-guide).
+By now, if you haven't already, you should learn the concept of [virtualization](https://www.ispsystem.com/news/brief-history-of-virtualization) (more on this in DevOps below), and know what a Virtual Private Server (VPS) is. DevOps tools depend upon [virtualization](https://www.retrogames.cc/arcade-games/marvel-vs-capcom-clash-of-super-heroes-980123-usa.html) tools and [virtualization layers](https://www.ibm.com/cloud/learn/virtualization-a-complete-guide).
 
 You should become proficient in DevOps. 
 
@@ -269,7 +269,7 @@ README: You find the scripts and programs you want for DevOps "orchestration" ho
 1) Ansible (set up programs on existing servers): https://galaxy.ansible.com/search?deprecated=false&keywords=penetration%20&order_by=-relevance&page=1
 2) Vagrant (set up preconfigured servers / VMs): https://app.vagrantup.com/boxes/search?utf8=✓&sort=downloads&provider=&q=kali
 3) Docker (set up “[containers](https://aws.amazon.com/getting-started/hands-on/break-monolith-app-microservices-ecs-docker-ec2/?contd_bm3)“ a.k.a. "[microservices](https://aws.amazon.com/microservices/)" - OSs and programs running inside their own little [VM-like processes](https://stackoverflow.com/questions/16047306/how-is-docker-different-from-a-virtual-machine?rq=1)): https://hub.docker.com/search?q=kali&type=image ; https://kubernetes.io/docs/concepts/containers/
-4) Kubernetes (set up a "[cluster](https://www.redhat.com/en/topics/containers/what-is-a-kubernetes-cluster)" of containers across multiple "nodes" - VPSs or bare metal machines — so that the application components hosted in the containers (DBs, MQs, clients, servers, monitoring tools, etc.) scale and change automatically in response to network demand and application state): https://helm.sh
+4) Kubernetes (set up a "[cluster](https://www.redhat.com/en/topics/containers/what-is-a-kubernetes-cluster)" of containers across multiple "nodes" - VPSs (VMs) or bare metal machines — so that the application components hosted in the containers (DBs, MQs, clients, servers, monitoring tools, etc.) scale and change automatically in response to network demand and application state): https://helm.sh
 
 README: DevOps is also called [Infrastructure as Code](https://youtu.be/KxxRl6VEBxI) (IaC). Like most standardization processes, DevOps reduces the _fragility_ of systems by improving the reproducability and maintainablity of component parts. Client-server infrastructure scripts, for example, describe and deploy not only your app builds, but also infrastructure dependencies, including, but not limited to, host operating systems (VMs where your code runs), web servers (programs to help forward requests to your software), load balancers (programs to help manage request-response traffic), message queues (programs to help manage sending messages like email password resets and in-app notifications to your clients), caches, search indexes, databases, block storage tools, logging tools, monitoring tools, and more.
 
