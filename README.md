@@ -315,11 +315,12 @@ You should understand the purpose of automating security tools to test your soft
 
 README: For development security ops, e.g., you will use DevOps tools to spin up and test an application’s full server structure (all the VMs, services and containers) on your home PC (a machine with 32-64GB ram would be ideal for this, min. 16GB ram).
 
-1) https://youtu.be/ng1bvXsp9ZA
-2) https://youtu.be/7UG8wE58vU8
-3) https://cybersguards.com/list-of-hacking-tools/
-4) https://www.offensive-security.com/metasploit-unleashed/
-5) https://software.af.mil/wp-content/uploads/2021/05/DoD-Enterprise-DevSecOps-2.0-Fundamentals.pdf
+1) https://geekflare.com/port-scanner-server/
+2) https://youtu.be/ng1bvXsp9ZA
+3) https://youtu.be/7UG8wE58vU8
+4) https://cybersguards.com/list-of-hacking-tools/
+5) https://www.offensive-security.com/metasploit-unleashed/
+6) https://software.af.mil/wp-content/uploads/2021/05/DoD-Enterprise-DevSecOps-2.0-Fundamentals.pdf
 
 DevSecOps with Github Built In Tools:
 1) https://youtu.be/hln5v7odguE
