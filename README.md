@@ -335,9 +335,9 @@ By now you will have set up and run a few different Linux VMs on your PC or Mac 
 
 ### I. Decentralization
 
-Over two decades ago, in the late 90s, [distributed technology](https://en.wikipedia.org/wiki/Napster) and [torrent protocols](https://en.wikipedia.org/wiki/Bittorrent) made large-file media sharing inexpensive, fast and easy for users over peer-to-peer networks. The rise and consolidation of [big-tech](https://www.investopedia.com/terms/f/faang-stocks.asp) services in the 00's brought back the heavyweight client-server paradigm. However, the emergence of very inexpensive local storage, 5G tech and blockchain, could re-value [nimble products](https://medium.com/helium-blog/block-33-roaming-services-future-of-hotspot-apps-640k-strong-bcff93c8dc74) that leverage mesh, [ad-hoc](https://www.sciencedirect.com/topics/computer-science/ad-hoc-wireless-network), and [peer-to-peer networks](https://insight.openexo.com/the-future-is-peer-to-peer/). We may realize the "[democratization](https://en.wikipedia.org/wiki/Democratization)" of communication and trade [once foreshadowed](https://insight.openexo.com/the-future-is-peer-to-peer/). 
+Over two decades ago, in the late 90s, [distributed technology](https://en.wikipedia.org/wiki/Napster) and [torrent protocols](https://en.wikipedia.org/wiki/Bittorrent) made large-file media sharing inexpensive, fast and easy for users over peer-to-peer networks. The rise and consolidation of [big-tech](https://www.investopedia.com/terms/f/faang-stocks.asp) services in the 00's brought back the heavyweight client-server paradigm. However, the emergence of inexpensive local storage, 5G tech and blockchain, could re-value [nimble products](https://medium.com/helium-blog/block-33-roaming-services-future-of-hotspot-apps-640k-strong-bcff93c8dc74) that leverage mesh, [ad-hoc](https://www.sciencedirect.com/topics/computer-science/ad-hoc-wireless-network), and [peer-to-peer networks](https://insight.openexo.com/the-future-is-peer-to-peer/). We may realize the "[democratization](https://en.wikipedia.org/wiki/Democratization)" of communication and trade [once foreshadowed](https://insight.openexo.com/the-future-is-peer-to-peer/). 
 
-### I. Design
+### J. Design
 
 You must have basic user interface design skills, and understand what interfaces work best for a given set of user input requirements.
  
