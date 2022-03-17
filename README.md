@@ -273,6 +273,8 @@ README: You find the scripts and programs you want for DevOps "orchestration" ho
 
 README: DevOps is also called [Infrastructure as Code](https://youtu.be/KxxRl6VEBxI) (IaC). Like most standardization processes, DevOps reduces the _fragility_ of systems by improving the reproducability and maintainablity of component parts. Client-server infrastructure scripts, for example, describe and deploy not only your app builds, but also infrastructure dependencies, including, but not limited to, host operating systems (VMs where your code runs), web servers (programs to help forward requests to your software), load balancers (programs to help manage request-response traffic), message queues (programs to help manage sending messages like email password resets and in-app notifications to your clients), caches, search indexes, databases, block storage tools, logging tools, monitoring tools, and more.
 
+From the ground up: Ansible (or Terraform, or other competitors) lets you write scripts / manifests that create and update your servers, where your application runs in containers composed with Docker (or Containerd, other competitor, etc.), which are coordinated and managed in a cluster by Kubernetes (using a Kubernetes management program like Keel). There are many programs in the market that help tie together and manage devops infrastructures with GUI systems and [YAML](https://www.linkedin.com/pulse/learn-yaml-devops-easy-way-sandip-das/)-inspired scripts.
+
 #### DevOps Videos & Links
 
 1) https://youtu.be/yIVXjl4SwVo
@@ -292,9 +294,11 @@ README: DevOps is also called [Infrastructure as Code](https://youtu.be/KxxRl6VE
 15) https://youtu.be/oq1fOr6Ryws
 16) https://youtu.be/7MLXuG83Fsw
 17) https://youtu.be/J-xqz_ZM9Wg
-18) https://erik-ekberg.medium.com/how-to-test-aws-lambda-locally-6f07bd36abd9
-19) https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-performance-testing-visual-studio-profiler
-20) https://www.youtube.com/playlist?list=PLkWRCY_kK0GgrU0L2nnRtzef8HPVsJp0r (optional)
+18) https://www.varonis.com/blog/docker-vs-kubernetes
+19) https://www.linkedin.com/pulse/learn-yaml-devops-easy-way-sandip-das/
+20) https://erik-ekberg.medium.com/how-to-test-aws-lambda-locally-6f07bd36abd9
+21) https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-performance-testing-visual-studio-profiler
+22) https://www.youtube.com/playlist?list=PLkWRCY_kK0GgrU0L2nnRtzef8HPVsJp0r (optional)
 
 ### G. DevSecOps
 
