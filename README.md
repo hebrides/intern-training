@@ -198,7 +198,7 @@ You must understand the request / response cycle in client-server applications. 
 2) Proxy (forward) requests using a webserver program like Apache or Nginx from the HTTP port to a process port or program executable
 3) Action client requests to a server using a server script listening on a port 
 4) Action client requests to a server using a server script to communicate to a hosted or remote database 
-4) Action client requests to a server using a server script to communicate to a [3rd party API](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs), [microservice](https://en.wikipedia.org/wiki/Microservices), or [Lambda compute](https://stackoverflow.com/questions/66070926/difference-microservices-vs-lambda-vs-serverless-functions) service
+4) Action client requests to a server using a server script to communicate to a [3rd party API](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs), [microservice](https://en.wikipedia.org/wiki/Microservices), or [Lambda compute](https://stackoverflow.com/questions/66070926/difference-microservices-vs-lambda-vs-serverless-functions) [service](https://www.sentinelone.com/blog/function-as-a-service-faas/)
 6) Action client requests to a server using a server script and output from a native application executable or shell script
 7) Store data uploaded from the client to the server on the server's file system, in a database, or via a 3rd party service (like AWS S3)
 8) Generate a proper response, with data payload and appropriate headers, to the client
@@ -300,14 +300,16 @@ You may be thinking this is quite a lot of ceremony for a web app. Do you really
 16) https://youtu.be/oq1fOr6Ryws
 17) https://youtu.be/7MLXuG83Fsw
 18) https://youtu.be/J-xqz_ZM9Wg
-19) https://kubernetes.io/case-studies/
-20) https://www.varonis.com/blog/docker-vs-kubernetes
-21) https://www.linkedin.com/pulse/learn-yaml-devops-easy-way-sandip-das/
-22) https://opensource.com/article/21/11/cicd-pipeline-kubernetes-tekton
-23) https://www.appvia.io/blog/tutorial-deploy-kubernetes-cluster
-24) https://erik-ekberg.medium.com/how-to-test-aws-lambda-locally-6f07bd36abd9
-25) https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-performance-testing-visual-studio-profiler
-26) https://www.youtube.com/playlist?list=PLkWRCY_kK0GgrU0L2nnRtzef8HPVsJp0r (optional)
+19) https://www.sentinelone.com/blog/function-as-a-service-faas/
+20) https://docs.aws.amazon.com/lambda/latest/dg/getting-started-create-function.html
+21) https://kubernetes.io/case-studies/
+22) https://www.varonis.com/blog/docker-vs-kubernetes
+23) https://www.linkedin.com/pulse/learn-yaml-devops-easy-way-sandip-das/
+24) https://opensource.com/article/21/11/cicd-pipeline-kubernetes-tekton
+25) https://www.appvia.io/blog/tutorial-deploy-kubernetes-cluster
+26) https://erik-ekberg.medium.com/how-to-test-aws-lambda-locally-6f07bd36abd9
+27) https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-performance-testing-visual-studio-profiler
+28) https://www.youtube.com/playlist?list=PLkWRCY_kK0GgrU0L2nnRtzef8HPVsJp0r (optional)
 
 ### G. DevSecOps
 
