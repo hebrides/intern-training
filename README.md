@@ -347,6 +347,7 @@ Over two decades ago, in the late 90s, [distributed technology](https://en.wikip
 1. https://youtu.be/7VbL89mKK3M
 2. https://youtu.be/LFZDpF_A-BE
 3. https://www.section.io/engineering-education/how-to-create-a-blockchain-in-python/
+4. https://youtu.be/i9e4g7SV244
 
 ### J. Design
 
