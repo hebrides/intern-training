@@ -71,7 +71,6 @@ You must understand the basic security strategies used for encrypting data for n
 7) https://youtu.be/E_wX40fQwEA
 8) https://www.youtube.com/watch?v=86cQJ0MMses
 9) http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html
-10) https://youtu.be/m1mhaC5NH7s
 
 ### D. Web Programming / Env / App Structures / Laravel / NodeJS / Testing
 
@@ -251,6 +250,7 @@ You show know about A Records, MX Records, and other [Domain Name System](https:
 3) https://youtu.be/By7N3nuQc7w
 4) https://www.youtube.com/watch?v=NijONS9gMZ0
 5) https://www.nslookup.io/learning/dns-record-types/
+6) https://youtu.be/m1mhaC5NH7s
 
 Cloudflare provides valuable DNS services free for web application developers:
 1) https://www.cloudflare.com/learning/dns/what-is-dns/
