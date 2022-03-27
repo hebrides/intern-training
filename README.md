@@ -213,7 +213,7 @@ Read:
 
 ### Part 5. Tech Stacks
 
-You should know what a "technology stack" means. A client-server app's tech stack refers to the set of commercial and free tools used to build, deploy, and host the app. Junior developers often [struggle](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.ahu2qlv13) to decide what tech stack tools to use to start out.  By learning tools suited to complete _one critical part of the project at a time_ (e.g., client, server, database, API integration, CI/CD, testing), jr. developers can avoid becoming paralyzed by choice.
+You should know what a "technology stack" means. A client-server app's tech stack refers to the set of commercial and free tools used to build, deploy, and host the app. Junior developers often [struggle](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.ahu2qlv13) to decide what tech stack tools to use to start out.  By learning tools suited to complete _one critical part of the project at a time_ (e.g., client, server, database, API integration, CI/CD, testing), you can avoid becoming paralyzed by choice.
 
 Learn a stack that has [deep roots and support from a big vendor](https://docs.microsoft.com/en-us/visualstudio/ide/quickstart-aspnet-core) as a safe bet, then engage with [newer](https://deno.com/deploy) [tools](https://svelte.dev) and [stacks](https://nextjs.org) from [open source](https://geekflare.com/self-hosted-s3/) communities, [academia](https://www.freebsd.org/), and [emerging](https://ipfs.io) tech providers, to broaden your skills.
 
