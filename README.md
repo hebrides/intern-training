@@ -245,7 +245,7 @@ Watch these videos and complete the exercises within.
 
 ### E. DNS
 
-You show know about A Records, MX Records, and other [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System) (DNS) records. You should understand how the internet associates human-readable names with machine-readable IP addresses. You should understand how DNS servers work in concert with other [key server-based applications](https://www.networkstraining.com/different-types-of-servers/) to provide internet services. 
+You show know about A Records, MX Records, and other [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System) (DNS) records. You should understand how the internet associates human-readable names with machine-readable IP addresses. You should understand how DNS servers and [DNS applications](https://www.isc.org/bind/) work in concert with other key [server-based applications](https://www.networkstraining.com/different-types-of-servers/) to provide internet services. 
 
 1) https://youtu.be/uOfonONtIuk
 2) https://youtu.be/dE4rsNuG0aw
@@ -253,6 +253,7 @@ You show know about A Records, MX Records, and other [Domain Name System](https:
 4) https://www.youtube.com/watch?v=NijONS9gMZ0
 5) https://www.nslookup.io/learning/dns-record-types/
 6) https://youtu.be/m1mhaC5NH7s
+7) https://www.joshmcguigan.com/blog/run-your-own-dns-servers/
 
 Cloudflare provides valuable DNS services free for web application developers:
 1) https://www.cloudflare.com/learning/dns/what-is-dns/
