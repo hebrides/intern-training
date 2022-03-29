@@ -367,7 +367,7 @@ You must have basic user interface design skills, and understand what interfaces
 
 ### K. Teamwork
 
-You will be more employable at traditionally structured corporations and better prepared to contribute to OSS projects if you are comfortable working with a other developers and other teams of developers. You should familiarize yourself with "agile" software development processes and learn to communicate via Github and Gitlab issues. Experiment on a group project with friends, or consider taking on a [Github](https://github.com/collections/choosing-projects) or [Gitlab issue](https://about.gitlab.com/solutions/open-source/projects/) on an OSS project. 
+You will be more employable at traditionally structured corporations and better prepared to contribute to OSS projects if you are comfortable working with other developers and other teams of developers. You should familiarize yourself with "agile" software development processes and learn to communicate via Github and Gitlab issues. Experiment on a group project with friends, or consider taking on a [Github](https://github.com/collections/choosing-projects) or [Gitlab issue](https://about.gitlab.com/solutions/open-source/projects/) on an OSS project. 
 
 1. https://youtu.be/5RocT_OdQcA 
 2. https://youtu.be/nI5VdsVl0FM
