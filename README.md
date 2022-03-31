@@ -373,3 +373,5 @@ You will be more employable at traditionally structured corporations and better 
 2. https://youtu.be/nI5VdsVl0FM
 3. https://www.codingzeal.com/post/agile-is-the-worst
 4. https://github.com/collections/choosing-projects
+5. https://pragprog.com/tips/
+6. https://www.scrum.org
