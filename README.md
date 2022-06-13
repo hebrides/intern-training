@@ -129,7 +129,7 @@ You must understand how to use automated code checking and styling (a.k.a. linti
 
 You must understand HTML, CSS, & JavaScript. 
 
-README: Web browsers interpret three _frontend_ languages to display and manipulate client application data: HTML, CSS, and JavaScript. _HTML_ describes the client's layout structure and meta-data (used by search engines). _CSS_ styles and animates HTML elements. _JavaScript_ creates complex interactivity by manipulating HTML & CSS and accessing special browser APIs. A web developer can do many cool things on the client with HTML, CSS, & JavaScript. Strive to improve your proficiency in all three.
+README: Web browsers interpret three _frontend_ languages to display and manipulate client application data, HTML, CSS, and JavaScript. _HTML_ describes the client's layout structure and meta-data (used by search engines). _CSS_ styles and animates HTML elements. _JavaScript_ creates complex interactivity by manipulating HTML & CSS and accessing special browser APIs. A web developer can do many cool things on the client with HTML, CSS, & JavaScript. Strive to improve your proficiency in all three.
 
 1) https://www.freecodecamp.org/news/a-practical-guide-to-learning-front-end-development-for-beginners-da6516505e41/
 2) https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML
