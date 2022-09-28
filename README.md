@@ -380,6 +380,8 @@ You must have basic user interface design skills, and understand what interfaces
 6) Design innovation: https://www.awwwards.com
 7) Design inspiration: https://tympanus.net/codrops/
 
+### K. Prototyping
+
 _Stongly consider_ using a [no code / low code](https://youtu.be/jaRCENYBuYo) [platform](https://www.makerpad.co) or form builder to rapidly prototype your application before coding. This will help you discover and fix UI hiccups early on. Programming, being labor intensive and requiring debugging, normally comes [after](https://orionadvisortech.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-04-at-1.13.10-PM.png) design and prototyping. You may be able implement a solution [without ever writing any code](https://youtu.be/-_xKI3GJpMM) using one of these servies.
 
 - https://www.turing.com/blog/ten-best-low-code-platforms-for-2022/
@@ -389,7 +391,7 @@ _Stongly consider_ using a [no code / low code](https://youtu.be/jaRCENYBuYo) [p
 - https://www.makerpad.co
 - https://appian.com
 
-### K. Teamwork
+### L. Teamwork
 
 You will be more employable at traditionally structured corporations and better prepared to contribute to OSS projects if you are comfortable working with other developers and other teams of developers. You should familiarize yourself with "agile" software development processes and learn to communicate via Github and Gitlab issues. Experiment on a group project with friends, or consider taking on a [Github](https://github.com/collections/choosing-projects) or [Gitlab issue](https://about.gitlab.com/solutions/open-source/projects/) on an OSS project. 
 
