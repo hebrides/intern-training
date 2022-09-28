@@ -163,11 +163,11 @@ What is the advantage of using a web browser as a client?
 
 You must understand how to use at least one server-side language.
 
-README: Developers use multiple _backend_ languages to handle server-side operations, including, but not limited to PHP, JavaScript (known as "NodeJS" on the backend), C#, Python, C++, Rust, Java, Erlang, Bash, and others:
+README: Developers use multiple _backend_ languages to handle server-side operations (e.g., updating a database, performing an API service). These backend languages include, but are not limited to, PHP, JavaScript (known as "NodeJS" on the backend), C#, Python, C++, Rust, Java, Erlang, Bash, and others:
 
 1) https://www.statista.com/statistics/793628/worldwide-developer-survey-most-used-languages/
 
-README: Some web development frameworks handle the _full stack_, web client and server, with one primary language, e.g., [Meteor](https://www.meteor.com/#!) (JS), [Django](https://www.djangoproject.com) (Python), and [Laravel](https://laravel.com) (PHP); these can optionally be used with "frontend only" helper frameworks, like the ones listed above in Part 1.
+README: Some web development frameworks handle the _full stack_, web client and server, with one primary language, e.g., [Meteor](https://www.meteor.com/) (JS), [Django](https://www.djangoproject.com) (Python), and [Laravel](https://laravel.com) (PHP); these can optionally be used with "frontend only" helper frameworks, like the ones listed above in Part 1.
 
 README: Some frameworks work better than others in certain situations due to a number of factors, including _web application architecture_, business requirements, team size, developer skill-level, and team preferences:
 
@@ -196,7 +196,7 @@ README: When __developing__ client / server software you will build and run both
 
 You must understand the request / response cycle in client-server applications. You must understand how to:
 1) Send a request to a server from a client
-2) Proxy (forward) requests using a webserver program like Apache or Nginx from the HTTP port to a process port or program executable
+2) Proxy (forward) requests using a webserver program like Apache, Nginx, of Traefik(https://doc.traefik.io/traefik/), from the HTTP port to a process port or program executable
 3) Action client requests to a server using a server script listening on a port 
 4) Action client requests to a server using a server script to communicate to a hosted or remote database 
 4) Action client requests to a server using a server script to communicate to a [3rd party API](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs), [microservice](https://en.wikipedia.org/wiki/Microservices), or [Lambda compute](https://stackoverflow.com/questions/66070926/difference-microservices-vs-lambda-vs-serverless-functions) [service](https://www.sentinelone.com/blog/function-as-a-service-faas/)
@@ -213,9 +213,9 @@ Read:
 
 ### Part 5. Tech Stacks
 
-You should know what a "technology stack" means. A client-server app's tech stack refers to the set of commercial and free tools used to build, deploy, and host the app. Junior developers often [struggle](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.ahu2qlv13) to decide what tech stack tools to use to start out.  Learn tools suited to complete _one critical part of the project at a time_ (e.g., client, server, database, API integration, CI/CD, testing), and avoid becoming paralyzed by choice.
+You should know what a "technology stack" means. A client-server app's tech stack refers to the set of commercial and free tools used to build, deploy, and host the app. Junior developers often [struggle](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.ahu2qlv13) to decide what tech stack tools to use to start out.  You'll find it's best to learn tools suited to complete _one critical part of the project at a time, in  order from simple to complex_ (e.g., web client, server app, database, 3rd party integration / API, CI/CD / staging, QA / testing). You will avoid becoming paralyzed by choice when you understand that web application development can be as complex as you decide it has to be. You can make a web app with a few lines of PHP. You can also build out a complex automated deployment system with 1000s of lines of code, using multiple languages and a diverse array of supporting software tools, that works like a factory to update and release your app. 
 
-Learn a stack that has [deep roots and support from a big vendor](https://docs.microsoft.com/en-us/visualstudio/ide/quickstart-aspnet-core) as a safe bet, then engage with [newer](https://deno.com/deploy) [tools](https://svelte.dev) and [stacks](https://nextjs.org) from [open source](https://geekflare.com/self-hosted-s3/) communities, [academia](https://www.freebsd.org/), and [emerging](https://ipfs.io) tech providers, to broaden your skills.
+Tech stack advice: Learn a stack that has [deep roots and support from a big vendor](https://docs.microsoft.com/en-us/visualstudio/ide/quickstart-aspnet-core) as a safe bet, then engage with [newer](https://deno.com/deploy) [tools](https://svelte.dev) and [stacks](https://nextjs.org) from [open source](https://geekflare.com/self-hosted-s3/) communities, [academia](https://www.freebsd.org/), and [emerging](https://ipfs.io) tech providers, to broaden your skills.
 
 Still struggling with stacks? Ask yourself, what is the motivation for this tool? What specific problem does it solve? Understand the problem first before you start learning solutions.
 
