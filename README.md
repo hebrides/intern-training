@@ -116,6 +116,7 @@ You must understand how to use IDEs, VCSs, and Debugging Tools.
 11) https://www.freshconsulting.com/insights/blog/atomic-commits/
 12) https://youtu.be/Uszj_k0DGsg
 13) https://mokkapps.de/blog/how-to-automatically-generate-a-helpful-changelog-from-your-git-commit-messages/
+14) https://opendev.org
 
 ### Linting
 
@@ -322,9 +323,11 @@ Scale determines needs. A simple web app will do just fine on a single node VPS 
 23) https://www.linkedin.com/pulse/learn-yaml-devops-easy-way-sandip-das/
 24) https://opensource.com/article/21/11/cicd-pipeline-kubernetes-tekton
 25) https://www.appvia.io/blog/tutorial-deploy-kubernetes-cluster
-26) https://erik-ekberg.medium.com/how-to-test-aws-lambda-locally-6f07bd36abd9
-27) https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-performance-testing-visual-studio-profiler
-28) https://www.youtube.com/playlist?list=PLkWRCY_kK0GgrU0L2nnRtzef8HPVsJp0r (optional)
+26) https://youtu.be/_gWfFEuert8
+27) https://docs.openstack.org/openstack-ansible/newton/developer-docs/quickstart-aio.html
+28) https://erik-ekberg.medium.com/how-to-test-aws-lambda-locally-6f07bd36abd9
+29) https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-performance-testing-visual-studio-profiler
+30) https://www.youtube.com/playlist?list=PLkWRCY_kK0GgrU0L2nnRtzef8HPVsJp0r (optional)
 
 ### G. DevSecOps
 
