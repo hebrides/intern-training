@@ -380,13 +380,14 @@ You must have basic user interface design skills, and understand what interfaces
 6) Design innovation: https://www.awwwards.com
 7) Design inspiration: https://tympanus.net/codrops/
 
-_Stongly consider_ using a low code platform or form builder to rapidly prototype your application before coding. This will help you discover and fix UI hiccups early on. Development, being labor intensive and requiring debugging, normally comes after design and prototyping.
+_Stongly consider_ using a [no code / low code](https://youtu.be/jaRCENYBuYo) [platform](https://www.makerpad.co) or form builder to rapidly prototype your application before coding. This will help you discover and fix UI hiccups early on. Programming, being labor intensive and requiring debugging, normally comes [after](https://orionadvisortech.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-04-at-1.13.10-PM.png) design and prototyping. You may be able implement a solution [without ever writing any code](https://youtu.be/-_xKI3GJpMM) using one of these servies.
 
-https://www.turing.com/blog/ten-best-low-code-platforms-for-2022/
-https://www.joget.org
-https://powerapps.microsoft.com
-https://www.honeycode.aws
-https://orionadvisortech.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-04-at-1.13.10-PM.png
+- https://www.turing.com/blog/ten-best-low-code-platforms-for-2022/
+- https://www.joget.org
+- https://powerapps.microsoft.com
+- https://www.honeycode.aws
+- https://www.makerpad.co
+- https://appian.com
 
 ### K. Teamwork
 
