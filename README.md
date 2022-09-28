@@ -168,7 +168,7 @@ README: Developers use multiple _backend_ languages to handle server-side operat
 
 1) https://www.statista.com/statistics/793628/worldwide-developer-survey-most-used-languages/
 
-README: Some web development frameworks handle the _full stack_, web client and server, with one primary language, e.g., [Meteor](https://www.meteor.com/) (JS), [Django](https://www.djangoproject.com) (Python), and [Laravel](https://laravel.com) (PHP); these can optionally be used with "frontend only" helper frameworks, like the ones listed above in Part 1.
+README: Some web development frameworks handle the _full stack_, web client and server, with one primary language, e.g., [Meteor](https://www.meteor.com/) (JS), [Remix](https://remix.run) (JS), [Django](https://www.djangoproject.com) (Python), and [Laravel](https://laravel.com) (PHP); these can optionally be used with "frontend only" helper frameworks, like the ones listed above in Part 1.
 
 README: Some frameworks work better than others in certain situations due to a number of factors, including _web application architecture_, business requirements, team size, developer skill-level, and team preferences:
 
@@ -214,7 +214,7 @@ Read:
 
 ### Part 5. Tech Stacks
 
-You should know what a "technology stack" means. A client-server app's tech stack refers to the set of commercial and free tools used to build, deploy, and host the app. Junior developers often [struggle](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.ahu2qlv13) to decide what tech stack tools to use to start out.  You'll find it's best to learn tools suited to complete _one critical part of the project at a time, in  order from simple to complex_ (e.g., web client, server app, database, 3rd party API integrations, CI/CD pipelines / staging, QA / testing). You will avoid becoming paralyzed by choice when you understand that web application development can be as complex as you decide it has to be. You can make a web app with a few lines of PHP. You can also build out a complex automated deployment system with 1000s of lines of code, using multiple languages and a diverse array of supporting software tools, that works like a factory to update and release your app. 
+You should know what a "technology stack" means. A client-server app's tech stack refers to the set of commercial and free tools used to build, deploy, and host the app. Junior developers often [struggle](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.ahu2qlv13) to decide what tech stack tools to use to start out.  You'll find it's best to learn tools suited to complete _one critical part of the project at a time, in order from simple to complex_ (e.g., web client, server app, database, 3rd party API integrations, CI/CD pipelines / staging, QA / testing). You will avoid becoming paralyzed by choice when you understand that web application development can be as complex as you decide it has to be. You can make a web app with a few lines of PHP. You can also build out a complex automated deployment system with thousands of lines of code, using multiple languages and a diverse array of supporting software tools, that works like a factory to update and release your app. 
 
 Tech stack advice: Learn a stack that has [deep roots and support from a big vendor](https://docs.microsoft.com/en-us/visualstudio/ide/quickstart-aspnet-core) as a safe bet, then engage with [newer](https://deno.com/deploy) [tools](https://svelte.dev) and [stacks](https://nextjs.org) from [open source](https://geekflare.com/self-hosted-s3/) communities, [academia](https://www.freebsd.org/), and [emerging](https://ipfs.io) tech providers, to broaden your skills.
 
@@ -287,9 +287,9 @@ You may be thinking this is quite a lot of ceremony for a web app! Do you really
 
 No, you don't. 
 
-How deep you want to go into DevOps depends on where you may work, or what you may want to do as an individual developer. You should learn the problems DevOps tools solve first, then decide if you need those solutions now, or if you're happier to acquire DevOps implementation details for your use cases as they become necessary to know. In the meantime, you can and should take [advantage](https://forge.laravel.com) of [services](https://www.meteor.com/cloud) that [solve](https://www.heroku.com) [common DevOps problems](https://vapor.laravel.com) for you. 
+How deep you want to go into DevOps depends on where you may work, or what you may want to do as an individual developer. You should learn the problems DevOps tools solve first, then decide if you need those solutions now, or if you're happier to acquire DevOps implementation details for your use cases as they become necessary to know. In the meantime, you can and should take [advantage](https://forge.laravel.com) of [services](https://www.meteor.com/cloud) that [solve](https://www.heroku.com) [common DevOps problems](https://vapor.laravel.com) for you, like [Netlify](https://netlify.app), [Laravel Vapor](https://youtu.be/iQHKY1vu_Ck), [Meteor Cloud](https://www.meteor.com/cloud), and [Amplify](https://aws.amazon.com/amplify/). 
 
-What problems, after all, does a multinode manager like Kubernetes (or [Titus](https://github.com/netflix)) actually solve? [Big ones, mostly](https://kubernetes.io/case-studies/cern/). If you're building a web service that needs hundreds of nodes to support millions of customers, you may need to learn a tool like Kubernetes or [OpenStack](https://youtu.be/PVPFT9k6ZUU). If you want to make an AI tool that needs to run on thousands of nodes to crunch [petabytes](https://youtu.be/iUEecILAzR0) of data, and you want to use a large cloud vendor's machines with precision and thrift as demand scales, you will need to master DevOps software and scripting. 
+What problems, after all, does a multinode manager like Kubernetes (or [Titus](https://github.com/netflix)) actually solve? [Big ones, mostly](https://kubernetes.io/case-studies/cern/). If you're building a web service that needs hundreds of nodes to support millions of customers, you may need to learn a tool like Kubernetes and a cloud management system like [OpenStack](https://youtu.be/PVPFT9k6ZUU). If you want to make an AI tool that needs to run on thousands of nodes to crunch [petabytes](https://youtu.be/iUEecILAzR0) of data, and you want to use a large cloud vendor's machines with precision and thrift as demand scales, you will need to master DevOps software and scripting. 
 
 [A media streaming service like Netflix](https://github.com/Netflix), e.g., must utilize DevOps tools, because of the amount of data and bandwidth the service provides: Millions of users watch 4K videos on demand with Netflix.
 
@@ -377,6 +377,14 @@ You must have basic user interface design skills, and understand what interfaces
 5) Dashboards: https://pixinvent.com/demo/vuexy-vuejs-laravel-admin-template/demo-1/dashboard/ecommerce
 6) Design innovation: https://www.awwwards.com
 7) Design inspiration: https://tympanus.net/codrops/
+
+_Stongly consider_ using a low code platform or form builder to rapidly prototype your application before coding. This will help you discover and fix UI hiccups early on. Development, being labor intensive and requiring debugging, should come after design and prototyping.
+
+https://www.turing.com/blog/ten-best-low-code-platforms-for-2022/
+https://www.joget.org
+https://powerapps.microsoft.com
+https://www.honeycode.aws
+https://orionadvisortech.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-04-at-1.13.10-PM.png
 
 ### K. Teamwork
 
