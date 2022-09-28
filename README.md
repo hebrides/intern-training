@@ -41,6 +41,8 @@ You must understand the client-server model of web application design
 
 You must understand how [network protocols](https://www.technologyuk.net/telecommunications/telecom-principles/communications-protocols.shtml) work to encode information for routing requests from clients to servers, and responses from servers to clients.
 
+Data flows in digitial communications as [small](https://en.wikipedia.org/wiki/Datagram), managable [packets](https://serverfault.com/questions/372930/where-is-the-actual-content-in-a-tcp-segment), with headers at the [front](https://networkengineering.stackexchange.com/questions/43589/how-does-a-nic-know-where-the-start-of-a-frame-is?rq=1) (expressing the protocol, type of data, and information about the sender and receiver), useful data packages, or "payloads", in the middle, and trailing zeros or footers at the end to signal termination. Routing and assembling information this way provides the internet [resiliency](https://serverfault.com/questions/875579/network-packets-is-the-data-always-received-sequentially). 
+
 1) https://youtu.be/1Vq1lrWQAyg
 2) https://youtu.be/v8aYhOxZuNg
 3) https://youtu.be/Ilk7UXzV_Qc
@@ -378,7 +380,7 @@ You must have basic user interface design skills, and understand what interfaces
 6) Design innovation: https://www.awwwards.com
 7) Design inspiration: https://tympanus.net/codrops/
 
-_Stongly consider_ using a low code platform or form builder to rapidly prototype your application before coding. This will help you discover and fix UI hiccups early on. Development, being labor intensive and requiring debugging, should come after design and prototyping.
+_Stongly consider_ using a low code platform or form builder to rapidly prototype your application before coding. This will help you discover and fix UI hiccups early on. Development, being labor intensive and requiring debugging, normally comes after design and prototyping.
 
 https://www.turing.com/blog/ten-best-low-code-platforms-for-2022/
 https://www.joget.org
