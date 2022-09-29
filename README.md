@@ -1,6 +1,6 @@
 ## Zero to Hero - SMG Mobile's Web Application Developer Intern Training Guide
 
-Watch the below videos and complete the exercises within, in order, to start your way to becoming an _amazing web developer_. Note, you will not find complex algorithmic puzzles or tricky math problems here. Great developers are craftspersons who enjoy _making things_. 
+Watch the below videos, read linked content, and complete the exercises within, in order to start your way to becoming an _amazing web developer_. Note, you will not find complex algorithmic puzzles or tricky math problems here. Great developers are craftspersons who enjoy _making things_. 
 
 ### A. Command Line / Bash
 
@@ -28,7 +28,7 @@ You must master the command line to become a proficient contributor to a softwar
 
 ### Client-Server Model
 
-You must understand the client-server model of web application design 
+You must understand the client-server model of web application design.
 
 1) https://www.omnisci.com/technical-glossary/client-server
 2) https://youtu.be/pGGDdKZvYpI
@@ -41,7 +41,7 @@ You must understand the client-server model of web application design
 
 You must understand how [network protocols](https://www.technologyuk.net/telecommunications/telecom-principles/communications-protocols.shtml) work to encode information for routing requests from clients to servers, and responses from servers to clients.
 
-Data flows in digitial communications as [small](https://en.wikipedia.org/wiki/Datagram), managable [packets](https://youtu.be/clHBnmUckzg), with headers at the [front](https://networkengineering.stackexchange.com/questions/43589/how-does-a-nic-know-where-the-start-of-a-frame-is?rq=1) (expressing the protocol, type of data, and information about the sender and receiver), useful data packages, or "payloads", in the [middle](https://serverfault.com/questions/372930/where-is-the-actual-content-in-a-tcp-segment), and trailing [zeros](https://networkengineering.stackexchange.com/questions/28873/ethernet-the-interpacket-gap-and-idle-detection) or [footers](https://networkengineering.stackexchange.com/questions/69253/how-to-detect-start-of-fcs-in-an-ethernet-frame) at the end to signal termination. Routing and assembling transmitted [information](https://youtu.be/d9alWZRzBWk) this way provides the internet [resiliency](https://serverfault.com/questions/875579/network-packets-is-the-data-always-received-sequentially). 
+README: Data flows in digital communications as [small](https://en.wikipedia.org/wiki/Datagram), managable [packets](https://youtu.be/clHBnmUckzg), with headers at the [front](https://networkengineering.stackexchange.com/questions/43589/how-does-a-nic-know-where-the-start-of-a-frame-is?rq=1) (expressing the protocol, type of data, and information about the sender and receiver), useful data packages, or "payloads", in the [middle](https://serverfault.com/questions/372930/where-is-the-actual-content-in-a-tcp-segment), and trailing [zeros](https://networkengineering.stackexchange.com/questions/28873/ethernet-the-interpacket-gap-and-idle-detection) or [footers](https://networkengineering.stackexchange.com/questions/69253/how-to-detect-start-of-fcs-in-an-ethernet-frame) at the end to signal termination. Routing and assembling transmitted [information](https://youtu.be/d9alWZRzBWk) in this manner empowers the internet's [lauded](https://blog.jim-nielsen.com/2020/the-resiliency-of-the-internet/) [resiliency](https://serverfault.com/questions/875579/network-packets-is-the-data-always-received-sequentially). 
 
 1) https://youtu.be/1Vq1lrWQAyg
 2) https://youtu.be/v8aYhOxZuNg
