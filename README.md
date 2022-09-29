@@ -199,7 +199,7 @@ README: When __developing__ client / server software you will build and run both
 
 You must understand the request / response cycle in client-server applications. You must understand how to:
 1) Send a request to a server from a client
-2) Proxy (forward) requests using a webserver program like Apache, Nginx, or [Traefik](https://doc.traefik.io/traefik/), from the HTTP port to a process port or program executable
+2) Proxy (forward) requests using a webserver program like Apache, Nginx (or [HAProxy](https://en.wikipedia.org/wiki/HAProxy) / [Traefik](https://doc.traefik.io/traefik/), from the HTTP port to a process port or program executable
 3) Action client requests to a server using a server script listening on a port 
 4) Action client requests to a server using a server script to communicate to a hosted or remote database 
 4) Action client requests to a server using a server script to communicate to a [3rd party API](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs), [microservice](https://en.wikipedia.org/wiki/Microservices), or [Lambda compute](https://stackoverflow.com/questions/66070926/difference-microservices-vs-lambda-vs-serverless-functions) [service](https://www.sentinelone.com/blog/function-as-a-service-faas/)
