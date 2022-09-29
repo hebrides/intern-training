@@ -171,7 +171,7 @@ README: Developers use multiple _backend_ languages to handle server-side operat
 
 1) https://www.statista.com/statistics/793628/worldwide-developer-survey-most-used-languages/
 
-README: Some web development frameworks handle the _full stack_, web client and server, with one primary language, e.g., [Meteor](https://www.meteor.com/) (JS), [Remix](https://remix.run) (JS), [Django](https://www.djangoproject.com) ([Python](https://youtu.be/rHux0gMZ3Eg)), and [Laravel](https://laravel.com) (PHP); these can optionally be used with "frontend only" helper frameworks, like the ones listed above in Part 1.
+README: Some web development frameworks handle the _full stack_, web client and server, with one primary language, e.g., [Meteor](https://www.meteor.com/) (JS), [Remix](https://remix.run) (JS), [.Net](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps) (C#) and [Laravel](https://laravel.com) (PHP); these can optionally be used with different "frontend only" helper frameworks, like the ones listed above in Part 1 that focus on delivering HTML, CSS, & Javascript client pages.
 
 README: Some frameworks work better than others in certain situations due to a number of factors, including _web application architecture_, business requirements, team size, developer skill-level, and team preferences:
 
