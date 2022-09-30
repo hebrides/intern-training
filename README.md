@@ -147,7 +147,7 @@ README: You need to understand the concept of code _frameworks_. Frameworks, in 
 
 README: Professional web developers usually master at least one web client framework. You should make this your goal, too. 
 
-README: Some popular _frontend (client)_ frameworks include [React](https://youtu.be/Dorf8i6lCuk) / [NextJS](https://youtu.be/1WmNXEVia8I), [Vue](https://www.youtube.com/watch?v=qZXt1Aom3Cs) / [Nuxt](https://nuxtjs.org), [Svelte](https://svelte.dev) / [SvelteKit](https://youtu.be/UU7MgYIbtAk), and [Angular](https://docs.angularjs.org/tutorial). The unique syntax of a web client framework, no matter how idiosyncratic, _always compiles_ to HTML, CSS and JavaScript.
+README: Some popular _frontend (client)_ frameworks include [React](https://youtu.be/Dorf8i6lCuk) / [NextJS](https://youtu.be/1WmNXEVia8I), [Vue](https://www.youtube.com/watch?v=qZXt1Aom3Cs) / [Nuxt](https://nuxtjs.org), [Svelte](https://svelte.dev) / [SvelteKit](https://youtu.be/UU7MgYIbtAk), [Remix](https://remix.run), and [Angular](https://docs.angularjs.org/tutorial). The unique syntax of a web client framework, no matter how idiosyncratic, _always compiles_ to HTML, CSS and JavaScript.
 
 1) https://www.youtube.com/watch?v=cuHDQhDhvPE
 
@@ -157,7 +157,7 @@ README: [Sass](https://youtu.be/APM1mcKbK7o) is a CSS-compatible language design
 
 README: Some programs, including [Cordova](https://cordova.apache.org) (commercially implemented as Capacitor & Ionic) and [Electron](https://www.electronjs.org), allow developers to bundle web applications as native apps that can run outside of the browser. A hidden, mini-browser is deployed to contain the app. [VSCode]((https://www.electronjs.org/apps/visual-studio-code)) is a popular "web app" built using Electron. The advantage of  Cordova and Electron is they allow developers to deploy one code base to multiple platforms, reducing development and maintenance costs.
 
-README: Other languages that are used to make client apps include [React-Native](https://reactnative.dev), [Dart/Flutter](https://flutter.dev), Swift, Objective C, Java, C, C++, C#, [GDScript](https://docs.godotengine.org/en/stable/index.html), Lua, Unity / C#, and others. These languages compile code to native binary or byte-code executables for running on a desktop or mobile device; [React-Native](https://github.com/necolas/react-native-web), [Flutter](https://flutter.dev/docs/deployment/web), [GoDot](https://docs.godotengine.org/en/stable/development/compiling/compiling_for_web.html), and [Unity](https://docs.unity3d.com/Manual/webgl-building.html) can also compile code so it runs in a web browser.
+README: Other languages that are used to make client apps include [React-Native](https://reactnative.dev), [Dart/Flutter](https://flutter.dev), Swift, Objective C, Java, C, C++, C#, [GDScript](https://docs.godotengine.org/en/stable/index.html), Lua, Unity / C#, [Rust](https://yew.rs/docs/en/intro/), and others. These languages compile code to native binary or byte-code executables for running on a desktop or mobile device; [React-Native](https://github.com/necolas/react-native-web), [Flutter](https://flutter.dev/docs/deployment/web), [GoDot](https://docs.godotengine.org/en/stable/development/compiling/compiling_for_web.html), and [Unity](https://docs.unity3d.com/Manual/webgl-building.html) can also compile code so it runs in a web browser.
 
 What is the advantage of using a web browser as a client?
 
@@ -167,11 +167,11 @@ What is the advantage of using a web browser as a client?
 
 You must understand how to use at least one server-side language.
 
-README: Developers use multiple _backend_ languages to handle server-side operations (e.g., updating a database, performing an API service). These backend languages include, but are not limited to, PHP, JavaScript (known as "NodeJS" on the backend), C#, Python, C++, Rust, Java, Erlang, Bash, and others:
+README: Developers use multiple _backend_ languages to handle server-side operations (e.g., updating a database, performing an API service). These backend languages include, but are not limited to, PHP, JavaScript (known as "NodeJS" on the backend), [C#](https://dotnet.microsoft.com/en-us/apps/aspnet), [Python](https://www.djangoproject.com), [C](https://docs.kore.io/4.2.0/), [C++](https://oatpp.io), Rust, [Java](https://spring.io), Erlang, Bash, and [others](https://drogon.org): 
 
 1) https://www.statista.com/statistics/793628/worldwide-developer-survey-most-used-languages/
 
-README: Some web development frameworks handle the _full stack_, web client and server, with one primary language, e.g., [Meteor](https://www.meteor.com/) (JS), [Remix](https://remix.run) (JS), [.Net](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps) (C#) and [Laravel](https://laravel.com) (PHP); these can optionally be used with different "frontend only" helper frameworks, like the ones listed above in Part 1 that focus on delivering HTML, CSS, & Javascript client pages.
+README: Some web development frameworks handle the _full stack_, web client and server, with one primary language, e.g., [Meteor](https://www.meteor.com/) (JS), [.Net](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps) (C#) and [Laravel](https://laravel.com) (PHP); these can optionally be used with different "frontend only" helper frameworks, like the ones listed above in Part 1 that focus on delivering HTML, CSS, & Javascript client pages.
 
 README: Some frameworks work better than others in certain situations due to a number of factors, including _web application architecture_, business requirements, team size, developer skill-level, and team preferences:
 
