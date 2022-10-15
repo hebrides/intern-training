@@ -80,6 +80,7 @@ You must understand the basic security strategies used for encrypting data for n
 You must become proficient, over time, with an array of skills to be able to build and deploy client-server software. 
 
 1) https://medium.com/swlh/my-software-engineer-roadmap-2fb0c02b8a08
+2) https://github.com/kamranahmedse/developer-roadmap
 
 ### Programming fundamentals
 
