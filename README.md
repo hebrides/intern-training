@@ -145,7 +145,7 @@ README: Web browsers interpret three _frontend_ [languages](https://flaviocopes.
 
 README: Technically, the client part of a web app can be written in HTML, _without CSS, or JavaScript_; however, doing so severely constrains the application's user experience. Try this out to help yourself only if you're having trouble grasping fundamentals.
 
-README: You need to understand the concept of code _frameworks_. Frameworks, in general, are software tools developers use to reduce development time. Frameworks simplify code structures and separate concerns, making teamwork easier and improving source maintainability.  
+README: You need to understand the concept of code _frameworks_. [Frameworks](https://nicozerpa.com/why-are-there-so-many-javascript-frameworks/), in general, are software tools developers use to reduce development time. Frameworks simplify code structures and separate concerns, making teamwork easier and improving source maintainability.  
 
 README: Professional web developers usually master at least one web client framework. You should make this your goal, too. 
 
