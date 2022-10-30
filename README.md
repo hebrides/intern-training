@@ -386,7 +386,7 @@ You must have basic user interface design skills, and understand what interfaces
 
 ### K. Prototyping
 
-Programming is a time and labor intensive step in the [software development life cycle](https://youtu.be/An7HC1LolDM) ([SDLC](https://theproductmanager.com/topics/software-development-life-cycle/)), requiring extensive post-debugging and QA, and therefore normally comes [after](https://orionadvisortech.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-04-at-1.13.10-PM.png) more rapidly iterative stages like planning, design and prototyping. 
+Programming is time and labor intensive. The coding step in the [software development life cycle](https://youtu.be/An7HC1LolDM) ([SDLC](https://theproductmanager.com/topics/software-development-life-cycle/)) requires extensive post-debugging, QA and testing, and therefore normally comes [after](https://orionadvisortech.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-04-at-1.13.10-PM.png) more rapidly iterative stages like planning, design and prototyping. 
 
 _Stongly consider_ using a [no code / low code](https://youtu.be/jaRCENYBuYo) [platform](https://www.makerpad.co) or [form builder](https://www.techradar.com/best/best-online-form-builder) to rapidly [prototype](https://youtu.be/_1bOaNSy5XY) your application before coding. This will help you discover and fix UI hiccups early on. You may, in fact, find a platform or builder delivers an acceptable solution to the problem you were going to solve with a custom application, [without little to no coding at all](https://youtu.be/-_xKI3GJpMM), freeing you and your business to expend efforts on other valuable pursuits.
 
