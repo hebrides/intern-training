@@ -399,7 +399,7 @@ There are [many tools](https://www.lilachbullock.com/interactive-content-tools/)
 
 _Also stongly consider_ using a [no code / low code](https://youtu.be/jaRCENYBuYo) [platform](https://www.makerpad.co) or [form builder](https://www.techradar.com/best/best-online-form-builder) to rapidly [prototype](https://youtu.be/_1bOaNSy5XY) a working application before coding. This will help you discover and fix UI hiccups early on. 
 
-You may, in fact, find a platform or builder that delivers an acceptable solution to the problem you were going to solve with a custom application, [without little to no coding at all](https://youtu.be/-_xKI3GJpMM), freeing you and your business to expend efforts on other valuable pursuits.
+You may, in fact, find a platform or builder that delivers an acceptable solution to the problem you were going to solve with a time-consuming, custom application, [with little to no coding at all](https://youtu.be/-_xKI3GJpMM), freeing you and your business to expend efforts on other valuable pursuits.
 
 - https://www.turing.com/blog/ten-best-low-code-platforms-for-2022/
 - https://hcsimulator.com
