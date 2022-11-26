@@ -44,7 +44,7 @@ You must understand the client-server model of web application design.
 
 You must understand how [network protocols](https://www.technologyuk.net/telecommunications/telecom-principles/communications-protocols.shtml) work to encode information for routing requests from clients to servers, and responses from servers to clients.
 
-README: Data flows in digital communications as [small](https://en.wikipedia.org/wiki/Datagram), managable [packets](https://youtu.be/clHBnmUckzg), with headers at the [front](https://networkengineering.stackexchange.com/questions/43589/how-does-a-nic-know-where-the-start-of-a-frame-is?rq=1) (expressing the protocol, type of data, and information about the sender and receiver), useful data packages, or "payloads", in the [middle](https://serverfault.com/questions/372930/where-is-the-actual-content-in-a-tcp-segment), and trailing [zeros](https://networkengineering.stackexchange.com/questions/28873/ethernet-the-interpacket-gap-and-idle-detection) or [footers](https://networkengineering.stackexchange.com/questions/69253/how-to-detect-start-of-fcs-in-an-ethernet-frame) at the end to signal termination. Routing and assembling transmitted [information](https://youtu.be/d9alWZRzBWk) in this manner empowers the internet's [lauded](https://blog.jim-nielsen.com/2020/the-resiliency-of-the-internet/) [resiliency](https://serverfault.com/questions/875579/network-packets-is-the-data-always-received-sequentially). 
+README: Data flows in digital communications as [small](https://en.wikipedia.org/wiki/Datagram), managable [packets](https://youtu.be/clHBnmUckzg) of binary data, with headers at the [front](https://networkengineering.stackexchange.com/questions/43589/how-does-a-nic-know-where-the-start-of-a-frame-is?rq=1) (expressing the protocol, type of data, and information about the sender and receiver), useful data packages, or "payloads", in the [middle](https://serverfault.com/questions/372930/where-is-the-actual-content-in-a-tcp-segment), and trailing [zeros](https://networkengineering.stackexchange.com/questions/28873/ethernet-the-interpacket-gap-and-idle-detection) or [footers](https://networkengineering.stackexchange.com/questions/69253/how-to-detect-start-of-fcs-in-an-ethernet-frame) at the end to signal termination. Routing and assembling transmitted [information](https://youtu.be/d9alWZRzBWk) in this manner empowers the internet's [lauded](https://blog.jim-nielsen.com/2020/the-resiliency-of-the-internet/) [resiliency](https://serverfault.com/questions/875579/network-packets-is-the-data-always-received-sequentially). 
 
 1) https://youtu.be/1Vq1lrWQAyg
 2) https://youtu.be/v8aYhOxZuNg
@@ -149,7 +149,7 @@ README: Technically, the client part of a web app can be written in HTML, _witho
 
 README: You need to understand the concept of code _frameworks_. [Frameworks](https://nicozerpa.com/why-are-there-so-many-javascript-frameworks/), in general, are software tools developers use to reduce development time. Frameworks simplify code structures and separate concerns, making teamwork easier and improving source maintainability.  
 
-README: Professional web developers usually master at least one web client framework. You should make this your goal, too. 
+README: Professional web developers usually master at least one [web client framework](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks). You should make this your goal, too. 
 
 README: Some popular _frontend (client)_ frameworks include [React](https://youtu.be/Dorf8i6lCuk) / [NextJS](https://youtu.be/1WmNXEVia8I), [Vue](https://www.youtube.com/watch?v=qZXt1Aom3Cs) / [Nuxt](https://nuxtjs.org), [Svelte](https://svelte.dev) / [SvelteKit](https://youtu.be/UU7MgYIbtAk), [Remix](https://remix.run), and [Angular](https://docs.angularjs.org/tutorial). The unique syntax of a web client framework, no matter how idiosyncratic, _always compiles_ to HTML, CSS and JavaScript.
 
@@ -171,7 +171,7 @@ What is the advantage of using a web browser as a client?
 
 You must understand how to use at least one server-side language.
 
-README: Developers use multiple _backend_ languages to handle server-side operations (e.g., updating a database, performing an API service). These backend languages include, but are not limited to, PHP, JavaScript (known as "NodeJS" on the backend), [C#](https://dotnet.microsoft.com/en-us/apps/aspnet), [Python](https://www.djangoproject.com), [C](https://docs.kore.io/4.2.0/), [C++](https://oatpp.io), Rust, [Java](https://spring.io), Erlang, Bash, and [others](https://drogon.org): 
+README: Developers use multiple _backend_ languages to handle server-side operations (e.g., updating a database, performing an API service, serving whole or part of the web client display code or response data). These backend languages include, but are not limited to, PHP, JavaScript (known as "NodeJS" on the backend), [C#](https://dotnet.microsoft.com/en-us/apps/aspnet), [Python](https://www.djangoproject.com), [C](https://docs.kore.io/4.2.0/), [C++](https://oatpp.io), Rust, [Java](https://spring.io), Erlang, Bash, and [others](https://drogon.org): 
 
 1) https://www.statista.com/statistics/793628/worldwide-developer-survey-most-used-languages/
 
