@@ -403,7 +403,7 @@ You may, in fact, find a platform or builder that delivers an acceptable solutio
 
 - https://www.turing.com/blog/ten-best-low-code-platforms-for-2022/
 - https://hypercard.org
-- (https://swf2js.com/en/
+- https://swf2js.com/en/
 - https://www.joget.org
 - https://powerapps.microsoft.com
 - https://www.honeycode.aws
