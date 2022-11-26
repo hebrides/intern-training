@@ -183,9 +183,13 @@ README: Some frameworks work better than others in certain situations due to a n
 2) https://hackernoon.com/how-to-choose-a-web-application-framework
 3) https://floverfelt.org/posts/software-best-practices.html
 
-README: Software developers, no matter what language they're using, take advantage of [libraries](https://www.techopedia.com/definition/3828/software-library) of pre-built code (often available as [FOSS](https://itsfoss.com/what-is-foss/)) to speed things up. Web developers use [special libraries](https://12factor.net/dependencies) for JavaScript programs known as "packages". Packages can be downloaded from one of two popular package repositories, [npm](https://www.npmjs.com) and [yarn](https://yarnpkg.com) (using the eponymous command line tools, `npm install` and `yarn install`). Note: Developers also add pre-built JavaScript libraries directly using special HTML links ([script](https://stackoverflow.com/questions/2872037/what-language-types-are-allowed-in-the-html-script-tag) tags) and JavaScript includes ([modules](https://stackoverflow.com/questions/950087/how-do-i-include-a-javascript-file-in-another-javascript-file#950146)). Note 2: Developers use [bundlers](https://youtu.be/5IG4UmULyoA), like Webpack / Parcel / Snowpack, to minify and combine web application code so it can be delivered to browsers more efficiently. 
+README: Software developers, no matter what language they're using, take advantage of [libraries](https://www.techopedia.com/definition/3828/software-library) of pre-built code (often available as [FOSS](https://itsfoss.com/what-is-foss/)) to speed things up. Web developers use [special libraries](https://12factor.net/dependencies) for JavaScript programs known as "packages". Packages can be downloaded from one of two popular package repositories, [npm](https://www.npmjs.com) and [yarn](https://yarnpkg.com) (using the eponymous command line tools, `npm install` and `yarn install`). 
 
-NOTE: No developer can master _every_ language, framework, library or tool. Familiarize yourself with what you need to reach _your goals_. Start simple, move to complex.
+Note 1: Developers also add pre-built JavaScript libraries directly using special HTML links ([script](https://stackoverflow.com/questions/2872037/what-language-types-are-allowed-in-the-html-script-tag) tags) and JavaScript includes ([modules](https://stackoverflow.com/questions/950087/how-do-i-include-a-javascript-file-in-another-javascript-file#950146)). 
+
+Note 2: Developers also use [bundlers](https://youtu.be/5IG4UmULyoA), like Webpack / Parcel / Snowpack, to minify and combine web application code so it can be delivered to browsers more efficiently. 
+
+README: No developer can master _every_ language, framework, library or tool. Familiarize yourself with what you need to reach _your goals_. Start simple, move to complex.
 
 ### Part 3. Web Software Tests
 
