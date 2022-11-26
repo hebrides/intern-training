@@ -338,6 +338,7 @@ Scale determines needs. A simple web app will do just fine on a single node VPS 
 29) https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-performance-testing-visual-studio-profiler
 30) https://www.youtube.com/playlist?list=PLkWRCY_kK0GgrU0L2nnRtzef8HPVsJp0r (optional)
 31) [HAProxy](https://en.wikipedia.org/wiki/HAProxy) / [Traefik](https://doc.traefik.io/traefik/)
+32) ["Edge" Computing](https://youtu.be/cEOUeItHDdo)
 
 ### G. DevSecOps
 
@@ -392,15 +393,17 @@ You must have basic user interface design skills, and understand what interfaces
 
 You must understand the importance of prototyping.
 
-Just as it's wise to plan, sketch, design, and finalize an architectural drawing before building a physical structure, so it is also wise to understake preliminary steps before coding a [software application](https://youtu.be/An7HC1LolDM). The [build phase](https://theproductmanager.com/topics/software-development-life-cycle/) of [software development]((https://orionadvisortech.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-04-at-1.13.10-PM.png)), as with construction, is time, money, and labor intensive, and consequential.  Whereas a sketch, detailed design, or mock up can be done and redone in minutes to hours, coding can take days and also requires debugging, testing, staging, QA, deployment, versioning, and maintenance after completion.
+Just as it's wise to plan, sketch, design, and finalize an architectural drawing before building a physical structure, so it is also wise to understake preliminary steps before coding a [software application](https://youtu.be/An7HC1LolDM). The [build phase](https://theproductmanager.com/topics/software-development-life-cycle/) of [software development]((https://orionadvisortech.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-04-at-1.13.10-PM.png)), as with construction, is time, money, and labor intensive, and consequential.  Whereas a sketch, detailed design, or mock up can be done and redone in minutes to hours, coding can take days and also requires debugging, versioning, testing, staging, deployment, QA, and maintenance after completion.
 
 There are [many tools](https://www.lilachbullock.com/interactive-content-tools/) and [design systems](http://figma.com/) to help designers and developers create [interative mockups](https://webflow.com) prior to commiting the work to code, or avoid coding altogether. Developers are encouraged to learn a few of these to save time and money.
 
-_Also Stongly consider_ using a [no code / low code](https://youtu.be/jaRCENYBuYo) [platform](https://www.makerpad.co) or [form builder](https://www.techradar.com/best/best-online-form-builder) to rapidly [prototype](https://youtu.be/_1bOaNSy5XY) a working application before coding. This will help you discover and fix UI hiccups early on. 
+_Also stongly consider_ using a [no code / low code](https://youtu.be/jaRCENYBuYo) [platform](https://www.makerpad.co) or [form builder](https://www.techradar.com/best/best-online-form-builder) to rapidly [prototype](https://youtu.be/_1bOaNSy5XY) a working application before coding. This will help you discover and fix UI hiccups early on. 
 
 You may, in fact, find a platform or builder that delivers an acceptable solution to the problem you were going to solve with a custom application, [without little to no coding at all](https://youtu.be/-_xKI3GJpMM), freeing you and your business to expend efforts on other valuable pursuits.
 
 - https://www.turing.com/blog/ten-best-low-code-platforms-for-2022/
+- https://hypercard.org
+- (https://swf2js.com/en/
 - https://www.joget.org
 - https://powerapps.microsoft.com
 - https://www.honeycode.aws
