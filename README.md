@@ -190,7 +190,7 @@ README: Software developers, no matter what language they're using, take advanta
 
 Note 1: Developers also add pre-built JavaScript libraries directly using special HTML links ([script](https://stackoverflow.com/questions/2872037/what-language-types-are-allowed-in-the-html-script-tag) tags) and JavaScript includes ([modules](https://stackoverflow.com/questions/950087/how-do-i-include-a-javascript-file-in-another-javascript-file#950146)). 
 
-Note 2: Developers also use [bundlers](https://youtu.be/5IG4UmULyoA), like Webpack / Parcel / Snowpack, to minify and combine web application code so it can be delivered to browsers more efficiently. 
+Note 2: Developers also use [bundlers](https://youtu.be/5IG4UmULyoA), like Webpack / [Parcel](https://github.com/parcel-bundler) / Snowpack, to minify and combine web application code so it can be delivered to browsers more efficiently. 
 
 README: No developer can master _every_ language, framework, library or tool. Familiarize yourself with what you need to reach _your goals_. Start simple, move to complex.
 
