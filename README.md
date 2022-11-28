@@ -35,10 +35,13 @@ You must understand the client-server model of web application design.
 1) https://www.omnisci.com/technical-glossary/client-server
 2) https://youtu.be/pGGDdKZvYpI
 3) https://support.microsoft.com/en-us/office/database-design-basics-eb2159cf-1e30-401a-8084-bd4f9c9ca1f5
-4) https://www.essentialsql.com/database-normalization/
-5) https://www.mongodb.com/nosql-explained/data-modeling
-6) https://www.slideshare.net/mongodb/schema-design-by-example
-7) https://youtu.be/Hf0rjtnwC9A
+4) https://www.vertabelo.com/blog/a-database-model-for-action-games/
+5) https://www.essentialsql.com/database-normalization/
+6) https://learn.microsoft.com/en-us/office/troubleshoot/access/database-normalization-description
+7) https://www.javaguicodexample.com/normalizationnotes.pdf
+8) https://www.mongodb.com/nosql-explained/data-modeling
+9) https://www.slideshare.net/mongodb/schema-design-by-example
+10) https://youtu.be/Hf0rjtnwC9A
 
 ### Protocols
 
