@@ -171,7 +171,7 @@ What is the advantage of using a web browser as a client?
 
 You must understand how to use at least one server-side language.
 
-README: Developers use multiple _backend_ languages to handle server-side operations (e.g., updating a database, performing an API service, serving [whole](https://www.monocubed.com/blog/what-is-single-page-application/) or [part](https://remix.run/blog/remix-and-the-edge) of the web client display code or response data). These backend languages include, but are not limited to, PHP, JavaScript (known as "NodeJS" on the backend), [C#](https://dotnet.microsoft.com/en-us/apps/aspnet), [Python](https://www.djangoproject.com), [C](https://docs.kore.io/4.2.0/), [C++](https://oatpp.io), Rust, [Java](https://spring.io), Erlang, Bash, and [others](https://drogon.org): 
+README: Developers use multiple _backend_ languages to handle server-side operations (e.g., updating a database, performing an API service, serving [whole](https://www.monocubed.com/blog/what-is-single-page-application/) or [part](https://web.dev/reduce-javascript-payloads-with-code-splitting/) of the [web client](https://remix.run/blog/remix-and-the-edge), or [responding](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) to client requests with data or error messages). These backend languages include, but are not limited to, PHP, JavaScript (known as "NodeJS" on the backend), [C#](https://dotnet.microsoft.com/en-us/apps/aspnet), [Python](https://www.djangoproject.com), [C](https://docs.kore.io/4.2.0/), [C++](https://oatpp.io), Rust, [Java](https://spring.io), Erlang, Bash, and [others](https://drogon.org): 
 
 1) https://www.statista.com/statistics/793628/worldwide-developer-survey-most-used-languages/
 
@@ -254,6 +254,8 @@ Watch these videos and complete the exercises within.
 13) https://youtu.be/NmwtF0fAUfI
 14) https://youtu.be/5IG4UmULyoA
 15) https://blog.warrant.dev/implementing-role-based-access-control
+16) https://www.npmjs.com/package/i18next
+17) https://web.dev/accessibility-auditing-react/
 
 ### E. DNS
 
