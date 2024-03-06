@@ -1,5 +1,11 @@
 ## Zero to Hero - SMG Mobile's Web Application Developer Intern Training Guide
 
+### Update 2024: 
+
+#AI is going to change this industry significantly. Get ready for the interstellar powered rocketships, y'all. [Development apps](https://www.ycombinator.com/launches/KZG-pythagora-first-complete-ai-developer-that-builds-apps-by-talking-to-you) are already in the works that will take what users ask them as prompts and create software. What I see is that after AI masters our techniques (the basics as outlined below), which will be the focus of the next 10-20 years, we'll start asking it to improve on what we've done at a fundamental level, so existing paradigms for everything from the hierarchy of signaling protocols to the mechnical engineering itself of our tools will undergo significant advancement. Hold on to your seats, it's going to be a wild ride!
+
+Should you still learn the nuts and bolts? Absolutely you should. 
+
 Watch the below videos, read the linked content, and complete the exercises to start your journey to becoming an _amazing web developer_.
 
 Note, you will not find complex algorithmic puzzles or tricky math problems here. Great developers are craftspersons who enjoy _making things_. Try to watch these in order, so you can build up upon basics. Think about the general problem being solved first—the purpose of the particular tool, technique, or process—before getting into details. Strive to attain the [30,000 foot view](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work) before you dive deep.
