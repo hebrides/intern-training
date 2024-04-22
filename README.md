@@ -3,7 +3,7 @@
 ### Update 2024: 
 
 ### 0. LLMs, CNNs, RNNs, GANs, and AI
-[Development apps](https://www.ycombinator.com/launches/KZG-pythagora-first-complete-ai-developer-that-builds-apps-by-talking-to-you) in the works take what users ask of them and create software. What's next for an aspiring software developer? Learning to write good prompts? Not really, as much as A.I. impresses us, it can only ever learn from what humans have already created.  
+[Development apps](https://www.ycombinator.com/launches/KZG-pythagora-first-complete-ai-developer-that-builds-apps-by-talking-to-you) in the works take what users ask of them and create software. What's next for an aspiring software developer? Learning to write good prompts? I'd argue, emphatically, no, because as much as A.I. impresses us, it can only ever learn from what humans have already created. We don't want programs to happen inside black boxes, because if something happens to them, and the A.I. can't fix it. Who will?
 
 Should you still learn the nuts and bolts? Absolutely you should. 
 
