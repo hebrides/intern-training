@@ -2,13 +2,20 @@
 
 ### Update 2024: 
 
-#AI is going to change this industry significantly. Get ready for the interstellar powered rocketships, y'all. [Development apps](https://www.ycombinator.com/launches/KZG-pythagora-first-complete-ai-developer-that-builds-apps-by-talking-to-you) are already in the works that will take what users ask them as prompts and create software. What I see is that after AI masters our techniques (the basics as outlined below), which will be the focus of the next 10-20 years, we'll start asking it to improve on what we've done at a fundamental level, so existing paradigms for everything from the hierarchy of signaling protocols to the mechnical engineering itself of our tools will undergo significant advancement. Hold on to your seats, it's going to be a wild ride!
+### 0. LLMs, CNNs, RNNs, GANs, and AI
+[Development apps](https://www.ycombinator.com/launches/KZG-pythagora-first-complete-ai-developer-that-builds-apps-by-talking-to-you) in the works take what users ask of them and create software. What's next for an aspiring software developer? Learning to write good prompts? Not really, as much as A.I. impresses us, it can only ever learn from what humans have already created.  
 
 Should you still learn the nuts and bolts? Absolutely you should. 
 
 Watch the below videos, read the linked content, and complete the exercises to start your journey to becoming an _amazing web developer_.
 
 Note, you will not find complex algorithmic puzzles or tricky math problems here. Great developers are craftspersons who enjoy _making things_. Try to watch these in order, so you can build up upon basics. Think about the general problem being solved first—the purpose of the particular tool, technique, or process—before getting into details. Strive to attain the [30,000 foot view](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work) before you dive deep.
+
+After you're familiar with the industry tools and standards, and how to solve problems on your own, take time to learn about [the buzzwords in A.I. and what they mean](https://pub.towardsai.net/most-powerful-machine-learning-models-explained-transformers-cnns-rnns-gans-3afb1180fb70). 
+
+Take some more time to [learn linear algebra](https://math.libretexts.org/Bookshelves/Linear_Algebra/A_First_Course_in_Linear_Algebra_(Kuttler)); these models are, at heart, "just" multi-variable (this is the same as high-dimensional) math formulas with some iteration thrown in.
+
+Over the next ten years, A.I. will  likely learn to mimic what we do well, that is, with fewer and fewer errors, but then might come big changes: We may be able to start asking our A.I. to improve on technology at a fundamental level. Imagine existing paradigms undergoing significant improvements for everything from the hierarchy of signaling protocols and common software patterns presented in the videos below, to the physical engineering itself of our tools. Perhaps A.I. will explain that the best computer we could hope to devise is already there, between our ears. Perhaps A.I. will "wake up", and help us understand how the wetware of our nervous system, as it processes vast inputs of information from our senses, manifests the mentality of red, the smell of mint, fears and joys, those mysteries that give our lives substance and meaning.
 
 ### A. Command Line / Bash
 
