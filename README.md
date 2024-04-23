@@ -3,7 +3,7 @@
 ### Update 2024: 
 
 ### 0. LLMs, CNNs, RNNs, GANs, and AI
-[Development apps](https://www.ycombinator.com/launches/KZG-pythagora-first-complete-ai-developer-that-builds-apps-by-talking-to-you) in the works take what users ask of them and create software. What's next for an aspiring software developer? Learning to write good prompts? I'd argue, emphatically, no, because as much as A.I. impresses us, it can only ever learn from what humans have already created. I catch A.I. creating bugs nearly every time I ask it to help me code something. If I didn't understand how code worked, how would I do this? How would a developer working on more than a hobby project catch malicious code inserted from a "bad" robot?
+[Development apps](https://www.ycombinator.com/launches/KZG-pythagora-first-complete-ai-developer-that-builds-apps-by-talking-to-you) in the works take what users ask of them and create software. What's next for an aspiring developer? Learning to write good prompts? I'd argue, emphatically, no, because as much as A.I. impresses us, it can only ever learn from what humans have already created. I catch A.I. creating bugs nearly every time I ask it to help me code something. If I didn't understand how code worked, how would I do this? How would a developer working on more than a hobby project catch malicious code inserted from a "bad" robot?
 
 Should you still learn the nuts and bolts? Absolutely you should. 
 
