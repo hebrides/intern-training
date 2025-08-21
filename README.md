@@ -45,7 +45,7 @@ You must master the command line to become a proficient contributor to a softwar
 
 You must understand the client-server model of web application design.
 
-1) https://www.omnisci.com/technical-glossary/client-server
+1) https://en.wikipedia.org/wiki/Client%E2%80%93server_model
 2) https://youtu.be/pGGDdKZvYpI
 3) https://support.microsoft.com/en-us/office/database-design-basics-eb2159cf-1e30-401a-8084-bd4f9c9ca1f5
 4) https://www.vertabelo.com/blog/a-database-model-for-action-games/
