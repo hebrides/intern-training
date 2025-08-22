@@ -181,7 +181,7 @@ README: Other [languages](https://flaviocopes.com/) that are used to make client
 
 What is the advantage of using a web browser as a client?
 
-1) https://www.knowledgeonecorp.com/blog/post/2012/06/17/Why-is-the-Web-Client-a-much-better-solution-for-applications.aspx
+1) https://stackoverflow.com/questions/522422/when-should-you-build-a-web-application-vs-a-thick-client
 
 ### Part 2. Web Server Software 
 
